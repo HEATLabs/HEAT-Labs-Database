@@ -2,24 +2,24 @@
   "agents": [
     {
       "name": "Ember",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Ember.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Ember.webp",
       "specialty": "Fireworks",
       "description": "Ember calls in an APS Turret drop at a designated location, then rushes to her allies with Haste as the turret intercepts incoming shells.",
       "story": "A vanguard supporter who protects allies in combat, using her turret to intercept enemy fire. She's annoyingly flawless: a suburban poster girl, she shines everywhere, a prom queen, a softball captain, and now an Agent showing up for her team right when they need her. Always ready for action with military precision and athletic grace, she's the first to jump in. But there's something vulnerable beneath that polished exterior, so be there for her, and you might learn her secrets.",
       "compatibleTanks": [
         {
           "name": "BAT-4M",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/bat-4m/icon_bat-4m.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/bat-4m/icon_bat-4m.webp",
           "slug": "bat-4m"
         },
         {
           "name": "M60A3E2 Bot",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/m60a3e2-bot/icon_m60a3e2-bot.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2-bot/icon_m60a3e2-bot.webp",
           "slug": "m60a3e2-bot"
         },
         {
           "name": "M60A3E2",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/m60a3e2/icon_m60a3e2.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/icon_m60a3e2.webp",
           "slug": "m60a3e2"
         }
       ]

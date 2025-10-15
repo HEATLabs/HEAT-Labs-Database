@@ -2,24 +2,24 @@
   "agents": [
     {
       "name": "Raketa",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Raketa.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Raketa.webp",
       "specialty": "Scavenge",
       "description": "Raketa loads his gun with scrap and boosts the engine. While the ability is active, he fires canister shots and his boost is increased.",
       "story": "A scavenger who uses enemy scrap to create deadly close-range weapons. He never shuts up, always cracking bad jokes and failing miserably at flirting with every woman in sight, but his real talent is turning random junk into deadly weapons. He lives for thrills and chaos, but stays ice-cold when things get rough. Don't be fooled by his jokes and games: he'll gladly sneak up on foes and stab them in the back, it's his specialty. He has done some nasty things in the past, all in the name of getting results, and he is not ashamed to admit it.",
       "compatibleTanks": [
         {
           "name": "T-62AV",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/t-62av/icon_t-62av.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp",
           "slug": "t-62av"
         },
         {
           "name": "T-72AU",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/t-72au/icon_t-72au.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/t-72au/icon_t-72au.webp",
           "slug": "t-72au"
         },
         {
           "name": "Object 287",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/object-287/icon_object-287.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/object-287/icon_object-287.webp",
           "slug": "object-287"
         }
       ]

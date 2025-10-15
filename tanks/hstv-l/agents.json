@@ -2,24 +2,24 @@
   "agents": [
     {
       "name": "Kent",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Kent.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Kent.webp",
       "specialty": "Contracts",
       "description": "Kent targets enemies and locks on them for 4s; then, the targeting becomes stationary and a ballistic strike is called on the designated spot. In 1.5s, another strike is locked onto the Contracted target and prepared, for a total of 3 strikes. Targeted enemies are Identified for all allies.",
       "story": "A hitman that makes no target safe. Once he has intel on your location, you'll face ballistic strikes unless you move. A dapper, bright, and ambitious lad, Kent exudes confidence in spades. But don't be fooled by the charm, his promising career crashed after a major incident, whether his fault or not. Talented but tarnished, joining the Agents is his last shot at redemption. He's buried his past failures deep, but he's terrified they'll surface at any minute, so he's a bit of a show off with his peculiar skill: cursed with extraordinary luck, he knows who to hit and when.",
       "compatibleTanks": [
         {
           "name": "HSTV-L",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/hstv-l/icon_hstv-l.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/hstv-l/icon_hstv-l.webp",
           "slug": "hstv-l"
         },
         {
           "name": "XM1-90",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm1-90/icon_xm1-90.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/xm1-90/icon_xm1-90.webp",
           "slug": "xm1-90"
         },
         {
           "name": "XM808 Twister",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm808-twister/icon_xm808-twister.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/xm808-twister/icon_xm808-twister.webp",
           "slug": "xm808-twister"
         }
       ]

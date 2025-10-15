@@ -2,19 +2,19 @@
   "agents": [
     {
       "name": "Hound",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Hound.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Hound.webp",
       "specialty": "Hunter's Mark",
       "description": "Identify weaknesses in opponents. After activation, looking at any tank will reveal the location of its critical modules to both Hound and his team. Aiming at any revealed critical zone and penetrating the tank is enough to hit it while Hunter's Mark is on the opponent. Critical damage on a Marked tank will extend the effect's duration.",
       "story": "A hunter who spots enemy weak points and reveals them to the team. He grew up on a remote Arctic research outpost, honing his observational skills. His world was shattered at the age of 12, when a clandestine military unit kidnapped his parents and destroyed the station, launching Hound's lifelong pursuit of the perpetrators. This led him to black ops, where he moves like a ghost across the battlefield, trusting no one and suspecting everyone. He's a kind of a Cassandra character; no one believes his paranoia. But guess who will eventually be proven right!",
       "compatibleTanks": [
         {
           "name": "Leopard 1A6A1",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/leopard-1a6a1/icon_leopard-1a6a1.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/icon_leopard-1a6a1.webp",
           "slug": "leopard-1a6a1"
         },
         {
           "name": "Leopard 2FK",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/leopard-2fk/icon_leopard-2fk.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-2fk/icon_leopard-2fk.webp",
           "slug": "leopard-2fk"
         }
       ]

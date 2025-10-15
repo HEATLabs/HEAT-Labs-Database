@@ -2,24 +2,24 @@
   "agents": [
     {
       "name": "Blitz",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Blitz.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Blitz.webp",
       "specialty": "EMP Rakete",
       "description": "Blitz loads a slow-moving missile into the gun of his vehicle. The missile can jam nearby opponents, and has detection capabilities that slow it down while it is close proximity of an enemy vehicle. The missile detonates with a delay shortly after coming into contact with an obstacle, or can be manually triggered, creating a large explosion.",
       "story": "A tech expert who jams enemy electronics and strikes hard from a distance. A tech-obsessed rule follower, Blitz would rather solve problems with gadgets than people skills, he swears the future belongs to robots and remote warfare, mocking anyone stuck in the old ways. Maximum efficiency but little empathy; he's ruthlessly smart and honest to a fault, with a laser focus that gets results. Blitz claims he's too busy for friends or dating, truth is, he's terrible at both but would never admit it.",
       "compatibleTanks": [
         {
           "name": "Leopard 1A1B",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/leopard-1a1b/icon_leopard-1a1b.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-1a1b/icon_leopard-1a1b.webp",
           "slug": "leopard-1a1b"
         },
         {
           "name": "M3A3 Bradley",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/m3a1-bradley/icon_m3a1-bradley.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m3a1-bradley/icon_m3a1-bradley.webp",
           "slug": "m3a1-bradley"
         },
         {
           "name": "XM551",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm551/icon_xm551.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/xm551/icon_xm551.webp",
           "slug": "xm551"
         }
       ]

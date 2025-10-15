@@ -2,14 +2,14 @@
   "agents": [
     {
       "name": "Anansi",
-      "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/agents/Anansi.webp",
+      "image": "https://cdn7.heatlabs.net/agents/Anansi.webp",
       "specialty": "Spectre Gunship",
       "description": "Call in the assistance of AC-130H Specter gunship. It comes equipped with a 40mm autocannon and a limited amount of ammunition for its precision 105mm gun. Take control of the weapon systems and deliver its firepower to where it's needed most.",
       "story": "A battlefield control specialist with a gunship providing backup fire. A tough cool kid from a Carribean mix of cultures, Anansi grew up watching her seamstress mom work miracles with a needle and thread. Now she's working her own kind of miracles, making money for her family and avoiding bad company. She's all laughs and stories at the bar, but ask anything personal and she clams right up, that's none of your business. And don't gamble with her unless you want to lose your shirt.",
       "compatibleTanks": [
         {
           "name": "AGDS",
-          "image": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/agds/icon_agds.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/agds/icon_agds.webp",
           "slug": "agds"
         }
       ]
