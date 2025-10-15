@@ -4,7 +4,7 @@
       "name": "Contracts",
       "description": "Kent targets enemies and locks on them for 4s; then, the targeting becomes stationary and a ballistic strike is called on the designated spot. In 1.5s, another strike is locked onto the Contracted target and prepared, for a total of 3 strikes. Targeted enemies are Identified for all allies.",
       "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm1-90/abilities/kent_contracts.webp",
-      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/placeholder/videocomingsoon.webm"
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
@@ -12,7 +12,7 @@
       "name": "Autoloader",
       "description": "Fires continuously until the magazine reserve is depleted",
       "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm1-90/abilities/autoloader_3_shot.webp",
-      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/placeholder/videocomingsoon.webm"
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
@@ -20,13 +20,13 @@
       "name": "Fastdraw Magazines",
       "description": "Load specialist munitions from the secondary magazine when a situation gets tough. These munitions are loaded independently of the primary magazine.",
       "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm1-90/abilities/fastdraw_magazines.webp",
-      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/placeholder/videocomingsoon.webm"
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Recon Probe",
       "description": "Launches up to 3 probes to detect enemies within a set radius and mark them as identified for al allies.",
       "icon": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images-Tanks@main/tanks/xm1-90/abilities/recon_probe.webp",
-      "video": "https://cdn.jsdelivr.net/gh/HEATLabs/HEAT-Labs-Images@main/placeholder/videocomingsoon.webm"
+      "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ]
 }
