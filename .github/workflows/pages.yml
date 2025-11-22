@@ -17,9 +17,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           sparse-checkout: |
-            .
-            !replays/
-            !player-scoreboards/
+            index.html
+            404.html
+            site-data/
+            game-data/
+            mock-api/
+            tanks/
+            sounds/
+            tournaments/
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
