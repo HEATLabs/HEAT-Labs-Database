@@ -6,226 +6,162 @@
     {
       "name": "Gameplay Metric 1",
       "displayName": "Block Damage",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 2",
       "displayName": "Assist in Destroying",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 3",
       "displayName": "Payback Kills",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 4",
       "displayName": "Withstand Critical Hits",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 5",
       "displayName": "Kills within Close-Quarters Distance",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 6",
       "displayName": "Deal Critical Hits in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 7",
       "displayName": "Deal All Types of Critical Hits",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 8",
       "displayName": "Deal Critical Hits",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 9",
       "displayName": "Deal Critical Hits to Ammo",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 10",
       "displayName": "Deal Critical Hits to the Fuel Tank",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 11",
       "displayName": "Deal Critical Hits to the Engine",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 12",
       "displayName": "Close-Quarters and a Longshot Kills in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 13",
       "displayName": "Deal Damage and Restore HP in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 14",
       "displayName": "Take Critical Damage and Repair Yourself in the Same Respawn",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 15",
       "displayName": "Deal Critical Hits Using Abilities",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 16",
       "displayName": "Win Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 17",
       "displayName": "Capture Base",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 18",
       "displayName": "Recapture Base",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 19",
       "displayName": "Deal Damage",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 20",
       "displayName": "Deal Longshot Damage",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 21",
       "displayName": "Get 3 Kills X times",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 22",
       "displayName": "Deal Critical Longshots",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 23",
       "displayName": "Repair Yourself with Equipment X times",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 24",
       "displayName": "Get Payback Kills in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 25",
       "displayName": "Restore HP in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 26",
       "displayName": "Get Kills in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 27",
       "displayName": "Get Kills within Close-Quarters Distance in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 28",
       "displayName": "Finish Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 29",
       "displayName": "Deal Damage by Ramming",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 30",
       "displayName": "Deal Damage Using Abilities in a Single Match",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 31",
       "displayName": "Win Match while Playing Each Role",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     },
     {
       "name": "Gameplay Metric 32",
       "displayName": "Collect all Trophies",
-      "type": "IncrementOnly",
-      "hidden": 0,
-      "defaultvalue": 0
+      "type": "IncrementOnly"
     }
   ]
 }
