@@ -1,16 +1,304 @@
 {
   "last_updated": "2026-01-06T04:10:00.366939Z",
   "game_app_id": 2100280,
-  "total_achievements": 1,
+  "total_achievements": 33,
   "achievements": [
     {
-      "name": "ACHIEVEMENT_1_NAME",
-      "displayName": "First Achievement",
-      "description": "Description of what you need to do",
-      "icon": "N/A",
-      "icongray": "N/A",
-      "hidden": 0,
-      "defaultvalue": 0
+      "number": 1,
+      "displayName": "Bullet Sponge",
+      "description": "Block over 20,000 damage",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/8597739bbaa49971a4d49dd99d488b3fd5f4c680.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_1_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/1a3f58fc69906e91bbf41acb1705cbb889f0ee56.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_1_icon_locked.jpg"
+    },
+    {
+      "number": 2,
+      "displayName": "Mine Now!",
+      "description": "Capture 60 bases in any mode",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/179be741a862c0d22f13de71592d514c5c61ed12.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_2_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/0a190caf2ddd8ca3569313eeeb3cbd5041c383e5.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_2_icon_locked.jpg"
+    },
+    {
+      "number": 3,
+      "displayName": "And Bullets for All",
+      "description": "Deal over 100,000 damage",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/e908baae12c34e7abaf3a84e98fbe793448457f3.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_3_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/5c2f41fab98069d7ff2985ca2101f50d9b60744c.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_3_icon_locked.jpg"
+    },
+    {
+      "number": 4,
+      "displayName": "In Your Element",
+      "description": "Deal 3,000 damage using abilities in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/417241a07665289f629e96dc42b65210f6aeed68.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_4_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/aedfbc817965b68b687801b7e8a5364a7c7bc2b4.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_4_icon_locked.jpg"
+    },
+    {
+      "number": 5,
+      "displayName": "Damage Control",
+      "description": "Deal 5,000 damage and restore 5,000 damage in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/2e557705e7405cef4e09b24861d9a16da3933ab3.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_5_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/18294980e671e75fdfd09f50247cd5ca3ea1fe5e.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_5_icon_locked.jpg"
+    },
+    {
+      "number": 6,
+      "displayName": "Reach Out and Touch",
+      "description": "Deal over 5,000 longshot damage in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/47e5db9e2d2590bf1a1ad6c2c0a2c8e9b80c774f.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_6_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/a92709d3199b115c838b33ff1f0e24b2226e341d.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_6_icon_locked.jpg"
+    },
+    {
+      "number": 7,
+      "displayName": "Contact Parking",
+      "description": "Deal 5,000 damage by ramming",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/088830718f519ced1b0cbab5cc35962a8376b181.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_7_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/ef16d13be154cff843b1b6166efdc0f85b23f2a0.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_7_icon_locked.jpg"
+    },
+    {
+      "number": 8,
+      "displayName": "Patch and Pray",
+      "description": "Restore 15,000 HP in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/98242310860a4a97a659bd6d31ab83a2ec7e46d2.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_8_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/3bcdd70829e840e5d6f62520ce058717f1684ee3.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_8_icon_locked.jpg"
+    },
+    {
+      "number": 9,
+      "displayName": "HEAT Legend",
+      "description": "Collect all trophies",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/cca1af253c76cc012da1c6d3f0b305027b9ee7d1.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_9_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/5cea3d51853eb0750e1027c7aefaf1fcfdda482a.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_9_icon_locked.jpg"
+    },
+    {
+      "number": 10,
+      "displayName": "HEAT Certified",
+      "description": "Finish 30 matches",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/beb97802013203f0ceba6afae5c628d01600e397.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_10_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/936ced7a5691e2f51c326dd13227e33f48c5d955.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_10_icon_locked.jpg"
+    },
+    {
+      "number": 11,
+      "displayName": "Push Back",
+      "description": "Recapture 30 bases in any mode",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/3c06f318d1778fe00a6b97e60afa953aa97e7262.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_11_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/507e27b02955443bc038705bd72029ceb95458ef.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_11_icon_locked.jpg"
+    },
+    {
+      "number": 12,
+      "displayName": "Tech Savant",
+      "description": "Repair yourself with equipment 500 times",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/6c25d7ca55b2ea484d3f78725ad318af1d70c50b.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_12_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/fc35dfb7326c0529e151cb7b51951ff3b6cf8a01.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_12_icon_locked.jpg"
+    },
+    {
+      "number": 13,
+      "displayName": "Getting Personal",
+      "description": "Get 10 kills within close-quarters distance",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/74053dbe2cf11f93e9e9443e4af827867f5f3e75.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_13_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/e19f34a0794eefd4729d08f4c589d381571b0130.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_13_icon_locked.jpg"
+    },
+    {
+      "number": 14,
+      "displayName": "Top Critic",
+      "description": "Deal 10 critical hits in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/245e20646e08403ec0795905e1adb47e85fdad02.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_14_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/5a00feed89cf4959a774079e145927bbdbe636c1.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_14_icon_locked.jpg"
+    },
+    {
+      "number": 15,
+      "displayName": "Juggernaut",
+      "description": "Get 10 kills in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/ff8b41cbc52a4d49399daac8399c156569c1dc28.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_15_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/50ce8172c3f6acf2a45eff7ef6c4ba7e8910030b.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_15_icon_locked.jpg"
+    },
+    {
+      "number": 16,
+      "displayName": "Powder Keg",
+      "description": "Deal 15 critical hits to ammo",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/0f89e663c10e00c64ca7e70451a8fe1f04af7104.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_16_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/9f10eee2feec54de03352435dc4bc00ddb3a6a12.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_16_icon_locked.jpg"
+    },
+    {
+      "number": 17,
+      "displayName": "Crisis Engineer",
+      "description": "Deal 15 critical hits to the engine",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/542e435ccbccd42b4a114576ff6d93e7bc5d83ac.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_17_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/eaa3a41c7de396b4ee72dc654ebff82198a8f33b.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_17_icon_locked.jpg"
+    },
+    {
+      "number": 18,
+      "displayName": "Fuel the Fire",
+      "description": "Deal 15 critical hits to the fuel tank",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/02f66d762b2afd4dc2f80ec57f756eabbc865c8d.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_18_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/4959da2de05806e20c3d82cde0efe47ba4a75517.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_18_icon_locked.jpg"
+    },
+    {
+      "number": 19,
+      "displayName": "Signature Move",
+      "description": "Deal 20 critical hits with abilities",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/acd67520f0c0bc440f748febd0feae073eb0ab77.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_19_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/b25628a6cb4b264c59a37aa66eef8badd605905d.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_19_icon_locked.jpg"
+    },
+    {
+      "number": 20,
+      "displayName": "Deadeye",
+      "description": "Deal 20 critical longshots",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/73308bee7f675bf25104a3a4049211b6377066e9.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_20_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/02752a8690066939ecb9fb95218dadb7e1680ab1.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_20_icon_locked.jpg"
+    },
+    {
+      "number": 21,
+      "displayName": "Settling Scores",
+      "description": "Get 20 payback kills across matches",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/138f667281ad99d77b01632bca5ec66c943f14dd.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_21_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/d435d8ee3b5b11eeceba77303b77b853d26d8eff.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_21_icon_locked.jpg"
+    },
+    {
+      "number": 22,
+      "displayName": "Sharing is Caring",
+      "description": "Assist in destroying 30 enemies",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/1e273cafe090a501ba8ce1ede13243085c41d363.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_22_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/a231155a57568cc1eaad63f3241318443254e277.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_22_icon_locked.jpg"
+    },
+    {
+      "number": 23,
+      "displayName": "Stress Test",
+      "description": "Deal 30 critical hits",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/00f7700382e1d6917f6116d00d97a3288dcfc023.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_23_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/1636792eeba4732f2ec556fab89753224662d0dd.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_23_icon_locked.jpg"
+    },
+    {
+      "number": 24,
+      "displayName": "Hat-Trick Hero",
+      "description": "Get 3 kills in a single respawn, 10 times",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/3b9de7bba34131751a35911216556b5fb44b71af.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_24_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/e5e5010620a589932ea5d5cdb36cde3dd3ed1ce4.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_24_icon_locked.jpg"
+    },
+    {
+      "number": 25,
+      "displayName": "Point Blank",
+      "description": "Get 5 kills within close-quarters distance in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/ac3747ce3ee7483751b16704da19a4e111f0c474.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_25_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/a39694c7efe77e9acfe59969159808725c1bc36a.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_25_icon_locked.jpg"
+    },
+    {
+      "number": 26,
+      "displayName": "Reckoning Day",
+      "description": "Get 5 payback kills in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/0358d52c54e9f2bdaf8d5ee13080415195715831.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_26_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/7675c24e430939778afe4c8da0154e13b2a8d982.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_26_icon_locked.jpg"
+    },
+    {
+      "number": 27,
+      "displayName": "R&D",
+      "description": "Deal all types of critical hits in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/b1313e471bb9225149a5a121236db42b00027c53.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_27_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/4681f99c5bd987b78482f863d62d6e4d509f4164.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_27_icon_locked.jpg"
+    },
+    {
+      "number": 28,
+      "displayName": "Close and Far",
+      "description": "Get a close-quarters kill and a longshot kill in a single match",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/5abe9af4733b800d124694e8bf7d60c880180972.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_28_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/f73d851a58e4532abe0d92640991e5ceab620e65.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_28_icon_locked.jpg"
+    },
+    {
+      "number": 29,
+      "displayName": "Self-Made Tank",
+      "description": "Take critical damage and repair yourself in the same respawn",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/e682d81ebdfb0e63da24004ba03247d5811a5e91.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_29_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/fafc0396b8c2ac785191f7d7f88c39a376fdb3da.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_29_icon_locked.jpg"
+    },
+    {
+      "number": 30,
+      "displayName": "First Blood",
+      "description": "Win 5 matches",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/894d369adaec97c1b0739b0aaa0fd0e9cf79d930.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_30_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/44a761d2b59cebe9358d29ffa4c4928fe7c8eac0.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_30_icon_locked.jpg"
+    },
+    {
+      "number": 31,
+      "displayName": "For All Mankind",
+      "description": "Win 50 matches",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/59896e1e891cf498aa3a9e96fb6dd7f011d12a69.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_31_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/2cc1c57228962b170e3a052e7383279fd705020f.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_31_icon_locked.jpg"
+    },
+    {
+      "number": 32,
+      "displayName": "Cross-Trained",
+      "description": "Win at least one match while playing each role",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/cb6bd61e0e536d1b13604407121d8c6871772de0.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_32_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/01a2a44e64bb753bc506a30aa4f9f30248123a5c.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_32_icon_locked.jpg"
+    },
+    {
+      "number": 33,
+      "displayName": "Battle Scars",
+      "description": "Withstand 15 critical hits",
+      "iconUnlocked": "https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/2100280/c94ed187ba065de3bb8ab373a9887341667ba145.jpg",
+      "iconUnlockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_33_icon_unlocked.jpg",
+      "iconLocked": "http://shared.steamstatic.com/community_assets/images/apps/2100280/2e83091c322c24d8306c40ce4739b42f3b680f88.jpg",
+      "iconLockedFallback": "https://cdn2.heatlabs.net/game-data/steam_achievement_images/achievement_33_icon_locked.jpg"
     }
   ]
 }
