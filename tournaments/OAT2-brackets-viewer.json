@@ -1,0 +1,627 @@
+{
+  "total_teams": "27",
+  "top_3_teams": [
+    {
+      "team_name": "3Mid",
+      "team_logo": "https://cdn5.heatlabs.net/logo/logo.webp",
+      "team_captain": "vadi_1_4",
+      "team_description": "3Mid is a group of six Ukrainians with backgrounds in various game but found PCW easy to get into and enjoy. They have experience playing in the Alpha #1 Tournament.",
+      "team_motto": "N/A",
+      "team_members": "W00DI, Destroy_Mix, _Androni_, vadi_1_4, dema_GG_UA, Mmonstrik_PRO",
+      "team_tanks": [
+        {
+          "player_name": "W00DI",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "Destroy_Mix",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "_Androni_",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        },
+        {
+          "player_name": "vadi_1_4",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        },
+        {
+          "player_name": "dema_GG_UA",
+          "tank_name": "Leopard 1A6A1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/icon_leopard-1a6a1.webp"
+        },
+        {
+          "player_name": "Mmonstrik_PRO",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        }
+      ]
+    },
+    {
+      "team_name": "Large",
+      "team_logo": "https://cdn5.heatlabs.net/logo/logo.webp",
+      "team_captain": "BiggestMeta",
+      "team_description": "A bag of unserious teammates with tournament experience from  WoT.",
+      "team_motto": "N/A",
+      "team_members": "BiggestMeta, CoolestKern, PM_Loves_Hoarce, thehobostrangle, CraziestChris, Hoarce_Loves_PM",
+      "team_tanks": [
+        {
+          "player_name": "BiggestMeta",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "CoolestKern",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "PM_Loves_Hoarce",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        },
+        {
+          "player_name": "thehobostrangle",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        },
+        {
+          "player_name": "CraziestChris",
+          "tank_name": "Leopard 1A6A1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/icon_leopard-1a6a1.webp"
+        },
+        {
+          "player_name": "Hoarce_Loves_PM",
+          "tank_name": "AGDS",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/agds/icon_agds.webp"
+        }
+      ]
+    },
+    {
+      "team_name": "TEAM48",
+      "team_logo": "https://cdn13.heatlabs.net/tournament-team-logos/team48.webp",
+      "team_captain": "__4lpha__",
+      "team_description": "A group of friends, of which most are in the World of Tanks clan: 48.",
+      "team_motto": "REP 48!",
+      "team_members": "__4lpha__, __Max1mus__, Krias , rooFV, iain11, iksta101",
+      "team_tanks": [
+        {
+          "player_name": "__4lpha",
+          "tank_name": "XM1-90",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/xm1-90/icon_xm1-90.webp"
+        },
+        {
+          "player_name": "__Max1mus__",
+          "tank_name": "AGDS",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/agds/icon_agds.webp"
+        },
+        {
+          "player_name": "Krias",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "rooFV",
+          "tank_name": "T-62AV",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/t-62av/icon_t-62av.webp"
+        },
+        {
+          "player_name": "iain11",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        },
+        {
+          "player_name": "iksta101",
+          "tank_name": "M1E1",
+          "tank_image": "https://cdn7.heatlabs.net/tanks/m1e1/icon_m1e1.webp"
+        }
+      ]
+    }
+  ],
+  "winners_bracket": {
+    "rounds": [
+      {
+        "round_name": "Round 1",
+        "matches": [
+          {
+            "match_id": 1,
+            "team1": "Immortals",
+            "team2": "Large",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Large"
+          },
+          {
+            "match_id": 2,
+            "team1": "Magnificent Boys",
+            "team2": "NK",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "Magnificent Boys"
+          },
+          {
+            "match_id": 3,
+            "team1": "P.E.B.K.A.C.",
+            "team2": "Pincer",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Pincer"
+          },
+          {
+            "match_id": 4,
+            "team1": "Project Gamers",
+            "team2": "Purple",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Project Gamers"
+          },
+          {
+            "match_id": 5,
+            "team1": "RakiVDrake",
+            "team2": "ResidentSleepers",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "RakiVDrake"
+          },
+          {
+            "match_id": 6,
+            "team1": "ShakalSquad",
+            "team2": "TEAM48",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "TEAM48"
+          },
+          {
+            "match_id": 7,
+            "team1": "Tank Edet I Strelyayet",
+            "team2": "Taranka",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Tank Edet I Strelyayet"
+          },
+          {
+            "match_id": 8,
+            "team1": "Unity-For-Success",
+            "team2": "idk",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "idk"
+          },
+          {
+            "match_id": 9,
+            "team1": "CashBack",
+            "team2": "CCO",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "CashBack"
+          },
+          {
+            "match_id": 10,
+            "team1": "BLUTRAUSCH",
+            "team2": "Ersatzbank",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Ersatzbank"
+          },
+          {
+            "match_id": 11,
+            "team1": "KLTK",
+            "team2": "PROBITIE",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "PROBITIE"
+          }
+        ]
+      },
+      {
+        "round_name": "Round 2",
+        "matches": [
+          {
+            "match_id": 15,
+            "team1": "1CZSK",
+            "team2": "Large",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Large"
+          },
+          {
+            "match_id": 16,
+            "team1": "Magnificent Boys",
+            "team2": "Pincer",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "Pincer"
+          },
+          {
+            "match_id": 17,
+            "team1": "3Mid",
+            "team2": "Project Gamers",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "3Mid"
+          },
+          {
+            "match_id": 18,
+            "team1": "404 Name not found",
+            "team2": "RakiVDrake",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "404 Name not found"
+          },
+          {
+            "match_id": 19,
+            "team1": "CLOWNS",
+            "team2": "TEAM48",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "TEAM48"
+          },
+          {
+            "match_id": 20,
+            "team1": "Tank Edet I Strelyayet",
+            "team2": "idk",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Tank Edet I Strelyayet"
+          },
+          {
+            "match_id": 21,
+            "team1": "Ghost Alpha Generation",
+            "team2": "CashBack",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "CashBack"
+          },
+          {
+            "match_id": 22,
+            "team1": "Ersatzbank",
+            "team2": "PROBITIE",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "PROBITIE"
+          }
+        ]
+      },
+      {
+        "round_name": "Round 3",
+        "matches": [
+          {
+            "match_id": 35,
+            "team1": "Large",
+            "team2": "Pincer",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "Pincer"
+          },
+          {
+            "match_id": 36,
+            "team1": "3Mid",
+            "team2": "404 Name not found",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "3Mid"
+          },
+          {
+            "match_id": 37,
+            "team1": "TEAM48",
+            "team2": "Tank Edet I Strelyayet",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "TEAM48"
+          },
+          {
+            "match_id": 38,
+            "team1": "CashBack",
+            "team2": "PROBITIE",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "CashBack"
+          }
+        ]
+      },
+      {
+        "round_name": "Quarterfinals",
+        "matches": [
+          {
+            "match_id": 45,
+            "team1": "Pincer",
+            "team2": "3Mid",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "3Mid"
+          },
+          {
+            "match_id": 46,
+            "team1": "TEAM48",
+            "team2": "CashBack",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "TEAM48"
+          }
+        ]
+      },
+      {
+        "round_name": "Semifinals",
+        "matches": [
+          {
+            "match_id": 50,
+            "team1": "3Mid",
+            "team2": "TEAM48",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "3Mid"
+          }
+        ]
+      },
+      {
+        "round_name": "Finals",
+        "matches": [
+          {
+            "match_id": 52,
+            "team1": "3Mid",
+            "team2": "Large",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Large"
+          },
+          {
+            "match_id": 53,
+            "team1": "3Mid",
+            "team2": "Large",
+            "team1Score": 2,
+            "team2Score": 1,
+            "winner": "3Mid"
+          }
+        ]
+      }
+    ]
+  },
+  "losers_bracket": {
+    "rounds": [
+      {
+        "round_name": "Losers Round 1",
+        "matches": [
+          {
+            "match_id": 12,
+            "team1": "NK",
+            "team2": "P.E.B.K.A.C.",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "NK"
+          },
+          {
+            "match_id": 13,
+            "team1": "Taranka",
+            "team2": "Unity-For-Success",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Taranka"
+          },
+          {
+            "match_id": 14,
+            "team1": "BLUTRAUSCH",
+            "team2": "KLTK",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "BLUTRAUSCH"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 2",
+        "matches": [
+          {
+            "match_id": 30,
+            "team1": "Ersatzbank",
+            "team2": "Immortals",
+            "team1Score": 2,
+            "team2Score": 1,
+            "winner": "Ersatzbank"
+          },
+          {
+            "match_id": 29,
+            "team1": "Ghost Alpha Generation",
+            "team2": "NK",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Ghost Alpha Generation"
+          },
+          {
+            "match_id": 28,
+            "team1": "idk",
+            "team2": "Purple",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "Purple"
+          },
+          {
+            "match_id": 27,
+            "team1": "CLOWNS",
+            "team2": "ResidentSleepers",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "CLOWNS"
+          },
+          {
+            "match_id": 26,
+            "team1": "RakiVDrake",
+            "team2": "ShakalSquad",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "RakiVDrake"
+          },
+          {
+            "match_id": 25,
+            "team1": "Project Gamers",
+            "team2": "Taranka",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Project Gamers"
+          },
+          {
+            "match_id": 24,
+            "team1": "Magnificent Boys",
+            "team2": "CCO",
+            "team1Score": 0,
+            "team2Score": 0,
+            "winner": "Magnificent Boys"
+          },
+          {
+            "match_id": 23,
+            "team1": "1CZSK",
+            "team2": "BLUTRAUSCH",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "BLUTRAUSCH"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 3",
+        "matches": [
+          {
+            "match_id": 34,
+            "team1": "Ersatzbank",
+            "team2": "Ghost Alpha Generation",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "Ghost Alpha Generation"
+          },
+          {
+            "match_id": 33,
+            "team1": "Purple",
+            "team2": "CLOWNS",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "CLOWNS"
+          },
+          {
+            "match_id": 32,
+            "team1": "RakiVDrake",
+            "team2": "Project Gamers",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Project Gamers"
+          },
+          {
+            "match_id": 31,
+            "team1": "Magnificent Boys",
+            "team2": "BLUTRAUSCH",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Magnificent Boys"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 4",
+        "matches": [
+          {
+            "match_id": 40,
+            "team1": "404 Name not found",
+            "team2": "Ghost Alpha Generation",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "404 Name not found"
+          },
+          {
+            "match_id": 39,
+            "team1": "Large",
+            "team2": "CLOWNS",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Large"
+          },
+          {
+            "match_id": 42,
+            "team1": "PROBITIE",
+            "team2": "Project Gamers",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "PROBITIE"
+          },
+          {
+            "match_id": 41,
+            "team1": "Tank Edet I Strelyayet",
+            "team2": "Magnificent Boys",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Magnificent Boys"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 5",
+        "matches": [
+          {
+            "match_id": 43,
+            "team1": "404 Name not found",
+            "team2": "Large",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "Large"
+          },
+          {
+            "match_id": 44,
+            "team1": "PROBITIE",
+            "team2": "Magnificent Boys",
+            "team1Score": 2,
+            "team2Score": 1,
+            "winner": "PROBITIE"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 6",
+        "matches": [
+          {
+            "match_id": 48,
+            "team1": "CashBack",
+            "team2": "Large",
+            "team1Score": 1,
+            "team2Score": 2,
+            "winner": "Large"
+          },
+          {
+            "match_id": 47,
+            "team1": "Pincer",
+            "team2": "PROBITIE",
+            "team1Score": 2,
+            "team2Score": 0,
+            "winner": "Pincer"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 7",
+        "matches": [
+          {
+            "match_id": 49,
+            "team1": "Large",
+            "team2": "Pincer",
+            "team1Score": 2,
+            "team2Score": 1,
+            "winner": "Large"
+          }
+        ]
+      },
+      {
+        "round_name": "Losers Round 8",
+        "matches": [
+          {
+            "match_id": 51,
+            "team1": "TEAM48",
+            "team2": "Large",
+            "team1Score": 0,
+            "team2Score": 2,
+            "winner": "Large"
+          }
+        ]
+      }
+    ]
+  }
+}
