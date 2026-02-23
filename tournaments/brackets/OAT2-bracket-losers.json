@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Alpha #2 Tournament - Losers Bracket",
-      "type": "double_elimination",
+      "type": "single_elimination",
       "settings": {
         "size": 27,
         "seedOrdering": ["inner_outer"],
