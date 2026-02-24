@@ -41,8 +41,8 @@
       "child_count": 3,
       "status": 3,
       "description": "P.E.B.K.A.C. no-showed",
-      "opponent1": { "id": 11, "score": 0, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 3, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 11, "score": 0, "result": "win" },
+      "opponent2": { "id": 3, "score": 0, "result": "loss" }
     },
     {
       "id": 2,
@@ -53,8 +53,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Taranka from round 1, Unity-For-Success from round 1",
-      "opponent1": { "id": 16, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 8, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 16, "score": 2, "result": "win" },
+      "opponent2": { "id": 8, "score": 0, "result": "loss" }
     },
     {
       "id": 3,
@@ -65,8 +65,8 @@
       "child_count": 3,
       "status": 4,
       "description": "BLUTRAUSCH from round 1, KLTK from round 1",
-      "opponent1": { "id": 19, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 21, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 19, "score": 2, "result": "win" },
+      "opponent2": { "id": 21, "score": 0, "result": "loss" }
     },
     {
       "id": 4,
@@ -77,8 +77,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Ersatzbank from round 2, Immortals from round 1",
-      "opponent1": { "id": 20, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 1, "score": 1, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 20, "score": 2, "result": "win" },
+      "opponent2": { "id": 1, "score": 1, "result": "loss" }
     },
     {
       "id": 5,
@@ -89,8 +89,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Ghost Alpha Generation from round 2",
-      "opponent1": { "id": 27, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 11, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 27, "score": 2, "result": "win" },
+      "opponent2": { "id": 11, "score": 0, "result": "loss" }
     },
     {
       "id": 6,
@@ -101,8 +101,8 @@
       "child_count": 3,
       "status": 3,
       "description": "team idk no-showed, team idk from round 2, Purple from round 1",
-      "opponent1": { "id": 17, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 13, "score": 0, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 17, "score": 0, "result": "loss" },
+      "opponent2": { "id": 13, "score": 0, "result": "win" }
     },
     {
       "id": 7,
@@ -113,8 +113,8 @@
       "child_count": 3,
       "status": 4,
       "description": "CLOWNS from round 2, ResidentSleepers from round 1",
-      "opponent1": { "id": 26, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 14, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 26, "score": 2, "result": "win" },
+      "opponent2": { "id": 14, "score": 0, "result": "loss" }
     },
     {
       "id": 8,
@@ -125,8 +125,8 @@
       "child_count": 3,
       "status": 3,
       "description": "ShakalSquad no-showed, RakiVDrake from round 2, ShakalSquad from round 1",
-      "opponent1": { "id": 5, "score": 0, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 6, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 5, "score": 0, "result": "win" },
+      "opponent2": { "id": 6, "score": 0, "result": "loss" }
     },
     {
       "id": 9,
@@ -137,8 +137,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Project Gamers from round 2",
-      "opponent1": { "id": 4, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 16, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 4, "score": 2, "result": "win" },
+      "opponent2": { "id": 16, "score": 0, "result": "loss" }
     },
     {
       "id": 10,
@@ -149,8 +149,8 @@
       "child_count": 3,
       "status": 3,
       "description": "CCO no-showed",
-      "opponent1": { "id": 2, "score": 0, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 18, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 2, "score": 0, "result": "win" },
+      "opponent2": { "id": 18, "score": 0, "result": "loss" }
     },
     {
       "id": 11,
@@ -161,8 +161,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Magnificent Boys from round 2, CCO from round 1",
-      "opponent1": { "id": 23, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 19, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 23, "score": 0, "result": "loss" },
+      "opponent2": { "id": 19, "score": 2, "result": "win" }
     },
     {
       "id": 12,
@@ -173,8 +173,8 @@
       "child_count": 3,
       "status": 4,
       "description": "1CZSK from round 2",
-      "opponent1": { "id": 20, "score": 1, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 27, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 20, "score": 1, "result": "loss" },
+      "opponent2": { "id": 27, "score": 2, "result": "win" }
     },
     {
       "id": 13,
@@ -185,8 +185,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 13, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 26, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 13, "score": 0, "result": "loss" },
+      "opponent2": { "id": 26, "score": 2, "result": "win" }
     },
     {
       "id": 14,
@@ -197,8 +197,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 5, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 4, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 5, "score": 0, "result": "loss" },
+      "opponent2": { "id": 4, "score": 2, "result": "win" }
     },
     {
       "id": 15,
@@ -209,8 +209,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 2, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 19, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 2, "score": 2, "result": "win" },
+      "opponent2": { "id": 19, "score": 0, "result": "loss" }
     },
     {
       "id": 16,
@@ -221,8 +221,8 @@
       "child_count": 3,
       "status": 4,
       "description": "404 Name not found from round 3",
-      "opponent1": { "id": 25, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 27, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 25, "score": 2, "result": "win" },
+      "opponent2": { "id": 27, "score": 0, "result": "loss" }
     },
     {
       "id": 17,
@@ -233,8 +233,8 @@
       "child_count": 3,
       "status": 4,
       "description": "large from round 3",
-      "opponent1": { "id": 10, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 26, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 10, "score": 2, "result": "win" },
+      "opponent2": { "id": 26, "score": 0, "result": "loss" }
     },
     {
       "id": 18,
@@ -245,8 +245,8 @@
       "child_count": 3,
       "status": 4,
       "description": "PROBITIE from round 3",
-      "opponent1": { "id": 22, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 4, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 22, "score": 2, "result": "win" },
+      "opponent2": { "id": 4, "score": 0, "result": "loss" }
     },
     {
       "id": 19,
@@ -257,8 +257,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Tank Edet I Strelyayet from round 3",
-      "opponent1": { "id": 7, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 2, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 7, "score": 0, "result": "loss" },
+      "opponent2": { "id": 2, "score": 2, "result": "win" }
     },
     {
       "id": 20,
@@ -269,8 +269,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 25, "score": 1, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 10, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 25, "score": 1, "result": "loss" },
+      "opponent2": { "id": 10, "score": 2, "result": "win" }
     },
     {
       "id": 21,
@@ -281,8 +281,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 22, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 2, "score": 1, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 22, "score": 2, "result": "win" },
+      "opponent2": { "id": 2, "score": 1, "result": "loss" }
     },
     {
       "id": 22,
@@ -293,8 +293,8 @@
       "child_count": 3,
       "status": 4,
       "description": "CashBack from round 4",
-      "opponent1": { "id": 9, "score": 1, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 10, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 9, "score": 1, "result": "loss" },
+      "opponent2": { "id": 10, "score": 2, "result": "win" }
     },
     {
       "id": 23,
@@ -305,8 +305,8 @@
       "child_count": 3,
       "status": 4,
       "description": "Pincer from round 4",
-      "opponent1": { "id": 12, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 22, "score": 0, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 12, "score": 2, "result": "win" },
+      "opponent2": { "id": 22, "score": 0, "result": "loss" }
     },
     {
       "id": 24,
@@ -317,8 +317,8 @@
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
-      "opponent1": { "id": 10, "score": 2, "forfeit": false, "result": "win" },
-      "opponent2": { "id": 12, "score": 1, "forfeit": false, "result": "loss" }
+      "opponent1": { "id": 10, "score": 2, "result": "win" },
+      "opponent2": { "id": 12, "score": 1, "result": "loss" }
     },
     {
       "id": 25,
@@ -329,8 +329,8 @@
       "child_count": 3,
       "status": 4,
       "description": "TEAM48 from Semifinals ",
-      "opponent1": { "id": 15, "score": 0, "forfeit": false, "result": "loss" },
-      "opponent2": { "id": 10, "score": 2, "forfeit": false, "result": "win" }
+      "opponent1": { "id": 15, "score": 0, "result": "loss" },
+      "opponent2": { "id": 10, "score": 2, "result": "win" }
     }
   ],
   "participants": [
