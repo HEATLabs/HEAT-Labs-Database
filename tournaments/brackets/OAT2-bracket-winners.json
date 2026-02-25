@@ -27,7 +27,8 @@
     { "id": 3, "stage_id": 1, "group_id": 1, "number": 3 },
     { "id": 4, "stage_id": 1, "group_id": 1, "number": 4 },
     { "id": 5, "stage_id": 1, "group_id": 1, "number": 5 },
-    { "id": 6, "stage_id": 1, "group_id": 1, "number": 6 }
+    { "id": 6, "stage_id": 1, "group_id": 1, "number": 6 },
+    { "id": 7, "stage_id": 1, "group_id": 1, "number": 7 }
   ],
   "matches": [
     {
@@ -359,7 +360,7 @@
       "number": 2,
       "stage_id": 1,
       "group_id": 1,
-      "round_id": 6,
+      "round_id": 7,
       "child_count": 3,
       "status": 4,
       "description": "DESCRIPTION PLACEHOLDER",
