@@ -9,18 +9,13 @@
       "compatibleTanks": [
         {
           "name": "XM1-90",
-          "image": "https://cdn7.heatlabs.net/tanks/xm1-90/icon_xm1-90.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/xm1-90/xm190.webp",
           "slug": "xm1-90"
         },
         {
-          "name": "HSTV-L",
-          "image": "https://cdn7.heatlabs.net/tanks/hstv-l/icon_hstv-l.webp",
-          "slug": "hstv-l"
-        },
-        {
-          "name": "XM808 Twister",
-          "image": "https://cdn7.heatlabs.net/tanks/xm808-twister/icon_xm808-twister.webp",
-          "slug": "xm808-twister"
+          "name": "ALVT",
+          "image": "https://cdn7.heatlabs.net/tanks/alvt/ALVT.webp",
+          "slug": "alvt"
         }
       ]
     }

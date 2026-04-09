@@ -1,25 +1,20 @@
 {
   "agents": [
     {
-      "name": "Data Unavailable",
-      "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-      "specialty": "To be announced",
-      "description": "Information about this agent's abilities is currently unavailable.",
-      "story": "This agent is not yet linked to any known tanks. Once released, more information will be provided here.",
+      "name": "Hound",
+      "image": "https://cdn7.heatlabs.net/agents/Hound.webp",
+      "specialty": "Hunter's Mark",
+      "description": "Identify weaknesses in opponents. After activation, looking at any tank will reveal the location of its critical modules to both Hound and his team. Aiming at any revealed critical zone and penetrating the tank is enough to hit it while Hunter's Mark is on the opponent. Critical damage on a Marked tank will extend the effect's duration.",
+      "story": "A hunter who spots enemy weak points and reveals them to the team. He grew up on a remote Arctic research outpost, honing his observational skills. His world was shattered at the age of 12, when a clandestine military unit kidnapped his parents and destroyed the station, launching Hound's lifelong pursuit of the perpetrators. This led him to black ops, where he moves like a ghost across the battlefield, trusting no one and suspecting everyone. He's a kind of a Cassandra character; no one believes his paranoia. But guess who will eventually be proven right!",
       "compatibleTanks": [
         {
-          "name": "No Data Yet",
-          "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-          "slug": "amx-10-rc"
+          "name": "Leopard 1A6A1",
+          "image": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/Leo_1a6a1.webp",
+          "slug": "leopard-1a6a1"
         },
         {
-          "name": "No Data Yet",
-          "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-          "slug": "amx-10-rc"
-        },
-        {
-          "name": "No Data Yet",
-          "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+          "name": "AMX-10 RC",
+          "image": "https://cdn7.heatlabs.net/tanks/amx-10-rc/AMX_10RC.webp",
           "slug": "amx-10-rc"
         }
       ]
