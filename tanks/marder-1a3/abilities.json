@@ -1,30 +1,30 @@
 {
   "agentAbility": [
     {
-      "name": "Ability Name",
-      "description": "Ability Description",
+      "name": "Strike Laser",
+      "description": "Calls in an aircraft and takes control of its targeting camera to lock on to an enemy vehicle. The aircraft points a laser that emits damaging pulses.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Attack Name",
-      "description": "Attack Description",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Autocannon",
+      "description": "Fires large-caliber armor-piercing rounds capable of piercing lightly armored vehicles.",
+      "icon": "https://cdn7.heatlabs.net/tanks/m3a1-bradley/abilities/autocannon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Ability Name",
-      "description": "Ability Description",
+      "name": "Suppression Strike",
+      "description": " Switches to guided HE ATGM firing mode that applies Fragile stacks.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Ability Name",
-      "description": "Ability Description",
+      "name": "Smart Mines",
+      "description": "Deploys sentry mines that shoot and detonate, dealing damage and applying Fragile.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

@@ -1,30 +1,30 @@
 {
   "agentAbility": [
     {
-      "name": "Scavenge",
-      "description": "Raketa loads his gun with scrap and boosts the engine. While the ability is active, he fires canister shots and his boost is increased.",
+      "name": "Rampage",
+      "description": "Brings on a destructive rage, firing faster and surviving any hit with at least 1 HP.",
       "icon": "https://cdn7.heatlabs.net/tanks/t-62av/abilities/raketa_scavange.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Autoloader",
+      "description": "Loads a magazine which can rapidly fire, followed by a longer reload. Most effective at close range.",
+      "icon": "https://cdn7.heatlabs.net/tanks/t-62av/abilities/autoloader_3_shot.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Harpoon",
+      "description": "Launches a chained harpoon that pulls the vehicle toward the hit point and Immobilizes enemy vehicles on impact.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Combat Cage",
+      "description": "Deploys hedgehogs around the vehicle to trap enemies in close combat; hedgehogs deal damage when pushed and can be destroyed by reactivating the ability.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

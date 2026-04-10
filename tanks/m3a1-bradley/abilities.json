@@ -18,13 +18,13 @@
   "tankAbilities": [
     {
       "name": "TOW ATGM",
-      "description": "Fires up to 2 tube launched, optically tracked, wire-guided missiles with excellent anti-armor capabilities.",
+      "description": "Activates TOW missiles to punch through armor and set targets on fire.",
       "icon": "https://cdn7.heatlabs.net/tanks/m3a1-bradley/abilities/tow_atgm.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Smoke Launchers",
-      "description": "Deploy a smoke screen in front of the vehicle to obscure enemy vision.",
+      "name": "Laser Designator.",
+      "description": "Traces a target and makes it Vulnerable.",
       "icon": "https://cdn7.heatlabs.net/tanks/m3a1-bradley/abilities/smoke_launchers.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

@@ -1,30 +1,30 @@
 {
   "agentAbility": [
     {
-      "name": "EMP Rakete",
-      "description": "Blitz loads a slow-moving missile into the gun of his vehicle. The missile can jam nearby opponents, and has detection capabilities that slow it down while it is close proximity of an enemy vehicle. The missile detonates with a delay shortly after coming into contact with an obstacle, or can be manually triggered, creating a large explosion.",
-      "icon": "https://cdn7.heatlabs.net/tanks/xm551/abilities/emp_rakete.webp",
+      "name": " Lights Out",
+      "description": "Deploys an EMP bomb via drone. Pulses Slow enemies before the final detonation Jams and damages them.",
+      "icon": "https://cdn7.heatlabs.net/tanks/hstv-l/abilities/kent_contracts.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Single Shot",
+      "description": "Requires reload after each shot, most accurate when stationary.",
+      "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/singleshot.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Canister Volley",
+      "description": " Loads a close-range canister shell.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Manual Emergency APS",
+      "description": "An emergency shield protecting the tank from the next incoming high-caliber shell.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

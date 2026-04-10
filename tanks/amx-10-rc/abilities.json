@@ -1,30 +1,30 @@
 {
   "agentAbility": [
     {
-      "name": "To be announced",
-      "description": "Information about this tank's agent ability is currently unavailable.",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Hunting Time",
+      "description": "Launches a TV missile that destroys marked lower-HP enemies and Traces others. Each destruction recharges the Ultimate for a short time.",
+      "icon": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/abilities/hound_mark_of_the_hunter.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Single Shot",
+      "description": "Requires reload after each shot, most accurate when stationary.",
+      "icon": "https://cdn7.heatlabs.net/tanks/leopard-1a6a1/abilities/singleshot.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "UAV Drone.",
+      "description": "Scouts the area and Traces enemies after lock-on.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Top-Attack Missiles",
+      "description": "Lock on to one target or up to two Traced enemies for a missile strike.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
