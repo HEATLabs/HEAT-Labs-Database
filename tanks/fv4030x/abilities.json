@@ -1,30 +1,30 @@
 {
   "agentAbility": [
     {
-      "name": "To be announced",
-      "description": "Information about this tank's agent ability is currently unavailable.",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Creeping Barrage",
+      "description": "Calls in a moving artillery strike with HE shells to clear positions and support allied pushes.",
+      "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/air_bomber.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
-      "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "name": "Single Shot",
+      "description": "Requires reload after each shot, most accurate when stationary.",
+      "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/singleshot.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Jamming Field",
+      "description": "Projects electrical interference around the vehicle, applying Jammed and blocking enemy ability usage.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Bastion",
+      "description": "Deployable battlefield cover that intercepts shells and mitigates incoming damage.",
       "icon": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

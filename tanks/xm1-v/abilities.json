@@ -1,8 +1,8 @@
 {
   "agentAbility": [
     {
-      "name": "Shock and Awe",
-      "description": "Chopper calls in a favor from his friend in the Air Force: a B-52 bomber flies over and drops its payload on the indicated point.",
+      "name": "Grand Slam",
+      "description": "Calls in a massive bomb strike after a delay. The bomb penetrates objects and detonates underground, creating a seismic blast wave that pushes enemies back.",
       "icon": "https://cdn7.heatlabs.net/tanks/xm1-v/abilities/air_bomber.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -17,15 +17,15 @@
   ],
   "tankAbilities": [
     {
-      "name": "Deploy Mines",
-      "description": "Deploys a minefield at the target location. Opponents driving over it trigger Blast Damage across the field adn take damage to their tracks.",
-      "icon": "https://cdn7.heatlabs.net/tanks/xm1-v/abilities/mines.webp",
+      "name": "Demolition Charges",
+      "description": "Launch two 28 cm rockets in a ballistic arc; warheads deal heavy explosive damage and apply Slowed.",
+      "icon": "https://cdn7.heatlabs.net/tanks/xm1-v/abilities/demolition_charges.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Demolition Charges",
-      "description": "Launches two large bombs at the target location. Upon impact, they create massive blasts.",
-      "icon": "https://cdn7.heatlabs.net/tanks/xm1-v/abilities/demolition_charges.webp",
+      "name": "Minefield",
+      "description": "Deploys a minefield that stalls opponents by damaging and Immobilizing them.",
+      "icon": "https://cdn7.heatlabs.net/tanks/xm1-v/abilities/mines.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ]

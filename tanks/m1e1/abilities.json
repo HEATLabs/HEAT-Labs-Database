@@ -1,8 +1,8 @@
 {
   "agentAbility": [
     {
-      "name": "Shock and Awe",
-      "description": "Chopper calls in a favor from his friend in the Air Force: a B-52 bomber flies over and drops its payload on the indicated point.",
+      "name": "Creeping Barrage",
+      "description": "Calls in a moving artillery strike with HE shells to clear positions and support allied pushes.",
       "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/air_bomber.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -18,13 +18,13 @@
   "tankAbilities": [
     {
       "name": "Active Protection System",
-      "description": "Active Protection System protects the tank and nearby allies. Like a front-facing shield, the APS intercepts incoming enemy shells and allows the vehicle and allies to cross open ground while active.",
+      "description": "Intercepts shells passing through a collider attached to the vehicle.",
       "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/active_protection_system.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Gatling Gun",
-      "description": "Switch fire mode to the Gatling machine gun on top of the tank to unleash a barrage of small-caliber rounds to overwhelm lightly armored targets.",
+      "name": "Vulcan Auto Turret",
+      "description": "Activates an automatic turret that prioritizes threatening and vulnerable targets.",
       "icon": "https://cdn7.heatlabs.net/tanks/m1e1/abilities/gatling_gun.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
