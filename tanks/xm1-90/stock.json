@@ -1,14 +1,14 @@
 {
     "xm1-90": {
         "FIREPOWER": {
-            "DAMAGE": "150",
+            "DAMAGE": "400",
             "PENETRATION": "0",
             "AIMING SPEED": "2.15",
-            "RELOAD TIME": "0.25",
-            "TIME BETWEEN SHOTS": "3",
-            "SHELLS IN MAGAZINE": "4",
-            "MAGAZINE COUNT": "2",
-            "TIME TO LOAD NEXT MAGAZINE": "1",
+            "RELOAD TIME": "5.00",
+            "TIME BETWEEN SHOTS": "2.8",
+            "SHELLS IN MAGAZINE": "1",
+            "MAGAZINE COUNT": "6",
+            "TIME TO LOAD NEXT MAGAZINE": "2.8",
             "RETICLE SIZE, MOVING": "1",
             "RETICLE SIZE, ROTATING HULL": "0.65",
             "RETICLE SIZE, STANDING": "5",
@@ -24,7 +24,7 @@
             "GUN ELEVATION, REAR": "+20"
         },
         "MOBILITY": {
-            "FORWARD SPEED, KM/H": "57.6",
+            "FORWARD SPEED, KM/H": "54.0",
             "REVERSE SPEED, KM/H": "23.4",
             "BASE ACCELERATION": "100",
             "TRAVERSE SPEED": "34.38",
@@ -34,7 +34,7 @@
             "RAMMING MASS MEASURE": "40"
         },
         "SURVIVABILITY": {
-            "HIT POINTS": "2400",
+            "HIT POINTS": "2750",
             "INCOMING CRIT DAMAGE, AMMO RACK": "1.5",
             "TRACK REPAIR TIME, SECONDS": "8",
             "CREW HIT POINTS": "200",
@@ -61,7 +61,7 @@
         },
         "UTILITY": {
             "ENERGY POINTS": "100",
-            "ENERGY REGENERATION": "1",
+            "ENERGY REGENERATION": "0.5",
             "SMOKE COOLDOWN, SECONDS": "0",
             "SMOKE ENERGY COST": "0",
             "SMOKE USE COUNT": "0"
