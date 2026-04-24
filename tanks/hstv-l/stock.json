@@ -6,8 +6,8 @@
             "AIMING SPEED": "1.5",
             "RELOAD TIME": "7.5",
             "TIME BETWEEN SHOTS": "1",
-            "SHELLS IN MAGAZINE": "6",
-            "MAGAZINE COUNT": "1",
+            "SHELLS IN MAGAZINE": "3",
+            "MAGAZINE COUNT": "3",
             "TIME TO LOAD NEXT MAGAZINE": "7.5",
             "RETICLE SIZE, MOVING": "1",
             "RETICLE SIZE, ROTATING HULL": "1",
@@ -61,10 +61,10 @@
         },
         "UTILITY": {
             "ENERGY POINTS": "100",
-            "ENERGY REGENERATION": "1",
-            "SMOKE COOLDOWN, SECONDS": "30",
-            "SMOKE ENERGY COST": "30",
-            "SMOKE USE COUNT": "1"
+            "ENERGY REGENERATION": "0.5",
+            "SMOKE COOLDOWN, SECONDS": "0",
+            "SMOKE ENERGY COST": "0",
+            "SMOKE USE COUNT": "0"
         }
     }
 }
