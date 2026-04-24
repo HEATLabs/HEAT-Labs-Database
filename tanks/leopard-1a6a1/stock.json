@@ -4,11 +4,11 @@
             "DAMAGE": "480",
             "PENETRATION": "0",
             "AIMING SPEED": "2.2",
-            "RELOAD TIME": "7.5",
-            "TIME BETWEEN SHOTS": "7.5",
+            "RELOAD TIME": "6.4",
+            "TIME BETWEEN SHOTS": "6.4",
             "SHELLS IN MAGAZINE": "1",
             "MAGAZINE COUNT": "1",
-            "TIME TO LOAD NEXT MAGAZINE": "7.5",
+            "TIME TO LOAD NEXT MAGAZINE": "6.4",
             "RETICLE SIZE, MOVING": "3",
             "RETICLE SIZE, ROTATING HULL": "2.5",
             "RETICLE SIZE, STANDING": "0.25",
@@ -34,7 +34,7 @@
             "RAMMING MASS MEASURE": "43"
         },
         "SURVIVABILITY": {
-            "HIT POINTS": "1750",
+            "HIT POINTS": "2060",
             "INCOMING CRIT DAMAGE, AMMO RACK": "1.5",
             "TRACK REPAIR TIME, SECONDS": "8",
             "CREW HIT POINTS": "200",
@@ -60,11 +60,11 @@
             "X-RAY RADIUS, METERS": "30"
         },
         "UTILITY": {
-            "ENERGY POINTS": "110",
-            "ENERGY REGENERATION": "1",
-            "SMOKE COOLDOWN, SECONDS": "40",
-            "SMOKE ENERGY COST": "60",
-            "SMOKE USE COUNT": "1"
+            "ENERGY POINTS": "100",
+            "ENERGY REGENERATION": "0.5",
+            "SMOKE COOLDOWN, SECONDS": "0",
+            "SMOKE ENERGY COST": "0",
+            "SMOKE USE COUNT": "0"
         }
     }
 }
