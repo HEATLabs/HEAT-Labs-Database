@@ -1,7 +1,7 @@
 {
     "xm808-twister": {
         "FIREPOWER": {
-            "DAMAGE": "0",
+            "DAMAGE": "61",
             "PENETRATION": "0",
             "AIMING SPEED": "0",
             "RELOAD TIME": "0",
@@ -24,7 +24,7 @@
             "GUN ELEVATION, REAR": "+0"
         },
         "MOBILITY": {
-            "FORWARD SPEED, KM/H": "0",
+            "FORWARD SPEED, KM/H": "61.2",
             "REVERSE SPEED, KM/H": "0",
             "BASE ACCELERATION": "0",
             "TRAVERSE SPEED": "0",
@@ -34,7 +34,7 @@
             "RAMMING MASS MEASURE": "0"
         },
         "SURVIVABILITY": {
-            "HIT POINTS": "0",
+            "HIT POINTS": "2000",
             "INCOMING CRIT DAMAGE, AMMO RACK": "0",
             "TRACK REPAIR TIME, SECONDS": "0",
             "CREW HIT POINTS": "0",
@@ -60,8 +60,8 @@
             "X-RAY RADIUS, METERS": "0"
         },
         "UTILITY": {
-            "ENERGY POINTS": "0",
-            "ENERGY REGENERATION": "0",
+            "ENERGY POINTS": "100",
+            "ENERGY REGENERATION": "0.5",
             "SMOKE COOLDOWN, SECONDS": "0",
             "SMOKE ENERGY COST": "0",
             "SMOKE USE COUNT": "0"
