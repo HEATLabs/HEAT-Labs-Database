@@ -1,3 +1,57 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Structural Integrity Test",
+      "buildDescription": "Shoot it and see what happens",
+      "buildAuthor": "BiddinWar",
+      "buildDate": "06-05-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Bastion MK2/L",
+          "moduleDescription": "Bastion: Grants 40 HP/s to all vehicles within 12m of the Bastion shield, including your own. Bastion HP -15%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Inenbat-5",
+          "moduleDescription": "Jamming Field Energy Cost -10%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "L7A2",
+          "moduleDescription": "AP Penetration (Maximum) +7%, HE Penetration (Maximum) +8.4%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "ISCHEG",
+          "moduleDescription": "HE Penetration (Maximum) +15%, HE velocity +20%, Turret traverse speed -8.5%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Advartus",
+          "moduleDescription": "Damage to Ultimate: A percentage of damage blocked or received is converted into Ultimate Energy, Incoming Damage Mitigated by ERA +20%, Hull traverse -10%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/upgrade-placeholder.webp",
+          "moduleName": "BTA-1565S",
+          "moduleDescription": "Jamming Field Energy Cost -15%"
+        }
+      ]
+    }
+  ]
 }
