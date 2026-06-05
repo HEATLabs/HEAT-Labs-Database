@@ -55,13 +55,13 @@
       "equipments": [
         {
           "slotNumber": 1,
-          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
           "equipmentName": "Repair Kit",
           "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
         },
         {
           "slotNumber": 2,
-          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_protocol.webp",
           "equipmentName": "Recovery Protocol",
           "equipmentDescription": "Removes status effects from the vehicle and restores its tracks. Removes all active status effects and resets status buildup. Repairs damaged tracks. Cooldown: 65s."
         }
