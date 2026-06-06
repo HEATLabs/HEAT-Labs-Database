@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Good Morning Vietname!",
+      "buildDescription": "Go all in with HE pen and status effects",
+      "buildAuthor": "NimbusX",
+      "buildDate": "06-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_1_xm15.webp",
+          "moduleName": "XM15",
+          "moduleDescription": "Airburst Missile Explosion Radius +15%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_2_bta-2345-s.webp",
+          "moduleName": "BTA-2345-S",
+          "moduleDescription": "E.O.D. Energy cost -5%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_3_fared-b.webp",
+          "moduleName": "FARED-B",
+          "moduleDescription": "Fire Shell: Applies 600 Fire to enemies. HE Penetration (Max) +15%, HEAT Penetration (Max) +16.3%, HE explosion radius -8%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_4_xm38b.webp",
+          "moduleName": "XM38B",
+          "moduleDescription": "Fragility Application: On hit, applies Fragile to the target. HE Penetration (max) +10%, Incoming Crit. Modifier (Ammo Rack) +5%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_5_aplt-15.webp",
+          "moduleName": "APLT-15",
+          "moduleDescription": "Incoming Crit. Modifier (Ammo Rack) -3.05%, Incoming Crit. Modifier (Fuel Tank) -3.05%, Incoming Crit. Modifier (Engine) -3.05%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m60a2/upgrades/slot_6_ems-1523.webp",
+          "moduleName": "EMS-1523",
+          "moduleDescription": "AP damage cone length -10%, E.O.D. Energy cost -10%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Hull Reinforcement",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/fuel_the_flames.webp",
+          "perkName": "Fuel the Flames",
+          "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/reactive_systems.webp",
+          "perkName": "Reactive Systems",
+          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/reinforced_plating.webp",
+          "perkName": "Reinforced Plating",
+          "perkDescription": "Shell hits on enemies increase their track repair time by 10% for 10s."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/last_stand.webp",
+          "perkName": "Last Stand",
+          "perkDescription": "+10% to turret traverse speed."
+        }
+      ]
+    }
+  ]
 }
