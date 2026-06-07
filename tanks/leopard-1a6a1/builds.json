@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Two Shot Leopard 1A6A1",
+      "buildDescription": "This build works at long, mid, and sometimes close range. THe Autoloader allows you to deal about 3k dmg in 3.5 sec with ammorack hits and a 9.5 sec reload time.",
+      "buildAuthor": "Kamil942",
+      "buildDate": "07-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Blitzregen",
+          "moduleDescription": "TRAPPING SHOT: Dropped bombs create a Fire area. Trapping Shot Splash Damage +10%, Trapping Shot Energy Cost +5%, Trapping Shot Cooldown +5%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Torn-X",
+          "moduleDescription": "DECOY: The decoy moves toward the enemy. Decoy lifetime +25%, Decoy Energy cost +33%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "TWK414-25",
+          "moduleDescription": "Reverse speed +9.9%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Fero Z12A1",
+          "moduleDescription": "VULNERABLE: Critical hitting an enemy applies Vulnerable to them for 10. Vehicle Camouflage +19%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "Rote Faust KW20",
+          "moduleDescription": "Uses an autoloader with 2 bullets per magazine. Drum loading time 8.7s, Time between shots 3.5s, Shell count +1, AP Penetration (Max) +12.2%, Third Zoom magnification -2"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/upgrades/upgrade-placeholder.webp",
+          "moduleName": "DRACHENZAHN",
+          "moduleDescription": "Reticle size (stationary) -16.5%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Recovery System",
+          "equipmentDescription": "Gradually repairs the vehicle if it avoids taking damage for a set time. Starts restoring 100 HP/s after 10 s without taking damage. Triggers shield recovery on activation. Taking damage interrupts the repair process."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Launches a smoke screen in front of the vehicle, hiding it from view. Repairs damaged tracks. Extinguishes Fire areas, removes Burning, and accelerates Fire status decay. Smoke duration: 20s Charges: 2 Charge cooldown: 40s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/shattered.webp",
+          "perkName": "Shattered",
+          "perkDescription": "+5% to damage while Hunter's Eye is active."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/rapid_flow.webp",
+          "perkName": "Rapid Flow.",
+          "perkDescription": "-25% to ability cooldown."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/camoflauged.webp",
+          "perkName": "Camouflaged",
+          "perkDescription": "+10% to reticle size while moving."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/enhanced_tracking.webp",
+          "perkName": "Enhanced Tracking",
+          "perkDescription": "+50% to Hunting Time's Tracing radius."
+        }
+      ]
+    }
+  ]
 }
