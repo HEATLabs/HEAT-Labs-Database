@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Sharpshooter",
+      "buildDescription": "Winning one shell at a time",
+      "buildAuthor": "_VEN0M",
+      "buildDate": "06-07-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_1_xm-91.webp",
+          "moduleName": "XM91",
+          "moduleDescription": "Dirty Substance: The Grease effect remains active for an additional 5s after and enemy leaves a Grease are. Dirty Substance Grease Area Duration +10s, Dirty Substance Grenade Count +4, Dirty Substance Grenade Range -10%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_2_sc-70.webp",
+          "moduleName": "SC-70",
+          "moduleDescription": "Grenade Cluster Grenade Count +4"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_3_tr-27g.webp",
+          "moduleName": "TR-27G",
+          "moduleDescription": "Zealous: -25% to reload time for 10s after a successful shot. The effect does not stack. Turret traverse speed +22%, Engine power -5%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_4_uas-24.webp",
+          "moduleName": "UAS-24",
+          "moduleDescription": "Warded: Taking damage applies Warded. Delay between activations: 3.3s, Hit points +8%, Incoming Crit Modifier (Engine) -10%, Incoming Crit Modifier (Ammo Rack) -10%, Engine power -10%, Hull traverse -10%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_5_xm367.webp",
+          "moduleName": "XM367",
+          "moduleDescription": "Grants use of Thermal gunner sights. Spotting range +8%, Radar Update Interval -5%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_6_str-163.webp",
+          "moduleName": "STR-163",
+          "moduleDescription": "Increased Mobility: +10% to engine power and +5% to hull traverse speed for 7s after an internal model is hit. Forward speed +6%, Engine power +15%, Hull traverse -5%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Hull Reinforcement",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/gunslinger.webp",
+          "perkName": "Gunslinger",
+          "perkDescription": "Rising Tempo increases base reload time by 7.5% instead of 12.5%"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_kent.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "-15% to ability Energy cost"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/combat_blur_system.webp",
+          "perkName": "Combat Blur System",
+          "perkDescription": "+20% to reticle size, including while moving"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/time_management.webp",
+          "perkName": "Time Management",
+          "perkDescription": "Reduces minimum lock-on time for a Hydra strike from 1.5s to 1.2s and extends lock-on after stopping targeting from 2.5s to 3.5s"
+        }
+      ]
+    }
+  ]
 }
