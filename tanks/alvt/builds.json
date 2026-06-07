@@ -7,12 +7,12 @@
       "buildName": "Sharpshooter",
       "buildDescription": "Winning one shell at a time",
       "buildAuthor": "_VEN0M",
-      "buildDate": "06-07-2026",
+      "buildDate": "07-06-2026",
       "modules": [
         {
           "slotNumber": 1,
           "moduleFeatured": false,
-          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_1_xm-91.webp",
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_1_xm91.webp",
           "moduleName": "XM91",
           "moduleDescription": "Dirty Substance: The Grease effect remains active for an additional 5s after and enemy leaves a Grease are. Dirty Substance Grease Area Duration +10s, Dirty Substance Grenade Count +4, Dirty Substance Grenade Range -10%"
         },
@@ -32,7 +32,7 @@
         },
         {
           "slotNumber": 4,
-          "moduleFeatured": false,
+          "moduleFeatured": true,
           "moduleIcon": "https://cdn7.heatlabs.net/tanks/alvt/upgrades/slot_4_uas-24.webp",
           "moduleName": "UAS-24",
           "moduleDescription": "Warded: Taking damage applies Warded. Delay between activations: 3.3s, Hit points +8%, Incoming Crit Modifier (Engine) -10%, Incoming Crit Modifier (Ammo Rack) -10%, Engine power -10%, Hull traverse -10%"
