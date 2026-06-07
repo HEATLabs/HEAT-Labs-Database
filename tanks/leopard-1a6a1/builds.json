@@ -55,7 +55,7 @@
       "equipments": [
         {
           "slotNumber": 1,
-          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_system.webp",
           "equipmentName": "Recovery System",
           "equipmentDescription": "Gradually repairs the vehicle if it avoids taking damage for a set time. Starts restoring 100 HP/s after 10 s without taking damage. Triggers shield recovery on activation. Taking damage interrupts the repair process."
         },
