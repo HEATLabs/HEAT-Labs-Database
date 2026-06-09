@@ -80,14 +80,18 @@
             "VEHICLE OPTICS": "0",
             "SECOND ZOOM MAGNIFICATION": "0",
             "THIRD ZOOM MAGNIFICATION": "0"
-        }
-    },
+        },
         "UTILITY": {
-            "ENERGY POINTS": "0",
+            "MAX ENERGY": "0",
             "ENERGY REGENERATION": "0",
-            "SMOKE COOLDOWN, SECONDS": "0",
-            "SMOKE ENERGY COST": "0",
-            "SMOKE USE COUNT": "0"
+            "MAIN ABILITY ENERGY COST": "0",
+            "MAIN ABILITY COOLDOWN": "0",
+            "MAIN ABILITY DURATION": "0",
+            "MAIN ABILITY HP": "0",
+            "SECOND ABILITY ENERGY COST": "0",
+            "SECOND ABILITY COOLDOWN": "0",
+            "SECOND ABILITY DURATION": "0",
+            "SECOND ABILITY HP": "0"
         }
     }
 }
