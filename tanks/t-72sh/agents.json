@@ -1,0 +1,18 @@
+{
+  "agents": [
+    {
+      "name": "Ray",
+      "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "specialty": "To be announced",
+      "description": "Information about this agent's abilities is currently unavailable.",
+      "story": "Unknown Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "T-72SH",
+          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t-72sh.webp",
+          "slug": "t-72sh"
+        }
+      ]
+    }
+  ]
+}
