@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Surgical_steel's M1E1",
+      "buildDescription": "It's a build alright",
+      "buildAuthor": "surgical_steel_ger",
+      "buildDate": "01-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "GGR-652",
+          "moduleDescription": "Vulcan Auto Turret Penetration +10%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "IRF-1",
+          "moduleDescription": "APS HP +8%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "ACIL-28",
+          "moduleDescription": "Fires smoke grenades when the vehicle takes a critical hit, creating a Smoke area in front of the turret that lasts 10s. Cooldown: 30s, Incoming Crit Modifier (Ammo Rack) -15.88%, Reload time +5%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "HATT-5",
+          "moduleDescription": "When you or your allies deal damage to enemies within a 25m radius of your vehicle, 10% of the damage dealt is restored to you as HP, +25% to HP recovery from all sources, Incoming Crit Modifier (Ammo Rack) -16%, Equipment Cooldown +5%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "AD-25F",
+          "moduleDescription": "Reload time -8%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "DAS-567",
+          "moduleDescription": "Turret traverse speed +18.5%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_protocol.webp",
+          "equipmentName": "Recovery Protocol",
+          "equipmentDescription": "Removes status effects from the vehicle and restores its tracks. Removes all active status effects and resets status buildup. Repairs damaged tracks. Cooldown: 65s."
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "perkName": "N/A",
+          "perkDescription": "Placeholder description for perk 1"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "perkName": "N/A",
+          "perkDescription": "Placeholder description for perk 2"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "perkName": "N/A",
+          "perkDescription": "Placeholder description for perk 3"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "perkName": "N/A",
+          "perkDescription": "Placeholder description for perk 4"
+        }
+      ]
+    }
+  ]
 }
