@@ -69,27 +69,27 @@
       "perks": [
         {
           "slotNumber": 1,
-          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
-          "perkName": "N/A",
-          "perkDescription": "Placeholder description for perk 1"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/overdrive_engine.webp",
+          "perkName": "Overdrive Engine",
+          "perkDescription": "+10% to engine power"
         },
         {
           "slotNumber": 2,
-          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
-          "perkName": "N/A",
-          "perkDescription": "Placeholder description for perk 2"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_chopper.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
         },
         {
           "slotNumber": 3,
-          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
-          "perkName": "N/A",
-          "perkDescription": "Placeholder description for perk 3"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/concussive_payload.webp",
+          "perkName": "Concussive Payload",
+          "perkDescription": "+10% to Slow applied by shells"
         },
         {
           "slotNumber": 4,
-          "perkIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
-          "perkName": "N/A",
-          "perkDescription": "Placeholder description for perk 4"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/echo_shield.webp",
+          "perkName": "Echo Shield",
+          "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
         }
       ]
     }
