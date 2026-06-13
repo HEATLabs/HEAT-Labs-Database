@@ -92,6 +92,99 @@
           "perkDescription": "+10% to turret traverse speed."
         }
       ]
+    },
+    {
+      "buildNumber": 2,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Pickle Rick",
+      "buildDescription": "Will win shin kicking contest",
+      "buildAuthor": "Rickles",
+      "buildDate": "12-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_1_bastion-mk2-l.webp",
+          "moduleName": "Bastion MK2/L",
+          "moduleDescription": "Bastion: Grants 40 HP/s to all vehicles within 12m of the Bastion shield, including your own. Bastion HP -15%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_2_inenbat-5.webp",
+          "moduleName": "Inenbat-5",
+          "moduleDescription": "Jamming Field Energy Cost -10%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_3_ffdev-11.webp",
+          "moduleName": "FFDEV-11",
+          "moduleDescription": "Reload time -8.7%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_4_pfel.webp",
+          "moduleName": "PFEL",
+          "moduleDescription": "Track Repair Penalty: Destroying enemy vehicles' tracks applies a Track Repair Penalty. HE Explosion Damage (Min) +27.5%, Incoming crit modifier (Ammo Rack) +6%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_5_meproline.webp",
+          "moduleName": "MEPROLINE",
+          "moduleDescription": "HP RESTORATION FROM ALL SOURCES: +10% to HP recovery from all sources. BURNOUT STATE: Fires smoke grenades when the vehicle takes a critical hit, creating a Smoke area in front of the turret that lasts 10s. Cooldown: 30s, Hit points +12.3%, Spaced Armor HP -15%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/fv4030x/upgrades/slot_6_bta-1565s.webp",
+          "moduleName": "BTA-1565S",
+          "moduleDescription": "Jamming Field Energy Cost -15%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/phantom_curtain.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Launches a smoke screen in front of the vehicle, hiding it from view. Repairs damaged tracks. Extinguishes Fire areas, removes Burning, and accelerates Fire status decay. Smoke duration: 20s Charges: 2 Charge cooldown: 40 s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/echo_shield.webp",
+          "perkName": "Echo Shield",
+          "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_chopper.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/crippling_impact.webp",
+          "perkName": "Crippling Impact",
+          "perkDescription": "Shell hits on enemies increase their track repair time by 10% for 10s."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/snap_traverse.webp",
+          "perkName": "Snap Traverse",
+          "perkDescription": "+10% to turret traverse speed."
+        }
+      ]
     }
   ]
 }
