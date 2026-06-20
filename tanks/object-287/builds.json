@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Roach",
+      "buildDescription": "The relatively most optimal build to wreck havoc",
+      "buildAuthor": "JustRealNoob",
+      "buildDate": "13-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "SUHO-5U",
+          "moduleDescription": "HARPOON: Successfully harpooning a target instantly resets Harpoon cooldown. Applies 1 stack of Fragile per second while the harpoon is attached to an enemy, up to 5 stacks. Harpoon Range +15%, Harpoon Speed Boost +5%, Harpoon Energy Cost +10%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "R478B",
+          "moduleDescription": "COMBAT CAGE Grants 1 stack of Warded for every enemy vehicle caught within Scrap Barricade, up to 5 stacks. Damage dealt to one enemy vehicle in Combat Cage is applied as true damage to all other vehicles within it. Toggling the ability off resets all effects. Combat Cage Radius +20%, Combat Cage Cooldown +20%, Combat Cage Duration-20%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "PG-24G",
+          "moduleDescription": "AP LOADOUT: Replaces the vehicle's original shells with AP shells that apply 300 Fire status. AP Penetration (Max) +15.1%, Magazine Restock Time +5%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "TBP-673V",
+          "moduleDescription": "Magazine Restock Time -8.7%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "TT-421M",
+          "moduleDescription": "Grants full resistance to Grease. Hull Traverse +9.5%, Track HP -5%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "PPLT-798",
+          "moduleDescription": "Hit Points + 6.9%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Hull Reinforcement",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/mass_to_energy.webp",
+          "perkName": "Mass to Energy",
+          "perkDescription": "+10 to Boost Energy capacity and +5% to Boost Energy regeneration speed for every collected Scrap Token until destruction."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/high_oxygen.webp",
+          "perkName": "High Oxygen",
+          "perkDescription": "+30% to velocity of ability munitions."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/unstoppable.webp",
+          "perkName": "Unstoppable",
+          "perkDescription": "+100% to Slow resistance while boosting."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/rampage_overstay.webp",
+          "perkName": "Rampage Overstay",
+          "perkDescription": "+5s to Rampage duration."
+        }
+      ]
+    }
+  ]
 }
