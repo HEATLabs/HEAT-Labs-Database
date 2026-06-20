@@ -61,9 +61,9 @@
         },
         {
           "slotNumber": 2,
-          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_protocol.webp",
-          "equipmentName": "Recovery Protocol",
-          "equipmentDescription": "Removes status effects from the vehicle and restores its tracks. Removes all active status effects and resets status buildup. Repairs damaged tracks. Cooldown: 65s."
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Hull Reinforcement",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
         }
       ],
       "perks": [
