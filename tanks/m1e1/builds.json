@@ -92,6 +92,99 @@
           "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
         }
       ]
+    },
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "DrexVandal's M1E1",
+      "buildDescription": "No description available",
+      "buildAuthor": "DrexVandal",
+      "buildDate": "15-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "GGR-652",
+          "moduleDescription": "Vulcan Auto Turret Penetration +10%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "CMC-1",
+          "moduleDescription": "APS Cooldown -5%, APS Duration +5%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "SIS-90",
+          "moduleDescription": "+30% to damage, +40% to penetration, and -20% to reload time for 30s if the vehicle takes more than 5,000 damage before being destroyed. Cooldown: 40s, Hit points +10%, Hull Traverse -14%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "HATT-5",
+          "moduleDescription": "When you or your allies deal damage to enemies within a 25m radius of your vehicle, 10% of the damage dealt is restored to you as HP, +25% to HP recovery from all sources, Incoming Crit Modifier (Ammo Rack) -16%, Equipment Cooldown +5%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "GMS-28",
+          "moduleDescription": "INSPIRED KILLER: Each kill restores 40 Ability Energy points. AP Damage (Max) +11.07%, Turret traverse speed -5.1%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "DAS-567",
+          "moduleDescription": "Turret traverse speed +18.5%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Hull Reinforcement",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/overdrive_engine.webp",
+          "perkName": "Overdrive Engine",
+          "perkDescription": "+10% to engine power"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_chopper.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/concussive_payload.webp",
+          "perkName": "Concussive Payload",
+          "perkDescription": "+10% to Slow applied by shells"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/echo_shield.webp",
+          "perkName": "Echo Shield",
+          "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
+        }
+      ]
     }
   ]
 }
