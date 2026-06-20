@@ -94,7 +94,7 @@
       ]
     },
     {
-      "buildNumber": 1,
+      "buildNumber": 2,
       "buildDisplay": true,
       "buildFeatured": true,
       "buildName": "DrexVandal's M1E1",
@@ -148,9 +148,9 @@
       "equipments": [
         {
           "slotNumber": 1,
-          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
-          "equipmentName": "Repair Kit",
-          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/rebuild_kit.webp",
+          "equipmentName": "Rebuild Kit",
+          "equipmentDescription": "Single-use kit that restores HP over time and repairs shields. Repairs start at 50 HP and increase exponentially over time. Triggers shield recovery on activation. Cooldown: 65s"
         },
         {
           "slotNumber": 2,
@@ -162,27 +162,27 @@
       "perks": [
         {
           "slotNumber": 1,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/overdrive_engine.webp",
-          "perkName": "Overdrive Engine",
-          "perkDescription": "+10% to engine power"
-        },
-        {
-          "slotNumber": 2,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_chopper.webp",
-          "perkName": "Energy Recycler",
-          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
-        },
-        {
-          "slotNumber": 3,
           "perkIcon": "https://cdn7.heatlabs.net/perks/concussive_payload.webp",
           "perkName": "Concussive Payload",
           "perkDescription": "+10% to Slow applied by shells"
         },
         {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/underdogs_guard.webp",
+          "perkName": "Underdog's Guard",
+          "perkDescription": "+1 stack of Warded when the enemy team is winning."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_chopper.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "+1 Ultimate Energy for every 5 Energy spent on abilities."
+        },
+        {
           "slotNumber": 4,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/echo_shield.webp",
-          "perkName": "Echo Shield",
-          "perkDescription": "After expiring, Warded is granted again for 10s. Cooldown 30s."
+          "perkIcon": "https://cdn7.heatlabs.net/perks/snap_traverse.webp",
+          "perkName": "Snap Traverse",
+          "perkDescription": "+10% to turret traverse speed."
         }
       ]
     }
