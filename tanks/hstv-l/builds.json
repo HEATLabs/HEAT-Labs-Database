@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Johnny's HSTV-L",
+      "buildDescription": "No description given",
+      "buildAuthor": "Johnny",
+      "buildDate": "15-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "AOS-27",
+          "moduleDescription": "RECON PROBE: Deployed probes can make the player and allies Masked. Recon Probe Max. Placement Range +10%, Recon Probe Duration -5%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "FSA-34",
+          "moduleDescription": "MK19 AUTO-TURRET Destroying an enemy's tracks applies a track repair penalty and makes them Traced. MK19 Auto Turret Cooldown -5%, MK19 Auto Turret Energy Cost -5%, MK19 Auto Turret Range +10%, MK19 Auto Turret Explosion Damage Minimum -10%, MK19 Auto Turret Explosion Damage Maximum -10% "
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "XM342",
+          "moduleDescription": "ZEALOUS: Replaces the vehicle's original shells with HE shells and its original loader with a single shot loader. Grants Zealous on destroying enemy tracks. Reload time 5s, Turret traverse speed +9.6%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "LTS102",
+          "moduleDescription": "HYPERDYNAMICS: Grants Hyperdynamics at 72 km/h and Minor Zealous at 85 km/h. Both effects can be active simultaneously. Vehicle Lateral Friction -15%, Engine power +12%, Hull traverse +10%, Boost Mode Energy Cost +25%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "HSS-452",
+          "moduleDescription": "THERMAL VISION: Allows the vehicle to use thermal vision. Enemy Visibility Share Duration +19%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "BFT-412",
+          "moduleDescription": "Boost mode Energy volume +10.5%, Boost mode regeneration rate +11%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_system.webp",
+          "equipmentName": "Recovery System",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/phantom_curtain.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/deja_vu.webp",
+          "perkName": "Deja Vu",
+          "perkDescription": "+100% to track HP and +50% to Slow resistance while drifting."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/plan_b.webp",
+          "perkName": "Plan B",
+          "perkDescription": "-5% to main gun reload time for each ability on cooldown."
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/gas_gas_gas.webp",
+          "perkName": "Gas Gas Gas",
+          "perkDescription": "+0.5 Ultimate Energy per second while boosting."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/close_quarter_emp.webp",
+          "perkName": "Close-Quarters EMP",
+          "perkDescription": "+25% to damage dealt by Lights Out explosions."
+        }
+      ]
+    }
+  ]
 }
