@@ -92,6 +92,99 @@
           "perkDescription": "Perk 4 Description"
         }
       ]
+    },
+    {
+      "buildNumber": 2,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "XM1-V Meta Build V2",
+      "buildDescription": "Let's make things go boom.",
+      "buildAuthor": "esmatty / _VEN0M",
+      "buildDate": "21-03-2025",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "BLU-73/A",
+          "moduleDescription": "Bombs apply Vulnerable for 10s. Max Blast Damage +10%, Min Blast Damage +10%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "M87G2",
+          "moduleDescription": "The minefield can be rotated. Minefield charges +1, Minefield Energy cost -10%."
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "MKIII ATDS",
+          "moduleDescription": "Patch Up: Grants Patch Up when above 25% HP and out of combat for 5s. Taking damage interrupts the effect. Ada,ant: Grants Adamant when below 50% HP. Frontal Hull Armor +5.2%, Frontal turret Armor +9.2%, hit points -10%, Turret traverse speed -5%, Hull traverse -5%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "AAP/V2",
+          "moduleDescription": "Ramming Mastery: +2% to ramming resistance for every ramming encounter with an enemy, up to 20%. Resets on destruction. Hit points +8.95%, Hull traverse -10%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "AVDS1790",
+          "moduleDescription": "Equipment cooldown -12%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+          "moduleName": "WS/AN1",
+          "moduleDescription": "Grants Retribution for 10s after damaging an enemy vehicle with a shot."
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/rebuild_kit.webp",
+          "equipmentName": "Rebuild Kit",
+          "equipmentDescription": "Single-use kit that restores HP over time and repairs shields. Repairs start at 50 HP and increase exponentially over time. Triggers shield recovery on activation. Cooldown: 65s"
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/phantom_curtain.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/reinforced_plating.webp",
+          "perkName": "Reinforced Plating",
+          "perkDescription": "+5% Frontal hull armor"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/overloaded.webp",
+          "perkName": "Overloaded",
+          "perkDescription": "-10% to ability energy cost"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/arednaline_rush.webp",
+          "perkName": "Adrenaline Rush",
+          "perkDescription": "+1 Ultimate Energy for every 250 damage dealt with the main gun"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/well_oiled_machine.webp",
+          "perkName": "Well Oiled Machine",
+          "perkDescription": "+10% to hull and turret traverse speed"
+        }
+      ]
     }
   ]
 }
