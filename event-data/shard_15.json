@@ -1,0 +1,7234 @@
+{
+  "contract_version": "1.4",
+  "data_version": "20260622T162626Z",
+  "bucket": "15",
+  "players": {
+    "wesxx66": {
+      "nickname": "wesxx66#70027",
+      "damage": 1507606,
+      "battles": 111,
+      "wins": 102,
+      "frags": 511,
+      "qualified": true,
+      "damage_percentile": 2
+    },
+    "captain_blooefyre": {
+      "nickname": "Captain_BlooeFyre#11598",
+      "damage": 1467144,
+      "battles": 54,
+      "wins": 44,
+      "frags": 349,
+      "qualified": true,
+      "damage_percentile": 2,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 3902,
+          "wins": 3,
+          "battles": 7,
+          "damage": 132780
+        },
+        {
+          "day_index": 2,
+          "rank": 4633,
+          "wins": 3,
+          "battles": 4,
+          "damage": 64831
+        },
+        {
+          "day_index": 6,
+          "rank": 9330,
+          "wins": 1,
+          "battles": 1,
+          "damage": 31815
+        },
+        {
+          "day_index": 7,
+          "rank": 7270,
+          "wins": 0,
+          "battles": 1,
+          "damage": 32511
+        },
+        {
+          "day_index": 9,
+          "rank": 14570,
+          "wins": 0,
+          "battles": 2,
+          "damage": 46112
+        }
+      ]
+    },
+    "akenoz": {
+      "nickname": "Akenoz#18703",
+      "damage": 1156399,
+      "battles": 64,
+      "wins": 35,
+      "frags": 364,
+      "qualified": true,
+      "damage_percentile": 3,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 87,
+          "wins": 12,
+          "battles": 15,
+          "damage": 278123
+        },
+        {
+          "day_index": 7,
+          "rank": 344,
+          "wins": 8,
+          "battles": 18,
+          "damage": 283569
+        },
+        {
+          "day_index": 10,
+          "rank": 404,
+          "wins": 9,
+          "battles": 16,
+          "damage": 301296
+        },
+        {
+          "day_index": 11,
+          "rank": 464,
+          "wins": 6,
+          "battles": 15,
+          "damage": 293411
+        }
+      ]
+    },
+    "crown_no2": {
+      "nickname": "CROWN_NO2#29967",
+      "damage": 1064824,
+      "battles": 62,
+      "wins": 25,
+      "frags": 250,
+      "qualified": true,
+      "damage_percentile": 3,
+      "today": {
+        "day_index": 12,
+        "wins": 5,
+        "battles": 14,
+        "win_rate": 0.3571,
+        "damage": 217212,
+        "rank": 812
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 12920,
+          "wins": 0,
+          "battles": 3,
+          "damage": 52864
+        },
+        {
+          "day_index": 3,
+          "rank": 863,
+          "wins": 5,
+          "battles": 12,
+          "damage": 227988
+        },
+        {
+          "day_index": 4,
+          "rank": 4013,
+          "wins": 2,
+          "battles": 7,
+          "damage": 113795
+        },
+        {
+          "day_index": 5,
+          "rank": 3413,
+          "wins": 4,
+          "battles": 10,
+          "damage": 114169
+        },
+        {
+          "day_index": 7,
+          "rank": 3894,
+          "wins": 2,
+          "battles": 2,
+          "damage": 39681
+        },
+        {
+          "day_index": 9,
+          "rank": 9733,
+          "wins": 1,
+          "battles": 3,
+          "damage": 66944
+        },
+        {
+          "day_index": 11,
+          "rank": 493,
+          "wins": 6,
+          "battles": 11,
+          "damage": 232171
+        },
+        {
+          "day_index": 12,
+          "rank": 812,
+          "wins": 5,
+          "battles": 14,
+          "damage": 217212
+        }
+      ]
+    },
+    "skrec_w_lew0": {
+      "nickname": "Skrec_w_lew0#50986",
+      "damage": 1064613,
+      "battles": 48,
+      "wins": 26,
+      "frags": 300,
+      "qualified": true,
+      "damage_percentile": 3,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 3933,
+          "wins": 3,
+          "battles": 7,
+          "damage": 127530
+        },
+        {
+          "day_index": 2,
+          "rank": 2880,
+          "wins": 4,
+          "battles": 5,
+          "damage": 126081
+        },
+        {
+          "day_index": 4,
+          "rank": 3161,
+          "wins": 3,
+          "battles": 4,
+          "damage": 84643
+        },
+        {
+          "day_index": 5,
+          "rank": 1108,
+          "wins": 7,
+          "battles": 12,
+          "damage": 262297
+        },
+        {
+          "day_index": 6,
+          "rank": 3692,
+          "wins": 3,
+          "battles": 6,
+          "damage": 138312
+        },
+        {
+          "day_index": 8,
+          "rank": 6404,
+          "wins": 1,
+          "battles": 3,
+          "damage": 82963
+        },
+        {
+          "day_index": 9,
+          "rank": 6545,
+          "wins": 2,
+          "battles": 5,
+          "damage": 110243
+        },
+        {
+          "day_index": 10,
+          "rank": 3468,
+          "wins": 3,
+          "battles": 6,
+          "damage": 132544
+        }
+      ]
+    },
+    "akas552": {
+      "nickname": "akas552#32578",
+      "damage": 1038986,
+      "battles": 50,
+      "wins": 42,
+      "frags": 384,
+      "qualified": true,
+      "damage_percentile": 3,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 1831,
+          "wins": 3,
+          "battles": 8,
+          "damage": 169305
+        },
+        {
+          "day_index": 5,
+          "rank": 6885,
+          "wins": 2,
+          "battles": 3,
+          "damage": 63938
+        },
+        {
+          "day_index": 7,
+          "rank": 6345,
+          "wins": 1,
+          "battles": 1,
+          "damage": 15222
+        },
+        {
+          "day_index": 9,
+          "rank": 15257,
+          "wins": 0,
+          "battles": 1,
+          "damage": 26063
+        },
+        {
+          "day_index": 11,
+          "rank": 1302,
+          "wins": 4,
+          "battles": 4,
+          "damage": 63468
+        }
+      ]
+    },
+    "kejn": {
+      "nickname": "Kejn#41774",
+      "damage": 904123,
+      "battles": 62,
+      "wins": 33,
+      "frags": 274,
+      "qualified": true,
+      "damage_percentile": 4,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 2249,
+          "wins": 5,
+          "battles": 9,
+          "damage": 126567
+        },
+        {
+          "day_index": 2,
+          "rank": 1581,
+          "wins": 6,
+          "battles": 10,
+          "damage": 136408
+        },
+        {
+          "day_index": 4,
+          "rank": 3459,
+          "wins": 3,
+          "battles": 4,
+          "damage": 63664
+        },
+        {
+          "day_index": 5,
+          "rank": 1642,
+          "wins": 6,
+          "battles": 12,
+          "damage": 182672
+        },
+        {
+          "day_index": 6,
+          "rank": 5273,
+          "wins": 2,
+          "battles": 8,
+          "damage": 124839
+        },
+        {
+          "day_index": 8,
+          "rank": 4959,
+          "wins": 2,
+          "battles": 5,
+          "damage": 60051
+        },
+        {
+          "day_index": 9,
+          "rank": 2832,
+          "wins": 5,
+          "battles": 8,
+          "damage": 112516
+        },
+        {
+          "day_index": 10,
+          "rank": 2851,
+          "wins": 4,
+          "battles": 6,
+          "damage": 97406
+        }
+      ]
+    },
+    "shadowdarkman74": {
+      "nickname": "ShadowDarkman74#35761",
+      "damage": 857373,
+      "battles": 100,
+      "wins": 75,
+      "frags": 241,
+      "qualified": true,
+      "damage_percentile": 5,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 4,
+        "win_rate": 0.75,
+        "damage": 18243,
+        "rank": 2712
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 12417,
+          "wins": 1,
+          "battles": 1,
+          "damage": 7839
+        },
+        {
+          "day_index": 5,
+          "rank": 1973,
+          "wins": 6,
+          "battles": 12,
+          "damage": 69976
+        },
+        {
+          "day_index": 6,
+          "rank": 4897,
+          "wins": 3,
+          "battles": 6,
+          "damage": 48551
+        },
+        {
+          "day_index": 8,
+          "rank": 75,
+          "wins": 14,
+          "battles": 18,
+          "damage": 153118
+        },
+        {
+          "day_index": 9,
+          "rank": 1564,
+          "wins": 7,
+          "battles": 16,
+          "damage": 104501
+        },
+        {
+          "day_index": 12,
+          "rank": 2712,
+          "wins": 3,
+          "battles": 4,
+          "damage": 18243
+        }
+      ]
+    },
+    "sangvis_ferri_": {
+      "nickname": "Sangvis_Ferri_#59108",
+      "damage": 821818,
+      "battles": 44,
+      "wins": 42,
+      "frags": 304,
+      "qualified": true,
+      "damage_percentile": 5
+    },
+    "sos998": {
+      "nickname": "sos998#59997",
+      "damage": 818447,
+      "battles": 89,
+      "wins": 45,
+      "frags": 183,
+      "qualified": true,
+      "damage_percentile": 5,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 14350,
+          "wins": 0,
+          "battles": 2,
+          "damage": 16580
+        },
+        {
+          "day_index": 3,
+          "rank": 1192,
+          "wins": 5,
+          "battles": 9,
+          "damage": 74286
+        },
+        {
+          "day_index": 4,
+          "rank": 5559,
+          "wins": 2,
+          "battles": 3,
+          "damage": 31107
+        },
+        {
+          "day_index": 5,
+          "rank": 1431,
+          "wins": 7,
+          "battles": 11,
+          "damage": 84578
+        },
+        {
+          "day_index": 6,
+          "rank": 756,
+          "wins": 8,
+          "battles": 18,
+          "damage": 199572
+        },
+        {
+          "day_index": 8,
+          "rank": 903,
+          "wins": 7,
+          "battles": 14,
+          "damage": 133379
+        },
+        {
+          "day_index": 9,
+          "rank": 92,
+          "wins": 15,
+          "battles": 25,
+          "damage": 230593
+        },
+        {
+          "day_index": 10,
+          "rank": 14032,
+          "wins": 0,
+          "battles": 1,
+          "damage": 6003
+        },
+        {
+          "day_index": 11,
+          "rank": 3856,
+          "wins": 1,
+          "battles": 6,
+          "damage": 42349
+        }
+      ]
+    },
+    "player_5350860104": {
+      "nickname": "Player_5350860104#63812",
+      "damage": 802505,
+      "battles": 55,
+      "wins": 50,
+      "frags": 288,
+      "qualified": true,
+      "damage_percentile": 5,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 11218,
+          "wins": 1,
+          "battles": 2,
+          "damage": 19125
+        },
+        {
+          "day_index": 4,
+          "rank": 11235,
+          "wins": 0,
+          "battles": 1,
+          "damage": 11312
+        },
+        {
+          "day_index": 8,
+          "rank": 11957,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7830
+        },
+        {
+          "day_index": 9,
+          "rank": 17074,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7981
+        }
+      ]
+    },
+    "krejja": {
+      "nickname": "Krejja#62291",
+      "damage": 789620,
+      "battles": 47,
+      "wins": 23,
+      "frags": 207,
+      "qualified": true,
+      "damage_percentile": 5,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13994,
+          "wins": 0,
+          "battles": 2,
+          "damage": 20798
+        },
+        {
+          "day_index": 2,
+          "rank": 4845,
+          "wins": 3,
+          "battles": 5,
+          "damage": 55374
+        },
+        {
+          "day_index": 5,
+          "rank": 4236,
+          "wins": 3,
+          "battles": 8,
+          "damage": 136982
+        },
+        {
+          "day_index": 6,
+          "rank": 4424,
+          "wins": 3,
+          "battles": 4,
+          "damage": 74228
+        },
+        {
+          "day_index": 8,
+          "rank": 1494,
+          "wins": 5,
+          "battles": 10,
+          "damage": 182558
+        },
+        {
+          "day_index": 9,
+          "rank": 4441,
+          "wins": 3,
+          "battles": 9,
+          "damage": 194811
+        },
+        {
+          "day_index": 10,
+          "rank": 3092,
+          "wins": 4,
+          "battles": 5,
+          "damage": 69350
+        },
+        {
+          "day_index": 11,
+          "rank": 2680,
+          "wins": 2,
+          "battles": 4,
+          "damage": 55519
+        }
+      ]
+    },
+    "derzettelamzeh": {
+      "nickname": "DerZettelAmZeh#54682",
+      "damage": 787099,
+      "battles": 37,
+      "wins": 24,
+      "frags": 265,
+      "qualified": true,
+      "damage_percentile": 5,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 8,
+        "win_rate": 0.375,
+        "damage": 207553,
+        "rank": 1782
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 2148,
+          "wins": 5,
+          "battles": 7,
+          "damage": 145310
+        },
+        {
+          "day_index": 2,
+          "rank": 2332,
+          "wins": 5,
+          "battles": 5,
+          "damage": 90961
+        },
+        {
+          "day_index": 4,
+          "rank": 1322,
+          "wins": 5,
+          "battles": 9,
+          "damage": 198991
+        },
+        {
+          "day_index": 5,
+          "rank": 1785,
+          "wins": 6,
+          "battles": 8,
+          "damage": 144284
+        },
+        {
+          "day_index": 12,
+          "rank": 1782,
+          "wins": 3,
+          "battles": 8,
+          "damage": 207553
+        }
+      ]
+    },
+    "bluefire38": {
+      "nickname": "Bluefire38#81128",
+      "damage": 736578,
+      "battles": 46,
+      "wins": 24,
+      "frags": 234,
+      "qualified": true,
+      "damage_percentile": 6,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 928,
+          "wins": 7,
+          "battles": 15,
+          "damage": 253657
+        },
+        {
+          "day_index": 3,
+          "rank": 7692,
+          "wins": 0,
+          "battles": 1,
+          "damage": 16220
+        },
+        {
+          "day_index": 4,
+          "rank": 4498,
+          "wins": 2,
+          "battles": 4,
+          "damage": 68661
+        },
+        {
+          "day_index": 5,
+          "rank": 1256,
+          "wins": 7,
+          "battles": 13,
+          "damage": 188560
+        },
+        {
+          "day_index": 6,
+          "rank": 1484,
+          "wins": 6,
+          "battles": 10,
+          "damage": 161025
+        },
+        {
+          "day_index": 7,
+          "rank": 5198,
+          "wins": 1,
+          "battles": 2,
+          "damage": 36323
+        },
+        {
+          "day_index": 8,
+          "rank": 9314,
+          "wins": 1,
+          "battles": 1,
+          "damage": 12132
+        }
+      ]
+    },
+    "cptcobold": {
+      "nickname": "cptCobold#56978",
+      "damage": 720994,
+      "battles": 37,
+      "wins": 26,
+      "frags": 236,
+      "qualified": true,
+      "damage_percentile": 6,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 9864,
+          "wins": 0,
+          "battles": 2,
+          "damage": 37596
+        },
+        {
+          "day_index": 5,
+          "rank": 8890,
+          "wins": 1,
+          "battles": 4,
+          "damage": 89827
+        },
+        {
+          "day_index": 9,
+          "rank": 7320,
+          "wins": 2,
+          "battles": 3,
+          "damage": 66152
+        },
+        {
+          "day_index": 10,
+          "rank": 3907,
+          "wins": 3,
+          "battles": 8,
+          "damage": 90391
+        }
+      ]
+    },
+    "lordevil37": {
+      "nickname": "Lordevil37#13851",
+      "damage": 650760,
+      "battles": 47,
+      "wins": 30,
+      "frags": 184,
+      "qualified": true,
+      "damage_percentile": 7,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 6,
+        "win_rate": 0.5,
+        "damage": 70353,
+        "rank": 2350
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 3288,
+          "wins": 4,
+          "battles": 7,
+          "damage": 91865
+        },
+        {
+          "day_index": 4,
+          "rank": 864,
+          "wins": 7,
+          "battles": 7,
+          "damage": 114715
+        },
+        {
+          "day_index": 5,
+          "rank": 705,
+          "wins": 9,
+          "battles": 12,
+          "damage": 166548
+        },
+        {
+          "day_index": 8,
+          "rank": 3217,
+          "wins": 3,
+          "battles": 5,
+          "damage": 99980
+        },
+        {
+          "day_index": 9,
+          "rank": 5083,
+          "wins": 3,
+          "battles": 9,
+          "damage": 93263
+        },
+        {
+          "day_index": 12,
+          "rank": 2350,
+          "wins": 3,
+          "battles": 6,
+          "damage": 70353
+        }
+      ]
+    },
+    "kamukad3e7o": {
+      "nickname": "KaMuKaD3e7o#27053",
+      "damage": 639491,
+      "battles": 33,
+      "wins": 15,
+      "frags": 209,
+      "qualified": true,
+      "damage_percentile": 8,
+      "today": {
+        "day_index": 12,
+        "wins": 4,
+        "battles": 10,
+        "win_rate": 0.4,
+        "damage": 229324,
+        "rank": 1179
+      },
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 5241,
+          "wins": 2,
+          "battles": 8,
+          "damage": 134392
+        },
+        {
+          "day_index": 10,
+          "rank": 419,
+          "wins": 9,
+          "battles": 15,
+          "damage": 275775
+        },
+        {
+          "day_index": 12,
+          "rank": 1179,
+          "wins": 4,
+          "battles": 10,
+          "damage": 229324
+        }
+      ]
+    },
+    "crossdeadestroy": {
+      "nickname": "Crossdeadestroy#40229",
+      "damage": 593580,
+      "battles": 28,
+      "wins": 12,
+      "frags": 164,
+      "qualified": true,
+      "damage_percentile": 8,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 1841,
+          "wins": 5,
+          "battles": 13,
+          "damage": 290676
+        },
+        {
+          "day_index": 2,
+          "rank": 7192,
+          "wins": 2,
+          "battles": 2,
+          "damage": 36880
+        },
+        {
+          "day_index": 5,
+          "rank": 4184,
+          "wins": 3,
+          "battles": 6,
+          "damage": 146501
+        },
+        {
+          "day_index": 8,
+          "rank": 6702,
+          "wins": 1,
+          "battles": 3,
+          "damage": 60231
+        },
+        {
+          "day_index": 9,
+          "rank": 9901,
+          "wins": 1,
+          "battles": 4,
+          "damage": 59292
+        }
+      ]
+    },
+    "talonzann": {
+      "nickname": "TalonZann#87856",
+      "damage": 560865,
+      "battles": 32,
+      "wins": 15,
+      "frags": 163,
+      "qualified": true,
+      "damage_percentile": 9,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 1016,
+          "wins": 7,
+          "battles": 13,
+          "damage": 212283
+        },
+        {
+          "day_index": 7,
+          "rank": 3658,
+          "wins": 2,
+          "battles": 4,
+          "damage": 49604
+        },
+        {
+          "day_index": 10,
+          "rank": 1097,
+          "wins": 6,
+          "battles": 15,
+          "damage": 298978
+        }
+      ]
+    },
+    "nihilus_2018": {
+      "nickname": "nihilus_2018#23281",
+      "damage": 540365,
+      "battles": 37,
+      "wins": 13,
+      "frags": 164,
+      "qualified": true,
+      "damage_percentile": 10,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 8,
+        "win_rate": 0.375,
+        "damage": 124880,
+        "rank": 1933
+      },
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12183,
+          "wins": 0,
+          "battles": 3,
+          "damage": 36468
+        },
+        {
+          "day_index": 7,
+          "rank": 4634,
+          "wins": 1,
+          "battles": 4,
+          "damage": 61308
+        },
+        {
+          "day_index": 8,
+          "rank": 795,
+          "wins": 7,
+          "battles": 15,
+          "damage": 207187
+        },
+        {
+          "day_index": 11,
+          "rank": 2207,
+          "wins": 2,
+          "battles": 7,
+          "damage": 110522
+        },
+        {
+          "day_index": 12,
+          "rank": 1933,
+          "wins": 3,
+          "battles": 8,
+          "damage": 124880
+        }
+      ]
+    },
+    "heyke": {
+      "nickname": "HEYKE#28000",
+      "damage": 519265,
+      "battles": 33,
+      "wins": 14,
+      "frags": 135,
+      "qualified": true,
+      "damage_percentile": 10,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 8691,
+          "wins": 1,
+          "battles": 4,
+          "damage": 61300
+        },
+        {
+          "day_index": 4,
+          "rank": 1848,
+          "wins": 4,
+          "battles": 10,
+          "damage": 173781
+        },
+        {
+          "day_index": 5,
+          "rank": 6254,
+          "wins": 2,
+          "battles": 6,
+          "damage": 97073
+        },
+        {
+          "day_index": 8,
+          "rank": 1159,
+          "wins": 6,
+          "battles": 12,
+          "damage": 163947
+        },
+        {
+          "day_index": 9,
+          "rank": 12119,
+          "wins": 1,
+          "battles": 1,
+          "damage": 23164
+        }
+      ]
+    },
+    "4yuo_": {
+      "nickname": "4yUO_#52505",
+      "damage": 512638,
+      "battles": 33,
+      "wins": 15,
+      "frags": 142,
+      "qualified": true,
+      "damage_percentile": 10,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 1899,
+          "wins": 5,
+          "battles": 14,
+          "damage": 220593
+        },
+        {
+          "day_index": 2,
+          "rank": 12728,
+          "wins": 0,
+          "battles": 2,
+          "damage": 35504
+        },
+        {
+          "day_index": 3,
+          "rank": 6306,
+          "wins": 1,
+          "battles": 1,
+          "damage": 13313
+        },
+        {
+          "day_index": 5,
+          "rank": 3726,
+          "wins": 4,
+          "battles": 5,
+          "damage": 85632
+        },
+        {
+          "day_index": 6,
+          "rank": 3778,
+          "wins": 3,
+          "battles": 9,
+          "damage": 124743
+        },
+        {
+          "day_index": 7,
+          "rank": 6418,
+          "wins": 1,
+          "battles": 1,
+          "damage": 14361
+        },
+        {
+          "day_index": 8,
+          "rank": 8736,
+          "wins": 1,
+          "battles": 1,
+          "damage": 18492
+        }
+      ]
+    },
+    "emptypocket84": {
+      "nickname": "emptypocket84#74247",
+      "damage": 508951,
+      "battles": 37,
+      "wins": 33,
+      "frags": 202,
+      "qualified": true,
+      "damage_percentile": 10,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13221,
+          "wins": 0,
+          "battles": 2,
+          "damage": 36118
+        },
+        {
+          "day_index": 2,
+          "rank": 14607,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8670
+        }
+      ]
+    },
+    "dmitreispb": {
+      "nickname": "DmitreiSPb#94736",
+      "damage": 500047,
+      "battles": 26,
+      "wins": 17,
+      "frags": 128,
+      "qualified": true,
+      "damage_percentile": 11,
+      "today": {
+        "day_index": 12,
+        "wins": 0,
+        "battles": 1,
+        "win_rate": 0.0,
+        "damage": 10445,
+        "rank": 8247
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 4067,
+          "wins": 3,
+          "battles": 6,
+          "damage": 111114
+        },
+        {
+          "day_index": 3,
+          "rank": 4010,
+          "wins": 2,
+          "battles": 2,
+          "damage": 26390
+        },
+        {
+          "day_index": 4,
+          "rank": 2152,
+          "wins": 4,
+          "battles": 5,
+          "damage": 109621
+        },
+        {
+          "day_index": 8,
+          "rank": 5544,
+          "wins": 2,
+          "battles": 2,
+          "damage": 40463
+        },
+        {
+          "day_index": 9,
+          "rank": 6562,
+          "wins": 2,
+          "battles": 5,
+          "damage": 107870
+        },
+        {
+          "day_index": 11,
+          "rank": 1184,
+          "wins": 4,
+          "battles": 5,
+          "damage": 94144
+        },
+        {
+          "day_index": 12,
+          "rank": 8247,
+          "wins": 0,
+          "battles": 1,
+          "damage": 10445
+        }
+      ]
+    },
+    "prroli_1": {
+      "nickname": "PRRoli_1#48655",
+      "damage": 497480,
+      "battles": 21,
+      "wins": 12,
+      "frags": 128,
+      "qualified": true,
+      "damage_percentile": 11,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 5477,
+          "wins": 2,
+          "battles": 4,
+          "damage": 106958
+        },
+        {
+          "day_index": 5,
+          "rank": 1548,
+          "wins": 6,
+          "battles": 10,
+          "damage": 215569
+        },
+        {
+          "day_index": 6,
+          "rank": 2567,
+          "wins": 4,
+          "battles": 7,
+          "damage": 174953
+        }
+      ]
+    },
+    "kopiati": {
+      "nickname": "Kopiati#91355",
+      "damage": 466387,
+      "battles": 24,
+      "wins": 13,
+      "frags": 129,
+      "qualified": true,
+      "damage_percentile": 12,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 772,
+          "wins": 8,
+          "battles": 15,
+          "damage": 290712
+        },
+        {
+          "day_index": 2,
+          "rank": 9648,
+          "wins": 1,
+          "battles": 2,
+          "damage": 31995
+        },
+        {
+          "day_index": 4,
+          "rank": 1947,
+          "wins": 4,
+          "battles": 7,
+          "damage": 143680
+        }
+      ]
+    },
+    "herobrine510k": {
+      "nickname": "herobrine510K#29930",
+      "damage": 465597,
+      "battles": 25,
+      "wins": 11,
+      "frags": 106,
+      "qualified": true,
+      "damage_percentile": 12,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 10954,
+          "wins": 1,
+          "battles": 1,
+          "damage": 17905
+        },
+        {
+          "day_index": 3,
+          "rank": 5163,
+          "wins": 1,
+          "battles": 2,
+          "damage": 32222
+        },
+        {
+          "day_index": 5,
+          "rank": 4095,
+          "wins": 3,
+          "battles": 9,
+          "damage": 183880
+        },
+        {
+          "day_index": 6,
+          "rank": 2593,
+          "wins": 4,
+          "battles": 8,
+          "damage": 167092
+        },
+        {
+          "day_index": 8,
+          "rank": 7545,
+          "wins": 1,
+          "battles": 2,
+          "damage": 35482
+        },
+        {
+          "day_index": 9,
+          "rank": 11466,
+          "wins": 1,
+          "battles": 3,
+          "damage": 29016
+        }
+      ]
+    },
+    "trak546": {
+      "nickname": "Trak546#68521",
+      "damage": 461691,
+      "battles": 21,
+      "wins": 11,
+      "frags": 152,
+      "qualified": true,
+      "damage_percentile": 12,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 2069,
+          "wins": 5,
+          "battles": 6,
+          "damage": 139691
+        },
+        {
+          "day_index": 5,
+          "rank": 6051,
+          "wins": 2,
+          "battles": 5,
+          "damage": 120807
+        },
+        {
+          "day_index": 6,
+          "rank": 7878,
+          "wins": 1,
+          "battles": 4,
+          "damage": 77728
+        },
+        {
+          "day_index": 10,
+          "rank": 3525,
+          "wins": 3,
+          "battles": 6,
+          "damage": 123465
+        }
+      ]
+    },
+    "jkcarnithan_hero": {
+      "nickname": "JKCarnithan_hero#60339",
+      "damage": 451816,
+      "battles": 34,
+      "wins": 32,
+      "frags": 144,
+      "qualified": true,
+      "damage_percentile": 12
+    },
+    "juras1451": {
+      "nickname": "juras1451#72070",
+      "damage": 449148,
+      "battles": 38,
+      "wins": 21,
+      "frags": 103,
+      "qualified": true,
+      "damage_percentile": 12,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 6637,
+          "wins": 2,
+          "battles": 4,
+          "damage": 54674
+        },
+        {
+          "day_index": 2,
+          "rank": 3537,
+          "wins": 4,
+          "battles": 6,
+          "damage": 44765
+        },
+        {
+          "day_index": 5,
+          "rank": 8230,
+          "wins": 2,
+          "battles": 3,
+          "damage": 30785
+        },
+        {
+          "day_index": 6,
+          "rank": 5030,
+          "wins": 3,
+          "battles": 4,
+          "damage": 39387
+        },
+        {
+          "day_index": 8,
+          "rank": 4541,
+          "wins": 2,
+          "battles": 6,
+          "damage": 82824
+        },
+        {
+          "day_index": 9,
+          "rank": 1461,
+          "wins": 7,
+          "battles": 12,
+          "damage": 162723
+        },
+        {
+          "day_index": 10,
+          "rank": 9081,
+          "wins": 1,
+          "battles": 3,
+          "damage": 33990
+        }
+      ]
+    },
+    "johanschumann": {
+      "nickname": "JohanSchumann#56201",
+      "damage": 434231,
+      "battles": 24,
+      "wins": 14,
+      "frags": 96,
+      "qualified": true,
+      "damage_percentile": 13,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 2180,
+          "wins": 5,
+          "battles": 8,
+          "damage": 137824
+        },
+        {
+          "day_index": 2,
+          "rank": 1492,
+          "wins": 6,
+          "battles": 9,
+          "damage": 166946
+        },
+        {
+          "day_index": 3,
+          "rank": 1906,
+          "wins": 3,
+          "battles": 7,
+          "damage": 129461
+        }
+      ]
+    },
+    "brilkin1": {
+      "nickname": "brilkin1#78755",
+      "damage": 432586,
+      "battles": 32,
+      "wins": 16,
+      "frags": 118,
+      "qualified": true,
+      "damage_percentile": 13,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 1046,
+          "wins": 7,
+          "battles": 15,
+          "damage": 190103
+        },
+        {
+          "day_index": 5,
+          "rank": 7228,
+          "wins": 2,
+          "battles": 3,
+          "damage": 53654
+        },
+        {
+          "day_index": 6,
+          "rank": 1139,
+          "wins": 7,
+          "battles": 11,
+          "damage": 146358
+        },
+        {
+          "day_index": 10,
+          "rank": 11884,
+          "wins": 0,
+          "battles": 3,
+          "damage": 42471
+        }
+      ]
+    },
+    "calum_smith_cs": {
+      "nickname": "Calum_Smith_CS#33591",
+      "damage": 430595,
+      "battles": 25,
+      "wins": 15,
+      "frags": 139,
+      "qualified": true,
+      "damage_percentile": 13,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 3,
+        "win_rate": 0.6667,
+        "damage": 45347,
+        "rank": 3622
+      },
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 2402,
+          "wins": 5,
+          "battles": 9,
+          "damage": 140738
+        },
+        {
+          "day_index": 6,
+          "rank": 2247,
+          "wins": 5,
+          "battles": 5,
+          "damage": 103435
+        },
+        {
+          "day_index": 7,
+          "rank": 1991,
+          "wins": 3,
+          "battles": 7,
+          "damage": 133687
+        },
+        {
+          "day_index": 10,
+          "rank": 13895,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7388
+        },
+        {
+          "day_index": 12,
+          "rank": 3622,
+          "wins": 2,
+          "battles": 3,
+          "damage": 45347
+        }
+      ]
+    },
+    "_lufas_": {
+      "nickname": "_LUFAS_#30581",
+      "damage": 428042,
+      "battles": 16,
+      "wins": 11,
+      "frags": 113,
+      "qualified": true,
+      "damage_percentile": 13,
+      "today": {
+        "day_index": 12,
+        "wins": 4,
+        "battles": 7,
+        "win_rate": 0.5714,
+        "damage": 209602,
+        "rank": 1194
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 7217,
+          "wins": 2,
+          "battles": 2,
+          "damage": 42065
+        },
+        {
+          "day_index": 4,
+          "rank": 7489,
+          "wins": 1,
+          "battles": 1,
+          "damage": 30214
+        },
+        {
+          "day_index": 6,
+          "rank": 2796,
+          "wins": 4,
+          "battles": 5,
+          "damage": 129322
+        },
+        {
+          "day_index": 11,
+          "rank": 6086,
+          "wins": 0,
+          "battles": 1,
+          "damage": 16839
+        },
+        {
+          "day_index": 12,
+          "rank": 1194,
+          "wins": 4,
+          "battles": 7,
+          "damage": 209602
+        }
+      ]
+    },
+    "pinkdevil": {
+      "nickname": "pinkdevil#87008",
+      "damage": 422050,
+      "battles": 30,
+      "wins": 15,
+      "frags": 133,
+      "qualified": true,
+      "damage_percentile": 13,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 3,
+        "win_rate": 0.6667,
+        "damage": 38181,
+        "rank": 3787
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 921,
+          "wins": 8,
+          "battles": 12,
+          "damage": 149579
+        },
+        {
+          "day_index": 4,
+          "rank": 1825,
+          "wins": 4,
+          "battles": 11,
+          "damage": 187624
+        },
+        {
+          "day_index": 9,
+          "rank": 10370,
+          "wins": 1,
+          "battles": 4,
+          "damage": 46666
+        },
+        {
+          "day_index": 12,
+          "rank": 3787,
+          "wins": 2,
+          "battles": 3,
+          "damage": 38181
+        }
+      ]
+    },
+    "killerlal": {
+      "nickname": "killerlal#35321",
+      "damage": 420113,
+      "battles": 31,
+      "wins": 14,
+      "frags": 136,
+      "qualified": true,
+      "damage_percentile": 13,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 1100,
+          "wins": 7,
+          "battles": 12,
+          "damage": 173571
+        },
+        {
+          "day_index": 3,
+          "rank": 6797,
+          "wins": 0,
+          "battles": 4,
+          "damage": 76383
+        },
+        {
+          "day_index": 4,
+          "rank": 7939,
+          "wins": 1,
+          "battles": 2,
+          "damage": 23818
+        },
+        {
+          "day_index": 10,
+          "rank": 7711,
+          "wins": 1,
+          "battles": 8,
+          "damage": 83771
+        }
+      ]
+    },
+    "wedran123": {
+      "nickname": "Wedran123#22909",
+      "damage": 406472,
+      "battles": 17,
+      "wins": 11,
+      "frags": 102,
+      "qualified": true,
+      "damage_percentile": 14,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 1508,
+          "wins": 6,
+          "battles": 8,
+          "damage": 162933
+        },
+        {
+          "day_index": 10,
+          "rank": 1570,
+          "wins": 5,
+          "battles": 9,
+          "damage": 243539
+        }
+      ]
+    },
+    "denouement": {
+      "nickname": "Denouement#32788",
+      "damage": 383233,
+      "battles": 21,
+      "wins": 21,
+      "frags": 132,
+      "qualified": true,
+      "damage_percentile": 15
+    },
+    "samurai_70rus": {
+      "nickname": "Samurai_70rus#63075",
+      "damage": 368006,
+      "battles": 16,
+      "wins": 13,
+      "frags": 104,
+      "qualified": true,
+      "damage_percentile": 16,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 880,
+          "wins": 8,
+          "battles": 9,
+          "damage": 230960
+        },
+        {
+          "day_index": 6,
+          "rank": 10422,
+          "wins": 1,
+          "battles": 1,
+          "damage": 18798
+        },
+        {
+          "day_index": 9,
+          "rank": 3663,
+          "wins": 4,
+          "battles": 6,
+          "damage": 118248
+        }
+      ]
+    },
+    "aker1998": {
+      "nickname": "aker1998#82656",
+      "damage": 356367,
+      "battles": 19,
+      "wins": 10,
+      "frags": 99,
+      "qualified": true,
+      "damage_percentile": 16,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 1,
+        "win_rate": 1.0,
+        "damage": 20005,
+        "rank": 5951
+      },
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 1344,
+          "wins": 4,
+          "battles": 10,
+          "damage": 155487
+        },
+        {
+          "day_index": 4,
+          "rank": 7677,
+          "wins": 1,
+          "battles": 2,
+          "damage": 27350
+        },
+        {
+          "day_index": 7,
+          "rank": 1382,
+          "wins": 4,
+          "battles": 6,
+          "damage": 153525
+        },
+        {
+          "day_index": 12,
+          "rank": 5951,
+          "wins": 1,
+          "battles": 1,
+          "damage": 20005
+        }
+      ]
+    },
+    "zjebusz": {
+      "nickname": "ZjeBusz#89311",
+      "damage": 349017,
+      "battles": 19,
+      "wins": 11,
+      "frags": 95,
+      "qualified": true,
+      "damage_percentile": 16,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 4135,
+          "wins": 3,
+          "battles": 5,
+          "damage": 97336
+        },
+        {
+          "day_index": 4,
+          "rank": 1331,
+          "wins": 5,
+          "battles": 10,
+          "damage": 193652
+        },
+        {
+          "day_index": 5,
+          "rank": 5399,
+          "wins": 3,
+          "battles": 4,
+          "damage": 58029
+        }
+      ]
+    },
+    "faxes": {
+      "nickname": "Faxes#30092",
+      "damage": 333385,
+      "battles": 22,
+      "wins": 13,
+      "frags": 91,
+      "qualified": true,
+      "damage_percentile": 17,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 7170,
+          "wins": 0,
+          "battles": 2,
+          "damage": 38494
+        },
+        {
+          "day_index": 8,
+          "rank": 848,
+          "wins": 7,
+          "battles": 11,
+          "damage": 170800
+        },
+        {
+          "day_index": 10,
+          "rank": 4687,
+          "wins": 3,
+          "battles": 3,
+          "damage": 47302
+        },
+        {
+          "day_index": 11,
+          "rank": 1753,
+          "wins": 3,
+          "battles": 6,
+          "damage": 76789
+        }
+      ]
+    },
+    "dshadowassassin": {
+      "nickname": "DShadowAssassin#38841",
+      "damage": 331570,
+      "battles": 25,
+      "wins": 13,
+      "frags": 94,
+      "qualified": true,
+      "damage_percentile": 17,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 98,
+          "wins": 13,
+          "battles": 25,
+          "damage": 331570
+        }
+      ]
+    },
+    "chinese__man": {
+      "nickname": "Chinese__Man#49490",
+      "damage": 324189,
+      "battles": 22,
+      "wins": 14,
+      "frags": 88,
+      "qualified": true,
+      "damage_percentile": 18,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 1647,
+          "wins": 4,
+          "battles": 5,
+          "damage": 80260
+        },
+        {
+          "day_index": 5,
+          "rank": 991,
+          "wins": 8,
+          "battles": 11,
+          "damage": 157875
+        },
+        {
+          "day_index": 7,
+          "rank": 4790,
+          "wins": 1,
+          "battles": 4,
+          "damage": 52058
+        },
+        {
+          "day_index": 8,
+          "rank": 7623,
+          "wins": 1,
+          "battles": 2,
+          "damage": 33996
+        }
+      ]
+    },
+    "flyingwaffles14": {
+      "nickname": "FlyingWaffles14#20243",
+      "damage": 313218,
+      "battles": 14,
+      "wins": 7,
+      "frags": 107,
+      "qualified": true,
+      "damage_percentile": 19,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 12378,
+          "wins": 1,
+          "battles": 1,
+          "damage": 14511
+        },
+        {
+          "day_index": 6,
+          "rank": 9977,
+          "wins": 1,
+          "battles": 1,
+          "damage": 23747
+        },
+        {
+          "day_index": 7,
+          "rank": 7023,
+          "wins": 0,
+          "battles": 3,
+          "damage": 57116
+        },
+        {
+          "day_index": 9,
+          "rank": 10602,
+          "wins": 1,
+          "battles": 2,
+          "damage": 41495
+        },
+        {
+          "day_index": 10,
+          "rank": 2319,
+          "wins": 4,
+          "battles": 7,
+          "damage": 176349
+        }
+      ]
+    },
+    "clevelenna": {
+      "nickname": "clevelenna#52388",
+      "damage": 311860,
+      "battles": 12,
+      "wins": 6,
+      "frags": 87,
+      "qualified": true,
+      "damage_percentile": 19,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 3,
+        "win_rate": 1.0,
+        "damage": 70096,
+        "rank": 2357
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 8276,
+          "wins": 1,
+          "battles": 4,
+          "damage": 93782
+        },
+        {
+          "day_index": 6,
+          "rank": 7677,
+          "wins": 1,
+          "battles": 4,
+          "damage": 120000
+        },
+        {
+          "day_index": 12,
+          "rank": 2357,
+          "wins": 3,
+          "battles": 3,
+          "damage": 70096
+        }
+      ]
+    },
+    "ashcannotaim": {
+      "nickname": "AshCannotAim#60185",
+      "damage": 311496,
+      "battles": 15,
+      "wins": 10,
+      "frags": 109,
+      "qualified": true,
+      "damage_percentile": 19,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 4397,
+          "wins": 3,
+          "battles": 5,
+          "damage": 79165
+        },
+        {
+          "day_index": 5,
+          "rank": 11277,
+          "wins": 1,
+          "battles": 1,
+          "damage": 24364
+        },
+        {
+          "day_index": 6,
+          "rank": 3950,
+          "wins": 3,
+          "battles": 5,
+          "damage": 105786
+        },
+        {
+          "day_index": 7,
+          "rank": 4896,
+          "wins": 1,
+          "battles": 2,
+          "damage": 46708
+        },
+        {
+          "day_index": 9,
+          "rank": 11860,
+          "wins": 1,
+          "battles": 1,
+          "damage": 25324
+        },
+        {
+          "day_index": 10,
+          "rank": 9326,
+          "wins": 1,
+          "battles": 1,
+          "damage": 30149
+        }
+      ]
+    },
+    "p0wer69sl1de": {
+      "nickname": "P0WER69SL1DE#21453",
+      "damage": 306204,
+      "battles": 17,
+      "wins": 8,
+      "frags": 86,
+      "qualified": true,
+      "damage_percentile": 19,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 1804,
+          "wins": 5,
+          "battles": 12,
+          "damage": 207198
+        },
+        {
+          "day_index": 10,
+          "rank": 3771,
+          "wins": 3,
+          "battles": 5,
+          "damage": 99006
+        }
+      ]
+    },
+    "facethemadness": {
+      "nickname": "FaceTheMadness#56391",
+      "damage": 304799,
+      "battles": 15,
+      "wins": 9,
+      "frags": 99,
+      "qualified": true,
+      "damage_percentile": 19,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 3009,
+          "wins": 4,
+          "battles": 9,
+          "damage": 175757
+        },
+        {
+          "day_index": 6,
+          "rank": 2102,
+          "wins": 5,
+          "battles": 6,
+          "damage": 129042
+        }
+      ]
+    },
+    "advanced_dusk17": {
+      "nickname": "advanced_dusk17#55116",
+      "damage": 301723,
+      "battles": 27,
+      "wins": 11,
+      "frags": 78,
+      "qualified": true,
+      "damage_percentile": 19,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 5,
+        "win_rate": 0.2,
+        "damage": 51512,
+        "rank": 4696
+      },
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 8502,
+          "wins": 1,
+          "battles": 5,
+          "damage": 47902
+        },
+        {
+          "day_index": 7,
+          "rank": 5169,
+          "wins": 1,
+          "battles": 3,
+          "damage": 37288
+        },
+        {
+          "day_index": 10,
+          "rank": 684,
+          "wins": 8,
+          "battles": 14,
+          "damage": 165021
+        },
+        {
+          "day_index": 12,
+          "rank": 4696,
+          "wins": 1,
+          "battles": 5,
+          "damage": 51512
+        }
+      ]
+    },
+    "tsc04007": {
+      "nickname": "tsc04007#79604",
+      "damage": 289616,
+      "battles": 13,
+      "wins": 8,
+      "frags": 68,
+      "qualified": true,
+      "damage_percentile": 20,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 2799,
+          "wins": 2,
+          "battles": 6,
+          "damage": 126201
+        },
+        {
+          "day_index": 4,
+          "rank": 4588,
+          "wins": 2,
+          "battles": 2,
+          "damage": 64540
+        },
+        {
+          "day_index": 7,
+          "rank": 2410,
+          "wins": 3,
+          "battles": 3,
+          "damage": 75828
+        },
+        {
+          "day_index": 9,
+          "rank": 12136,
+          "wins": 1,
+          "battles": 2,
+          "damage": 23047
+        }
+      ]
+    },
+    "suchiniboot": {
+      "nickname": "Suchiniboot#10974",
+      "damage": 289274,
+      "battles": 15,
+      "wins": 10,
+      "frags": 76,
+      "qualified": true,
+      "damage_percentile": 20,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 7195,
+          "wins": 2,
+          "battles": 2,
+          "damage": 36831
+        },
+        {
+          "day_index": 6,
+          "rank": 5460,
+          "wins": 2,
+          "battles": 5,
+          "damage": 99503
+        },
+        {
+          "day_index": 10,
+          "rank": 1316,
+          "wins": 6,
+          "battles": 8,
+          "damage": 152940
+        }
+      ]
+    },
+    "raaenn": {
+      "nickname": "Raaenn#58084",
+      "damage": 285857,
+      "battles": 14,
+      "wins": 7,
+      "frags": 62,
+      "qualified": true,
+      "damage_percentile": 20,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 1499,
+          "wins": 6,
+          "battles": 13,
+          "damage": 255338
+        }
+      ]
+    },
+    "ptabassof": {
+      "nickname": "Ptabassof#32401",
+      "damage": 284839,
+      "battles": 23,
+      "wins": 7,
+      "frags": 65,
+      "qualified": true,
+      "damage_percentile": 20,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 3986,
+          "wins": 3,
+          "battles": 8,
+          "damage": 108543
+        },
+        {
+          "day_index": 5,
+          "rank": 6189,
+          "wins": 2,
+          "battles": 9,
+          "damage": 101304
+        },
+        {
+          "day_index": 6,
+          "rank": 13241,
+          "wins": 0,
+          "battles": 2,
+          "damage": 15561
+        },
+        {
+          "day_index": 10,
+          "rank": 5988,
+          "wins": 2,
+          "battles": 4,
+          "damage": 59431
+        }
+      ]
+    },
+    "player_1038355092": {
+      "nickname": "Player_1038355092#82059",
+      "damage": 272804,
+      "battles": 17,
+      "wins": 8,
+      "frags": 58,
+      "qualified": true,
+      "damage_percentile": 21,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 1483,
+          "wins": 6,
+          "battles": 13,
+          "damage": 198732
+        },
+        {
+          "day_index": 2,
+          "rank": 5950,
+          "wins": 2,
+          "battles": 4,
+          "damage": 74072
+        }
+      ]
+    },
+    "ihanaseppo": {
+      "nickname": "IhanaSeppo#11128",
+      "damage": 272563,
+      "battles": 18,
+      "wins": 8,
+      "frags": 79,
+      "qualified": true,
+      "damage_percentile": 21,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 4,
+        "win_rate": 0.5,
+        "damage": 62299,
+        "rank": 3281
+      },
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 14308,
+          "wins": 0,
+          "battles": 5,
+          "damage": 82539
+        },
+        {
+          "day_index": 10,
+          "rank": 4074,
+          "wins": 3,
+          "battles": 6,
+          "damage": 80969
+        },
+        {
+          "day_index": 12,
+          "rank": 3281,
+          "wins": 2,
+          "battles": 4,
+          "damage": 62299
+        }
+      ]
+    },
+    "stelia": {
+      "nickname": "Stelia#41620",
+      "damage": 262213,
+      "battles": 17,
+      "wins": 8,
+      "frags": 65,
+      "qualified": true,
+      "damage_percentile": 22,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 2343,
+          "wins": 5,
+          "battles": 6,
+          "damage": 110126
+        },
+        {
+          "day_index": 5,
+          "rank": 15439,
+          "wins": 0,
+          "battles": 1,
+          "damage": 11509
+        },
+        {
+          "day_index": 6,
+          "rank": 9350,
+          "wins": 1,
+          "battles": 2,
+          "damage": 31575
+        },
+        {
+          "day_index": 8,
+          "rank": 7325,
+          "wins": 1,
+          "battles": 4,
+          "damage": 40046
+        },
+        {
+          "day_index": 9,
+          "rank": 10467,
+          "wins": 1,
+          "battles": 2,
+          "damage": 44389
+        },
+        {
+          "day_index": 10,
+          "rank": 12461,
+          "wins": 0,
+          "battles": 2,
+          "damage": 24568
+        }
+      ]
+    },
+    "kaschube": {
+      "nickname": "Kaschube#66414",
+      "damage": 250399,
+      "battles": 19,
+      "wins": 10,
+      "frags": 67,
+      "qualified": true,
+      "damage_percentile": 23,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 4,
+        "win_rate": 0.25,
+        "damage": 44007,
+        "rank": 4893
+      },
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 1879,
+          "wins": 6,
+          "battles": 11,
+          "damage": 169480
+        },
+        {
+          "day_index": 10,
+          "rank": 4805,
+          "wins": 3,
+          "battles": 4,
+          "damage": 36912
+        },
+        {
+          "day_index": 12,
+          "rank": 4893,
+          "wins": 1,
+          "battles": 4,
+          "damage": 44007
+        }
+      ]
+    },
+    "julian0105kr": {
+      "nickname": "Julian0105Kr#19640",
+      "damage": 249498,
+      "battles": 12,
+      "wins": 4,
+      "frags": 71,
+      "qualified": true,
+      "damage_percentile": 23,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 10525,
+          "wins": 0,
+          "battles": 1,
+          "damage": 19815
+        },
+        {
+          "day_index": 5,
+          "rank": 10040,
+          "wins": 1,
+          "battles": 2,
+          "damage": 40233
+        },
+        {
+          "day_index": 9,
+          "rank": 4613,
+          "wins": 3,
+          "battles": 7,
+          "damage": 143005
+        },
+        {
+          "day_index": 10,
+          "rank": 11828,
+          "wins": 0,
+          "battles": 2,
+          "damage": 46445
+        }
+      ]
+    },
+    "pashysha001": {
+      "nickname": "Pashysha001#49824",
+      "damage": 249090,
+      "battles": 14,
+      "wins": 7,
+      "frags": 84,
+      "qualified": true,
+      "damage_percentile": 23,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 5204,
+          "wins": 3,
+          "battles": 4,
+          "damage": 87145
+        },
+        {
+          "day_index": 10,
+          "rank": 2369,
+          "wins": 4,
+          "battles": 10,
+          "damage": 161945
+        }
+      ]
+    },
+    "mahirohosono": {
+      "nickname": "mahirohosono#62951",
+      "damage": 246858,
+      "battles": 17,
+      "wins": 13,
+      "frags": 85,
+      "qualified": true,
+      "damage_percentile": 23,
+      "today": {
+        "day_index": 12,
+        "wins": 0,
+        "battles": 1,
+        "win_rate": 0.0,
+        "damage": 13043,
+        "rank": 8056
+      },
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 4852,
+          "wins": 2,
+          "battles": 3,
+          "damage": 53748
+        },
+        {
+          "day_index": 5,
+          "rank": 14008,
+          "wins": 0,
+          "battles": 2,
+          "damage": 29966
+        },
+        {
+          "day_index": 9,
+          "rank": 11369,
+          "wins": 1,
+          "battles": 1,
+          "damage": 30291
+        },
+        {
+          "day_index": 12,
+          "rank": 8056,
+          "wins": 0,
+          "battles": 1,
+          "damage": 13043
+        }
+      ]
+    },
+    "mestnik_ada": {
+      "nickname": "Mestnik_ada#97046",
+      "damage": 237050,
+      "battles": 15,
+      "wins": 8,
+      "frags": 69,
+      "qualified": true,
+      "damage_percentile": 24,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 977,
+          "wins": 8,
+          "battles": 15,
+          "damage": 237050
+        }
+      ]
+    },
+    "khabaro": {
+      "nickname": "Khabaro#56376",
+      "damage": 235110,
+      "battles": 15,
+      "wins": 5,
+      "frags": 49,
+      "qualified": true,
+      "damage_percentile": 25,
+      "today": {
+        "day_index": 12,
+        "wins": 4,
+        "battles": 6,
+        "win_rate": 0.6667,
+        "damage": 107731,
+        "rank": null
+      }
+    },
+    "sashkafistashka_2017": {
+      "nickname": "SashkaFistashka_2017#38967",
+      "damage": 228997,
+      "battles": 12,
+      "wins": 9,
+      "frags": 60,
+      "qualified": true,
+      "damage_percentile": 25,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 1,
+        "win_rate": 1.0,
+        "damage": 17686,
+        "rank": 6108
+      },
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 1602,
+          "wins": 6,
+          "battles": 9,
+          "damage": 158491
+        },
+        {
+          "day_index": 2,
+          "rank": 10216,
+          "wins": 1,
+          "battles": 1,
+          "damage": 25322
+        },
+        {
+          "day_index": 8,
+          "rank": 8036,
+          "wins": 1,
+          "battles": 1,
+          "damage": 27498
+        },
+        {
+          "day_index": 12,
+          "rank": 6108,
+          "wins": 1,
+          "battles": 1,
+          "damage": 17686
+        }
+      ]
+    },
+    "jocker86pl": {
+      "nickname": "jocker86pl#80666",
+      "damage": 228219,
+      "battles": 17,
+      "wins": 11,
+      "frags": 72,
+      "qualified": true,
+      "damage_percentile": 25,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 16109,
+          "wins": 0,
+          "battles": 1,
+          "damage": 15619
+        },
+        {
+          "day_index": 10,
+          "rank": 11653,
+          "wins": 0,
+          "battles": 5,
+          "damage": 75467
+        }
+      ]
+    },
+    "crazeee99": {
+      "nickname": "CraZeee99#70594",
+      "damage": 226299,
+      "battles": 17,
+      "wins": 9,
+      "frags": 58,
+      "qualified": true,
+      "damage_percentile": 25,
+      "today": {
+        "day_index": 12,
+        "wins": 9,
+        "battles": 17,
+        "win_rate": 0.5294,
+        "damage": 226299,
+        "rank": 248
+      },
+      "history": [
+        {
+          "day_index": 12,
+          "rank": 248,
+          "wins": 9,
+          "battles": 17,
+          "damage": 226299
+        }
+      ]
+    },
+    "thel_vadam_": {
+      "nickname": "Thel_Vadam_#86042",
+      "damage": 225476,
+      "battles": 9,
+      "wins": 4,
+      "frags": 58,
+      "qualified": false,
+      "damage_percentile": 25,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 2509,
+          "wins": 4,
+          "battles": 9,
+          "damage": 225476
+        }
+      ]
+    },
+    "mr_zool": {
+      "nickname": "Mr_Zool#44280",
+      "damage": 223722,
+      "battles": 12,
+      "wins": 12,
+      "frags": 83,
+      "qualified": true,
+      "damage_percentile": 26
+    },
+    "vomitcomet_stern": {
+      "nickname": "VOMitCOMet_stern#54221",
+      "damage": 221013,
+      "battles": 13,
+      "wins": 12,
+      "frags": 84,
+      "qualified": true,
+      "damage_percentile": 26
+    },
+    "lucas_chedeville_iron": {
+      "nickname": "Lucas_Chedeville_iron#56103",
+      "damage": 220666,
+      "battles": 15,
+      "wins": 7,
+      "frags": 47,
+      "qualified": true,
+      "damage_percentile": 26,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 2,
+        "win_rate": 0.5,
+        "damage": 21148,
+        "rank": 5848
+      },
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 8678,
+          "wins": 1,
+          "battles": 3,
+          "damage": 50605
+        },
+        {
+          "day_index": 6,
+          "rank": 8892,
+          "wins": 1,
+          "battles": 3,
+          "damage": 39530
+        },
+        {
+          "day_index": 8,
+          "rank": 11316,
+          "wins": 0,
+          "battles": 1,
+          "damage": 14635
+        },
+        {
+          "day_index": 10,
+          "rank": 3979,
+          "wins": 3,
+          "battles": 5,
+          "damage": 86346
+        },
+        {
+          "day_index": 11,
+          "rank": 5278,
+          "wins": 1,
+          "battles": 1,
+          "damage": 8402
+        },
+        {
+          "day_index": 12,
+          "rank": 5848,
+          "wins": 1,
+          "battles": 2,
+          "damage": 21148
+        }
+      ]
+    },
+    "zemunefire": {
+      "nickname": "Zemunefire#17001",
+      "damage": 218629,
+      "battles": 14,
+      "wins": 7,
+      "frags": 65,
+      "qualified": true,
+      "damage_percentile": 26,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 1658,
+          "wins": 5,
+          "battles": 11,
+          "damage": 138038
+        }
+      ]
+    },
+    "rainknight5621": {
+      "nickname": "rainknight5621#90482",
+      "damage": 218004,
+      "battles": 27,
+      "wins": 12,
+      "frags": 59,
+      "qualified": true,
+      "damage_percentile": 26,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 10842,
+          "wins": 1,
+          "battles": 3,
+          "damage": 22528
+        },
+        {
+          "day_index": 2,
+          "rank": 10756,
+          "wins": 1,
+          "battles": 2,
+          "damage": 19730
+        },
+        {
+          "day_index": 3,
+          "rank": 3819,
+          "wins": 2,
+          "battles": 3,
+          "damage": 35955
+        },
+        {
+          "day_index": 5,
+          "rank": 14610,
+          "wins": 0,
+          "battles": 3,
+          "damage": 19741
+        },
+        {
+          "day_index": 6,
+          "rank": 9608,
+          "wins": 1,
+          "battles": 3,
+          "damage": 27879
+        },
+        {
+          "day_index": 7,
+          "rank": 2703,
+          "wins": 3,
+          "battles": 6,
+          "damage": 49286
+        },
+        {
+          "day_index": 8,
+          "rank": 6114,
+          "wins": 2,
+          "battles": 4,
+          "damage": 21162
+        },
+        {
+          "day_index": 9,
+          "rank": 9083,
+          "wins": 2,
+          "battles": 3,
+          "damage": 21723
+        }
+      ]
+    },
+    "ernest_e_evans__": {
+      "nickname": "Ernest_E_Evans__#86631",
+      "damage": 216621,
+      "battles": 19,
+      "wins": 10,
+      "frags": 59,
+      "qualified": true,
+      "damage_percentile": 26,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 2382,
+          "wins": 3,
+          "battles": 5,
+          "damage": 63256
+        },
+        {
+          "day_index": 5,
+          "rank": 7683,
+          "wins": 2,
+          "battles": 4,
+          "damage": 43299
+        },
+        {
+          "day_index": 6,
+          "rank": 11608,
+          "wins": 1,
+          "battles": 1,
+          "damage": 5488
+        },
+        {
+          "day_index": 8,
+          "rank": 3614,
+          "wins": 3,
+          "battles": 6,
+          "damage": 68909
+        },
+        {
+          "day_index": 9,
+          "rank": 10944,
+          "wins": 1,
+          "battles": 3,
+          "damage": 35669
+        }
+      ]
+    },
+    "_f_q_": {
+      "nickname": "_F_Q_#85412",
+      "damage": 216440,
+      "battles": 12,
+      "wins": 8,
+      "frags": 45,
+      "qualified": true,
+      "damage_percentile": 26,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 2169,
+          "wins": 5,
+          "battles": 8,
+          "damage": 141742
+        },
+        {
+          "day_index": 5,
+          "rank": 10099,
+          "wins": 1,
+          "battles": 2,
+          "damage": 39176
+        },
+        {
+          "day_index": 9,
+          "rank": 8587,
+          "wins": 2,
+          "battles": 2,
+          "damage": 35522
+        }
+      ]
+    },
+    "pt1x12": {
+      "nickname": "PT1X12#31036",
+      "damage": 216262,
+      "battles": 12,
+      "wins": 9,
+      "frags": 53,
+      "qualified": true,
+      "damage_percentile": 26,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 10355,
+          "wins": 1,
+          "battles": 2,
+          "damage": 46925
+        },
+        {
+          "day_index": 10,
+          "rank": 679,
+          "wins": 8,
+          "battles": 10,
+          "damage": 169337
+        }
+      ]
+    },
+    "player_8969049957": {
+      "nickname": "Player_8969049957#93343",
+      "damage": 212714,
+      "battles": 10,
+      "wins": 7,
+      "frags": 58,
+      "qualified": true,
+      "damage_percentile": 27,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 2,
+        "win_rate": 1.0,
+        "damage": 46724,
+        "rank": 3589
+      },
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 4465,
+          "wins": 3,
+          "battles": 6,
+          "damage": 111934
+        },
+        {
+          "day_index": 12,
+          "rank": 3589,
+          "wins": 2,
+          "battles": 2,
+          "damage": 46724
+        }
+      ]
+    },
+    "cpt_speirs_45": {
+      "nickname": "Cpt_Speirs_45#79238",
+      "damage": 204718,
+      "battles": 10,
+      "wins": 4,
+      "frags": 57,
+      "qualified": true,
+      "damage_percentile": 28,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 3,
+        "win_rate": 0.3333,
+        "damage": 68415,
+        "rank": 4436
+      },
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 4401,
+          "wins": 1,
+          "battles": 5,
+          "damage": 100578
+        },
+        {
+          "day_index": 11,
+          "rank": 3019,
+          "wins": 2,
+          "battles": 2,
+          "damage": 35725
+        },
+        {
+          "day_index": 12,
+          "rank": 4436,
+          "wins": 1,
+          "battles": 3,
+          "damage": 68415
+        }
+      ]
+    },
+    "viktorzilanov": {
+      "nickname": "ViktorZilanov#23609",
+      "damage": 201651,
+      "battles": 13,
+      "wins": 9,
+      "frags": 53,
+      "qualified": true,
+      "damage_percentile": 28,
+      "today": {
+        "day_index": 12,
+        "wins": 5,
+        "battles": 9,
+        "win_rate": 0.5556,
+        "damage": 133579,
+        "rank": 981
+      },
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 3409,
+          "wins": 4,
+          "battles": 4,
+          "damage": 68072
+        },
+        {
+          "day_index": 12,
+          "rank": 981,
+          "wins": 5,
+          "battles": 9,
+          "damage": 133579
+        }
+      ]
+    },
+    "xxporkxxxsodaxx": {
+      "nickname": "XxporkxXxsodaxX#59492",
+      "damage": 198594,
+      "battles": 12,
+      "wins": 5,
+      "frags": 52,
+      "qualified": true,
+      "damage_percentile": 28,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 2727,
+          "wins": 4,
+          "battles": 9,
+          "damage": 139449
+        },
+        {
+          "day_index": 7,
+          "rank": 4666,
+          "wins": 1,
+          "battles": 3,
+          "damage": 59145
+        }
+      ]
+    },
+    "dreadpluto056": {
+      "nickname": "DreadPluto056#35894",
+      "damage": 194553,
+      "battles": 18,
+      "wins": 8,
+      "frags": 61,
+      "qualified": true,
+      "damage_percentile": 29,
+      "today": {
+        "day_index": 12,
+        "wins": 3,
+        "battles": 7,
+        "win_rate": 0.4286,
+        "damage": 70579,
+        "rank": 2348
+      },
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 9741,
+          "wins": 0,
+          "battles": 4,
+          "damage": 46132
+        },
+        {
+          "day_index": 5,
+          "rank": 5500,
+          "wins": 3,
+          "battles": 5,
+          "damage": 53526
+        },
+        {
+          "day_index": 9,
+          "rank": 9015,
+          "wins": 2,
+          "battles": 2,
+          "damage": 24316
+        },
+        {
+          "day_index": 12,
+          "rank": 2348,
+          "wins": 3,
+          "battles": 7,
+          "damage": 70579
+        }
+      ]
+    },
+    "oberst_general_huby": {
+      "nickname": "Oberst_General_Huby#62998",
+      "damage": 190284,
+      "battles": 9,
+      "wins": 4,
+      "frags": 36,
+      "qualified": false,
+      "damage_percentile": 29,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 11062,
+          "wins": 1,
+          "battles": 2,
+          "damage": 34119
+        },
+        {
+          "day_index": 10,
+          "rank": 3381,
+          "wins": 3,
+          "battles": 7,
+          "damage": 156165
+        }
+      ]
+    },
+    "nice_447": {
+      "nickname": "nice_447#61346",
+      "damage": 189819,
+      "battles": 14,
+      "wins": 9,
+      "frags": 42,
+      "qualified": true,
+      "damage_percentile": 30,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 8507,
+          "wins": 2,
+          "battles": 3,
+          "damage": 22739
+        },
+        {
+          "day_index": 7,
+          "rank": 3816,
+          "wins": 2,
+          "battles": 3,
+          "damage": 42852
+        },
+        {
+          "day_index": 8,
+          "rank": 3358,
+          "wins": 3,
+          "battles": 5,
+          "damage": 87714
+        },
+        {
+          "day_index": 9,
+          "rank": 8537,
+          "wins": 2,
+          "battles": 3,
+          "damage": 36514
+        }
+      ]
+    },
+    "kima": {
+      "nickname": "Kima#77278",
+      "damage": 187712,
+      "battles": 11,
+      "wins": 6,
+      "frags": 54,
+      "qualified": true,
+      "damage_percentile": 30,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 6231,
+          "wins": 2,
+          "battles": 4,
+          "damage": 68233
+        },
+        {
+          "day_index": 2,
+          "rank": 8712,
+          "wins": 1,
+          "battles": 3,
+          "damage": 49658
+        },
+        {
+          "day_index": 9,
+          "rank": 5539,
+          "wins": 3,
+          "battles": 4,
+          "damage": 69821
+        }
+      ]
+    },
+    "didier97425": {
+      "nickname": "didier97425#33465",
+      "damage": 187417,
+      "battles": 14,
+      "wins": 8,
+      "frags": 62,
+      "qualified": true,
+      "damage_percentile": 30,
+      "today": {
+        "day_index": 12,
+        "wins": 5,
+        "battles": 8,
+        "win_rate": 0.625,
+        "damage": 92568,
+        "rank": 1100
+      },
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 8256,
+          "wins": 1,
+          "battles": 1,
+          "damage": 20349
+        },
+        {
+          "day_index": 7,
+          "rank": 6290,
+          "wins": 1,
+          "battles": 1,
+          "damage": 16009
+        },
+        {
+          "day_index": 8,
+          "rank": 8005,
+          "wins": 1,
+          "battles": 2,
+          "damage": 27986
+        },
+        {
+          "day_index": 9,
+          "rank": 15019,
+          "wins": 0,
+          "battles": 2,
+          "damage": 30505
+        },
+        {
+          "day_index": 12,
+          "rank": 1100,
+          "wins": 5,
+          "battles": 8,
+          "damage": 92568
+        }
+      ]
+    },
+    "i2l_lw": {
+      "nickname": "i2l_lw#53730",
+      "damage": 186484,
+      "battles": 10,
+      "wins": 4,
+      "frags": 67,
+      "qualified": true,
+      "damage_percentile": 30,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12201,
+          "wins": 0,
+          "battles": 2,
+          "damage": 35774
+        },
+        {
+          "day_index": 7,
+          "rank": 5449,
+          "wins": 1,
+          "battles": 2,
+          "damage": 30585
+        },
+        {
+          "day_index": 10,
+          "rank": 11881,
+          "wins": 0,
+          "battles": 2,
+          "damage": 42810
+        },
+        {
+          "day_index": 11,
+          "rank": 1745,
+          "wins": 3,
+          "battles": 4,
+          "damage": 77315
+        }
+      ]
+    },
+    "cdestroyer1": {
+      "nickname": "CDestroyer1#40354",
+      "damage": 183604,
+      "battles": 13,
+      "wins": 10,
+      "frags": 60,
+      "qualified": true,
+      "damage_percentile": 30,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 13548,
+          "wins": 0,
+          "battles": 1,
+          "damage": 12491
+        }
+      ]
+    },
+    "drseltsam": {
+      "nickname": "DrSeltsam#36741",
+      "damage": 181227,
+      "battles": 11,
+      "wins": 7,
+      "frags": 53,
+      "qualified": true,
+      "damage_percentile": 31,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 5831,
+          "wins": 3,
+          "battles": 4,
+          "damage": 57311
+        },
+        {
+          "day_index": 10,
+          "rank": 11728,
+          "wins": 0,
+          "battles": 3,
+          "damage": 58064
+        }
+      ]
+    },
+    "player_9595027064": {
+      "nickname": "Player_9595027064#12682",
+      "damage": 179764,
+      "battles": 9,
+      "wins": 6,
+      "frags": 54,
+      "qualified": false,
+      "damage_percentile": 31,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 1526,
+          "wins": 6,
+          "battles": 9,
+          "damage": 179764
+        }
+      ]
+    },
+    "nightly_poison03": {
+      "nickname": "nightly_poison03#95144",
+      "damage": 177867,
+      "battles": 14,
+      "wins": 3,
+      "frags": 53,
+      "qualified": true,
+      "damage_percentile": 31,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 12927,
+          "wins": 0,
+          "battles": 4,
+          "damage": 52306
+        },
+        {
+          "day_index": 4,
+          "rank": 11378,
+          "wins": 0,
+          "battles": 1,
+          "damage": 9831
+        },
+        {
+          "day_index": 5,
+          "rank": 9498,
+          "wins": 1,
+          "battles": 3,
+          "damage": 52955
+        },
+        {
+          "day_index": 6,
+          "rank": 9354,
+          "wins": 1,
+          "battles": 3,
+          "damage": 31557
+        },
+        {
+          "day_index": 9,
+          "rank": 15563,
+          "wins": 0,
+          "battles": 2,
+          "damage": 21765
+        }
+      ]
+    },
+    "capitaoluukas37_gunner": {
+      "nickname": "CapitaoLuukas37_gunner#27453",
+      "damage": 176062,
+      "battles": 13,
+      "wins": 7,
+      "frags": 49,
+      "qualified": true,
+      "damage_percentile": 31,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12865,
+          "wins": 0,
+          "battles": 2,
+          "damage": 20230
+        },
+        {
+          "day_index": 9,
+          "rank": 2867,
+          "wins": 5,
+          "battles": 8,
+          "damage": 108005
+        },
+        {
+          "day_index": 10,
+          "rank": 6363,
+          "wins": 2,
+          "battles": 3,
+          "damage": 47827
+        }
+      ]
+    },
+    "happywarface": {
+      "nickname": "HAPPYWARFACE#75291",
+      "damage": 174235,
+      "battles": 15,
+      "wins": 7,
+      "frags": 56,
+      "qualified": true,
+      "damage_percentile": 32,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 6154,
+          "wins": 1,
+          "battles": 4,
+          "damage": 74234
+        },
+        {
+          "day_index": 6,
+          "rank": 12883,
+          "wins": 0,
+          "battles": 2,
+          "damage": 20011
+        },
+        {
+          "day_index": 10,
+          "rank": 9090,
+          "wins": 1,
+          "battles": 4,
+          "damage": 33772
+        }
+      ]
+    },
+    "adolf_ii": {
+      "nickname": "adolf_II#64195",
+      "damage": 173389,
+      "battles": 12,
+      "wins": 10,
+      "frags": 63,
+      "qualified": true,
+      "damage_percentile": 32,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 13121,
+          "wins": 1,
+          "battles": 1,
+          "damage": 14978
+        }
+      ]
+    },
+    "caparzo_esp": {
+      "nickname": "Caparzo_ESP#53730",
+      "damage": 170858,
+      "battles": 15,
+      "wins": 14,
+      "frags": 64,
+      "qualified": true,
+      "damage_percentile": 32
+    },
+    "assultfenrir": {
+      "nickname": "AssultFenrir#89544",
+      "damage": 167028,
+      "battles": 12,
+      "wins": 12,
+      "frags": 63,
+      "qualified": true,
+      "damage_percentile": 33
+    },
+    "_bombaster_": {
+      "nickname": "_Bombaster_#65735",
+      "damage": 167000,
+      "battles": 12,
+      "wins": 7,
+      "frags": 53,
+      "qualified": true,
+      "damage_percentile": 33,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 5384,
+          "wins": 3,
+          "battles": 5,
+          "damage": 58879
+        },
+        {
+          "day_index": 8,
+          "rank": 7063,
+          "wins": 1,
+          "battles": 3,
+          "damage": 46495
+        },
+        {
+          "day_index": 9,
+          "rank": 5728,
+          "wins": 3,
+          "battles": 4,
+          "damage": 61626
+        }
+      ]
+    },
+    "deadspyer": {
+      "nickname": "Deadspyer#61598",
+      "damage": 166791,
+      "battles": 9,
+      "wins": 3,
+      "frags": 44,
+      "qualified": false,
+      "damage_percentile": 33,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 4129,
+          "wins": 3,
+          "battles": 9,
+          "damage": 166791
+        }
+      ]
+    },
+    "errty235": {
+      "nickname": "Errty235#30014",
+      "damage": 163245,
+      "battles": 11,
+      "wins": 11,
+      "frags": 44,
+      "qualified": true,
+      "damage_percentile": 33
+    },
+    "railgun_213": {
+      "nickname": "Railgun_213#40712",
+      "damage": 162548,
+      "battles": 6,
+      "wins": 4,
+      "frags": 60,
+      "qualified": false,
+      "damage_percentile": 33,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 7133,
+          "wins": 2,
+          "battles": 2,
+          "damage": 43606
+        },
+        {
+          "day_index": 4,
+          "rank": 6482,
+          "wins": 1,
+          "battles": 2,
+          "damage": 53610
+        },
+        {
+          "day_index": 5,
+          "rank": 9198,
+          "wins": 1,
+          "battles": 2,
+          "damage": 65332
+        }
+      ]
+    },
+    "kicz_destroyer": {
+      "nickname": "KICZ_destroyer#42922",
+      "damage": 161776,
+      "battles": 12,
+      "wins": 2,
+      "frags": 34,
+      "qualified": true,
+      "damage_percentile": 33,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 9278,
+          "wins": 1,
+          "battles": 3,
+          "damage": 37707
+        },
+        {
+          "day_index": 8,
+          "rank": 9935,
+          "wins": 0,
+          "battles": 6,
+          "damage": 65391
+        },
+        {
+          "day_index": 10,
+          "rank": 8102,
+          "wins": 1,
+          "battles": 3,
+          "damage": 58678
+        }
+      ]
+    },
+    "saffredant": {
+      "nickname": "Saffredant#18660",
+      "damage": 159333,
+      "battles": 14,
+      "wins": 6,
+      "frags": 36,
+      "qualified": true,
+      "damage_percentile": 34,
+      "today": {
+        "day_index": 12,
+        "wins": 4,
+        "battles": 5,
+        "win_rate": 0.8,
+        "damage": 59594,
+        "rank": 1717
+      },
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 5216,
+          "wins": 2,
+          "battles": 9,
+          "damage": 99739
+        },
+        {
+          "day_index": 12,
+          "rank": 1717,
+          "wins": 4,
+          "battles": 5,
+          "damage": 59594
+        }
+      ]
+    },
+    "applenakin_2023": {
+      "nickname": "applenakin_2023#15309",
+      "damage": 159300,
+      "battles": 11,
+      "wins": 7,
+      "frags": 46,
+      "qualified": true,
+      "damage_percentile": 34,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 5930,
+          "wins": 1,
+          "battles": 1,
+          "damage": 21452
+        },
+        {
+          "day_index": 8,
+          "rank": 1229,
+          "wins": 6,
+          "battles": 10,
+          "damage": 137848
+        }
+      ]
+    },
+    "felixander": {
+      "nickname": "Felixander#77265",
+      "damage": 156710,
+      "battles": 8,
+      "wins": 6,
+      "frags": 39,
+      "qualified": false,
+      "damage_percentile": 34,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 5741,
+          "wins": 2,
+          "battles": 4,
+          "damage": 78093
+        },
+        {
+          "day_index": 9,
+          "rank": 13059,
+          "wins": 1,
+          "battles": 1,
+          "damage": 15579
+        },
+        {
+          "day_index": 10,
+          "rank": 10737,
+          "wins": 1,
+          "battles": 1,
+          "damage": 14803
+        }
+      ]
+    },
+    "orcaman_2017": {
+      "nickname": "orcaman_2017#59043",
+      "damage": 156465,
+      "battles": 14,
+      "wins": 14,
+      "frags": 64,
+      "qualified": true,
+      "damage_percentile": 34
+    },
+    "hunterr2424": {
+      "nickname": "Hunterr2424#13879",
+      "damage": 154671,
+      "battles": 16,
+      "wins": 10,
+      "frags": 48,
+      "qualified": true,
+      "damage_percentile": 34,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12694,
+          "wins": 0,
+          "battles": 2,
+          "damage": 22494
+        },
+        {
+          "day_index": 9,
+          "rank": 6138,
+          "wins": 3,
+          "battles": 6,
+          "damage": 39100
+        },
+        {
+          "day_index": 10,
+          "rank": 10369,
+          "wins": 1,
+          "battles": 2,
+          "damage": 18353
+        }
+      ]
+    },
+    "silvamar": {
+      "nickname": "Silvamar#67464",
+      "damage": 151442,
+      "battles": 16,
+      "wins": 7,
+      "frags": 38,
+      "qualified": true,
+      "damage_percentile": 35,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 4856,
+          "wins": 3,
+          "battles": 6,
+          "damage": 62424
+        },
+        {
+          "day_index": 5,
+          "rank": 5709,
+          "wins": 3,
+          "battles": 5,
+          "damage": 40778
+        },
+        {
+          "day_index": 6,
+          "rank": 14067,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7999
+        },
+        {
+          "day_index": 9,
+          "rank": 10677,
+          "wins": 1,
+          "battles": 4,
+          "damage": 40241
+        }
+      ]
+    },
+    "serg5577serg": {
+      "nickname": "SERG5577SERG#42537",
+      "damage": 149683,
+      "battles": 8,
+      "wins": 8,
+      "frags": 46,
+      "qualified": false,
+      "damage_percentile": 35
+    },
+    "essftg25": {
+      "nickname": "Essftg25#47059",
+      "damage": 147575,
+      "battles": 14,
+      "wins": 6,
+      "frags": 32,
+      "qualified": true,
+      "damage_percentile": 36,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 7767,
+          "wins": 2,
+          "battles": 2,
+          "damage": 28682
+        },
+        {
+          "day_index": 4,
+          "rank": 6867,
+          "wins": 1,
+          "battles": 3,
+          "damage": 41891
+        },
+        {
+          "day_index": 6,
+          "rank": 4376,
+          "wins": 3,
+          "battles": 9,
+          "damage": 77002
+        }
+      ]
+    },
+    "terminatik_stern": {
+      "nickname": "terminatik_stern#44357",
+      "damage": 145766,
+      "battles": 10,
+      "wins": 10,
+      "frags": 49,
+      "qualified": true,
+      "damage_percentile": 36,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 12455,
+          "wins": 1,
+          "battles": 1,
+          "damage": 7403
+        }
+      ]
+    },
+    "anthonytack60": {
+      "nickname": "anthonytack60#87016",
+      "damage": 141186,
+      "battles": 18,
+      "wins": 11,
+      "frags": 32,
+      "qualified": true,
+      "damage_percentile": 37,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 4293,
+          "wins": 4,
+          "battles": 8,
+          "damage": 55204
+        },
+        {
+          "day_index": 10,
+          "rank": 4339,
+          "wins": 3,
+          "battles": 6,
+          "damage": 66345
+        }
+      ]
+    },
+    "lukaszzxc": {
+      "nickname": "lukaszzxc#47066",
+      "damage": 139480,
+      "battles": 11,
+      "wins": 7,
+      "frags": 36,
+      "qualified": true,
+      "damage_percentile": 37,
+      "today": {
+        "day_index": 12,
+        "wins": 1,
+        "battles": 2,
+        "win_rate": 0.5,
+        "damage": 19332,
+        "rank": 5996
+      },
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 1417,
+          "wins": 6,
+          "battles": 9,
+          "damage": 120148
+        },
+        {
+          "day_index": 12,
+          "rank": 5996,
+          "wins": 1,
+          "battles": 2,
+          "damage": 19332
+        }
+      ]
+    },
+    "hypervv": {
+      "nickname": "HyperVV#97606",
+      "damage": 137112,
+      "battles": 10,
+      "wins": 7,
+      "frags": 36,
+      "qualified": true,
+      "damage_percentile": 37,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 1173,
+          "wins": 7,
+          "battles": 10,
+          "damage": 137112
+        }
+      ]
+    },
+    "dododom_defender": {
+      "nickname": "dododom_defender#49749",
+      "damage": 134902,
+      "battles": 8,
+      "wins": 6,
+      "frags": 30,
+      "qualified": false,
+      "damage_percentile": 38,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 2316,
+          "wins": 4,
+          "battles": 5,
+          "damage": 85643
+        },
+        {
+          "day_index": 8,
+          "rank": 5261,
+          "wins": 2,
+          "battles": 3,
+          "damage": 49259
+        }
+      ]
+    },
+    "1124298320": {
+      "nickname": "1124298320#21266",
+      "damage": 125192,
+      "battles": 8,
+      "wins": 5,
+      "frags": 30,
+      "qualified": false,
+      "damage_percentile": 40,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 1543,
+          "wins": 5,
+          "battles": 8,
+          "damage": 125192
+        }
+      ]
+    },
+    "pangasiusu": {
+      "nickname": "pangasiusu#74312",
+      "damage": 119920,
+      "battles": 10,
+      "wins": 10,
+      "frags": 34,
+      "qualified": true,
+      "damage_percentile": 41,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 11709,
+          "wins": 1,
+          "battles": 1,
+          "damage": 14758
+        }
+      ]
+    },
+    "ferrogol27": {
+      "nickname": "ferrogol27#30791",
+      "damage": 119919,
+      "battles": 7,
+      "wins": 3,
+      "frags": 23,
+      "qualified": false,
+      "damage_percentile": 41,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 4802,
+          "wins": 3,
+          "battles": 5,
+          "damage": 88334
+        },
+        {
+          "day_index": 8,
+          "rank": 10392,
+          "wins": 0,
+          "battles": 2,
+          "damage": 31585
+        }
+      ]
+    },
+    "apocalypse_l_br": {
+      "nickname": "APOCALYPSE_l_BR#30379",
+      "damage": 118031,
+      "battles": 10,
+      "wins": 6,
+      "frags": 34,
+      "qualified": true,
+      "damage_percentile": 41,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 1628,
+          "wins": 6,
+          "battles": 10,
+          "damage": 118031
+        }
+      ]
+    },
+    "d_o_m_i_n_a_t_o_r_760": {
+      "nickname": "D_O_M_I_N_A_T_O_R_760#40178",
+      "damage": 111520,
+      "battles": 11,
+      "wins": 5,
+      "frags": 29,
+      "qualified": true,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 3215,
+          "wins": 4,
+          "battles": 9,
+          "damage": 98279
+        },
+        {
+          "day_index": 2,
+          "rank": 11460,
+          "wins": 1,
+          "battles": 2,
+          "damage": 13241
+        }
+      ]
+    },
+    "lost_psycho": {
+      "nickname": "LOST_Psycho#79798",
+      "damage": 111450,
+      "battles": 8,
+      "wins": 5,
+      "frags": 25,
+      "qualified": false,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 11938,
+          "wins": 1,
+          "battles": 1,
+          "damage": 8417
+        },
+        {
+          "day_index": 9,
+          "rank": 3823,
+          "wins": 4,
+          "battles": 7,
+          "damage": 103033
+        }
+      ]
+    },
+    "acorporation": {
+      "nickname": "ACorporation#14698",
+      "damage": 109421,
+      "battles": 6,
+      "wins": 3,
+      "frags": 18,
+      "qualified": false,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 5370,
+          "wins": 2,
+          "battles": 2,
+          "damage": 37380
+        },
+        {
+          "day_index": 5,
+          "rank": 9072,
+          "wins": 1,
+          "battles": 4,
+          "damage": 72041
+        }
+      ]
+    },
+    "seniorpigstephen_steel": {
+      "nickname": "seniorpigstephen_steel#42265",
+      "damage": 108492,
+      "battles": 7,
+      "wins": 6,
+      "frags": 48,
+      "qualified": false,
+      "damage_percentile": 43
+    },
+    "akumama": {
+      "nickname": "Akumama#38092",
+      "damage": 108303,
+      "battles": 12,
+      "wins": 9,
+      "frags": 30,
+      "qualified": true,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 11805,
+          "wins": 0,
+          "battles": 1,
+          "damage": 4651
+        },
+        {
+          "day_index": 6,
+          "rank": 11453,
+          "wins": 1,
+          "battles": 1,
+          "damage": 8032
+        },
+        {
+          "day_index": 8,
+          "rank": 2761,
+          "wins": 4,
+          "battles": 6,
+          "damage": 49941
+        },
+        {
+          "day_index": 9,
+          "rank": 4343,
+          "wins": 4,
+          "battles": 4,
+          "damage": 45679
+        }
+      ]
+    },
+    "xpikul": {
+      "nickname": "xpikul#57706",
+      "damage": 107698,
+      "battles": 6,
+      "wins": 3,
+      "frags": 39,
+      "qualified": false,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 3997,
+          "wins": 3,
+          "battles": 6,
+          "damage": 107698
+        }
+      ]
+    },
+    "denis_beregovoi": {
+      "nickname": "denis_beregovoi#10631",
+      "damage": 107651,
+      "battles": 5,
+      "wins": 3,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 43,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 8426,
+          "wins": 1,
+          "battles": 3,
+          "damage": 59541
+        },
+        {
+          "day_index": 3,
+          "rank": 5511,
+          "wins": 1,
+          "battles": 1,
+          "damage": 25692
+        },
+        {
+          "day_index": 10,
+          "rank": 9963,
+          "wins": 1,
+          "battles": 1,
+          "damage": 22418
+        }
+      ]
+    },
+    "thada": {
+      "nickname": "ThaDa#75269",
+      "damage": 102881,
+      "battles": 11,
+      "wins": 5,
+      "frags": 26,
+      "qualified": true,
+      "damage_percentile": 45,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 15863,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7997
+        },
+        {
+          "day_index": 6,
+          "rank": 2296,
+          "wins": 5,
+          "battles": 10,
+          "damage": 94884
+        }
+      ]
+    },
+    "indigoferrium": {
+      "nickname": "INDIGOFERRIUM#42894",
+      "damage": 99796,
+      "battles": 5,
+      "wins": 2,
+      "frags": 32,
+      "qualified": false,
+      "damage_percentile": 45,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 2919,
+          "wins": 2,
+          "battles": 5,
+          "damage": 99796
+        }
+      ]
+    },
+    "rollin_death_2014": {
+      "nickname": "rollin_death_2014#39191",
+      "damage": 98708,
+      "battles": 6,
+      "wins": 2,
+      "frags": 23,
+      "qualified": false,
+      "damage_percentile": 46,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 6,
+        "win_rate": 0.3333,
+        "damage": 98708,
+        "rank": 2892
+      },
+      "history": [
+        {
+          "day_index": 12,
+          "rank": 2892,
+          "wins": 2,
+          "battles": 6,
+          "damage": 98708
+        }
+      ]
+    },
+    "exekutos": {
+      "nickname": "Exekutos#99412",
+      "damage": 98657,
+      "battles": 6,
+      "wins": 4,
+      "frags": 29,
+      "qualified": false,
+      "damage_percentile": 46,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 3580,
+          "wins": 4,
+          "battles": 6,
+          "damage": 98657
+        }
+      ]
+    },
+    "3ch3333": {
+      "nickname": "3ch3333#17255",
+      "damage": 97608,
+      "battles": 5,
+      "wins": 5,
+      "frags": 24,
+      "qualified": false,
+      "damage_percentile": 46
+    },
+    "terranex01": {
+      "nickname": "Terranex01#38898",
+      "damage": 96418,
+      "battles": 6,
+      "wins": 6,
+      "frags": 27,
+      "qualified": false,
+      "damage_percentile": 46,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 3770,
+          "wins": 2,
+          "battles": 2,
+          "damage": 37695
+        },
+        {
+          "day_index": 4,
+          "rank": 2488,
+          "wins": 4,
+          "battles": 4,
+          "damage": 58723
+        }
+      ]
+    },
+    "axela2515": {
+      "nickname": "axela2515#52941",
+      "damage": 96112,
+      "battles": 6,
+      "wins": 3,
+      "frags": 30,
+      "qualified": false,
+      "damage_percentile": 46,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 4556,
+          "wins": 1,
+          "battles": 4,
+          "damage": 68107
+        },
+        {
+          "day_index": 9,
+          "rank": 8898,
+          "wins": 2,
+          "battles": 2,
+          "damage": 28005
+        }
+      ]
+    },
+    "bitbad": {
+      "nickname": "BitBad#81555",
+      "damage": 94021,
+      "battles": 6,
+      "wins": 2,
+      "frags": 18,
+      "qualified": false,
+      "damage_percentile": 47,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13204,
+          "wins": 0,
+          "battles": 2,
+          "damage": 36409
+        },
+        {
+          "day_index": 4,
+          "rank": 11255,
+          "wins": 0,
+          "battles": 1,
+          "damage": 11142
+        },
+        {
+          "day_index": 5,
+          "rank": 7553,
+          "wins": 2,
+          "battles": 3,
+          "damage": 46470
+        }
+      ]
+    },
+    "lisasty": {
+      "nickname": "Lisasty#70551",
+      "damage": 92851,
+      "battles": 6,
+      "wins": 6,
+      "frags": 36,
+      "qualified": false,
+      "damage_percentile": 47,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 11479,
+          "wins": 1,
+          "battles": 1,
+          "damage": 13101
+        }
+      ]
+    },
+    "wl1248": {
+      "nickname": "wl1248#88200",
+      "damage": 91202,
+      "battles": 6,
+      "wins": 3,
+      "frags": 24,
+      "qualified": false,
+      "damage_percentile": 48,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 3083,
+          "wins": 3,
+          "battles": 6,
+          "damage": 91202
+        }
+      ]
+    },
+    "shieldtanked": {
+      "nickname": "ShieldTanked#36686",
+      "damage": 90711,
+      "battles": 6,
+      "wins": 3,
+      "frags": 29,
+      "qualified": false,
+      "damage_percentile": 48,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 2204,
+          "wins": 3,
+          "battles": 5,
+          "damage": 82180
+        },
+        {
+          "day_index": 4,
+          "rank": 11498,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8531
+        }
+      ]
+    },
+    "poko_6": {
+      "nickname": "poko_6#36671",
+      "damage": 89599,
+      "battles": 6,
+      "wins": 5,
+      "frags": 22,
+      "qualified": false,
+      "damage_percentile": 48,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 4961,
+          "wins": 3,
+          "battles": 4,
+          "damage": 57135
+        },
+        {
+          "day_index": 5,
+          "rank": 12094,
+          "wins": 1,
+          "battles": 1,
+          "damage": 16959
+        },
+        {
+          "day_index": 7,
+          "rank": 6328,
+          "wins": 1,
+          "battles": 1,
+          "damage": 15505
+        }
+      ]
+    },
+    "player_3537628472": {
+      "nickname": "Player_3537628472#31604",
+      "damage": 87237,
+      "battles": 7,
+      "wins": 6,
+      "frags": 29,
+      "qualified": false,
+      "damage_percentile": 49,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 856,
+          "wins": 6,
+          "battles": 7,
+          "damage": 87237
+        }
+      ]
+    },
+    "tiki2128": {
+      "nickname": "tiki2128#56565",
+      "damage": 86119,
+      "battles": 6,
+      "wins": 5,
+      "frags": 31,
+      "qualified": false,
+      "damage_percentile": 49,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 8132,
+          "wins": 1,
+          "battles": 2,
+          "damage": 21567
+        }
+      ]
+    },
+    "player_0509186650": {
+      "nickname": "Player_0509186650#43357",
+      "damage": 84282,
+      "battles": 7,
+      "wins": 4,
+      "frags": 23,
+      "qualified": false,
+      "damage_percentile": 50,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 6206,
+          "wins": 3,
+          "battles": 4,
+          "damage": 33177
+        },
+        {
+          "day_index": 10,
+          "rank": 8310,
+          "wins": 1,
+          "battles": 3,
+          "damage": 51105
+        }
+      ]
+    },
+    "player_4816993817": {
+      "nickname": "Player_4816993817#34368",
+      "damage": 83383,
+      "battles": 7,
+      "wins": 4,
+      "frags": 17,
+      "qualified": false,
+      "damage_percentile": 50,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 4077,
+          "wins": 2,
+          "battles": 2,
+          "damage": 22070
+        },
+        {
+          "day_index": 4,
+          "rank": 8313,
+          "wins": 1,
+          "battles": 1,
+          "damage": 19681
+        },
+        {
+          "day_index": 6,
+          "rank": 10531,
+          "wins": 1,
+          "battles": 2,
+          "damage": 17756
+        },
+        {
+          "day_index": 7,
+          "rank": 7512,
+          "wins": 0,
+          "battles": 2,
+          "damage": 23876
+        }
+      ]
+    },
+    "ac_dc_tom": {
+      "nickname": "ac_dc_tom#25317",
+      "damage": 82088,
+      "battles": 4,
+      "wins": 4,
+      "frags": 33,
+      "qualified": false,
+      "damage_percentile": 50
+    },
+    "chubaking": {
+      "nickname": "CHUBAKING#61949",
+      "damage": 82081,
+      "battles": 3,
+      "wins": 2,
+      "frags": 31,
+      "qualified": false,
+      "damage_percentile": 50,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 3160,
+          "wins": 2,
+          "battles": 3,
+          "damage": 82081
+        }
+      ]
+    },
+    "karawang": {
+      "nickname": "karawang#16112",
+      "damage": 78075,
+      "battles": 6,
+      "wins": 2,
+      "frags": 21,
+      "qualified": false,
+      "damage_percentile": 51,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 5521,
+          "wins": 2,
+          "battles": 6,
+          "damage": 78075
+        }
+      ]
+    },
+    "mityxx02_unconquerable": {
+      "nickname": "mityxX02_unconquerable#13466",
+      "damage": 77345,
+      "battles": 8,
+      "wins": 3,
+      "frags": 13,
+      "qualified": false,
+      "damage_percentile": 52,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 10316,
+          "wins": 1,
+          "battles": 3,
+          "damage": 24104
+        },
+        {
+          "day_index": 4,
+          "rank": 9977,
+          "wins": 0,
+          "battles": 3,
+          "damage": 32152
+        },
+        {
+          "day_index": 9,
+          "rank": 9107,
+          "wins": 2,
+          "battles": 2,
+          "damage": 21089
+        }
+      ]
+    },
+    "clem4214": {
+      "nickname": "Clem4214#61941",
+      "damage": 75447,
+      "battles": 5,
+      "wins": 2,
+      "frags": 29,
+      "qualified": false,
+      "damage_percentile": 52,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 7031,
+          "wins": 2,
+          "battles": 3,
+          "damage": 46027
+        },
+        {
+          "day_index": 5,
+          "rank": 14035,
+          "wins": 0,
+          "battles": 2,
+          "damage": 29420
+        }
+      ]
+    },
+    "qeewee_4703468": {
+      "nickname": "qeewee_4703468#28334",
+      "damage": 72864,
+      "battles": 4,
+      "wins": 1,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 53,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 9477,
+          "wins": 1,
+          "battles": 2,
+          "damage": 34456
+        },
+        {
+          "day_index": 9,
+          "rank": 14730,
+          "wins": 0,
+          "battles": 2,
+          "damage": 38408
+        }
+      ]
+    },
+    "xdraco": {
+      "nickname": "xDraco#95793",
+      "damage": 72697,
+      "battles": 6,
+      "wins": 6,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 53
+    },
+    "warl0rd_colossuz": {
+      "nickname": "WARL0RD_COLOSSUZ#59442",
+      "damage": 72102,
+      "battles": 5,
+      "wins": 2,
+      "frags": 22,
+      "qualified": false,
+      "damage_percentile": 53,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 12807,
+          "wins": 0,
+          "battles": 2,
+          "damage": 33083
+        },
+        {
+          "day_index": 8,
+          "rank": 5584,
+          "wins": 2,
+          "battles": 3,
+          "damage": 39019
+        }
+      ]
+    },
+    "viniciusbgd1": {
+      "nickname": "viniciusbgd1#94849",
+      "damage": 71101,
+      "battles": 6,
+      "wins": 3,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 54,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 13311,
+          "wins": 0,
+          "battles": 1,
+          "damage": 14706
+        },
+        {
+          "day_index": 7,
+          "rank": 8298,
+          "wins": 0,
+          "battles": 1,
+          "damage": 9358
+        },
+        {
+          "day_index": 10,
+          "rank": 4764,
+          "wins": 3,
+          "battles": 3,
+          "damage": 40516
+        },
+        {
+          "day_index": 11,
+          "rank": 6654,
+          "wins": 0,
+          "battles": 1,
+          "damage": 6521
+        }
+      ]
+    },
+    "vedor23": {
+      "nickname": "VeDoR23#91168",
+      "damage": 70947,
+      "battles": 3,
+      "wins": 2,
+      "frags": 26,
+      "qualified": false,
+      "damage_percentile": 54,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 9523,
+          "wins": 1,
+          "battles": 2,
+          "damage": 38885
+        },
+        {
+          "day_index": 5,
+          "rank": 10571,
+          "wins": 1,
+          "battles": 1,
+          "damage": 32062
+        }
+      ]
+    },
+    "player_8362927937": {
+      "nickname": "Player_8362927937#33528",
+      "damage": 70451,
+      "battles": 6,
+      "wins": 2,
+      "frags": 17,
+      "qualified": false,
+      "damage_percentile": 54,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 6696,
+          "wins": 2,
+          "battles": 6,
+          "damage": 70451
+        }
+      ]
+    },
+    "dl9du": {
+      "nickname": "DL9DU#77446",
+      "damage": 67692,
+      "battles": 15,
+      "wins": 7,
+      "frags": 17,
+      "qualified": true,
+      "damage_percentile": 55,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 12261,
+          "wins": 1,
+          "battles": 2,
+          "damage": 9775
+        },
+        {
+          "day_index": 8,
+          "rank": 12136,
+          "wins": 0,
+          "battles": 1,
+          "damage": 5484
+        },
+        {
+          "day_index": 9,
+          "rank": 4373,
+          "wins": 4,
+          "battles": 8,
+          "damage": 32232
+        },
+        {
+          "day_index": 10,
+          "rank": 7363,
+          "wins": 2,
+          "battles": 4,
+          "damage": 20201
+        }
+      ]
+    },
+    "slavakiller2020": {
+      "nickname": "SlavaKiller2020#28579",
+      "damage": 66104,
+      "battles": 3,
+      "wins": 3,
+      "frags": 19,
+      "qualified": false,
+      "damage_percentile": 56,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 4794,
+          "wins": 3,
+          "battles": 3,
+          "damage": 66104
+        }
+      ]
+    },
+    "kilrathi61": {
+      "nickname": "Kilrathi61#48025",
+      "damage": 65887,
+      "battles": 5,
+      "wins": 4,
+      "frags": 21,
+      "qualified": false,
+      "damage_percentile": 56,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 3502,
+          "wins": 4,
+          "battles": 5,
+          "damage": 65887
+        }
+      ]
+    },
+    "hansmaul84": {
+      "nickname": "HansMaul84#43930",
+      "damage": 64367,
+      "battles": 6,
+      "wins": 2,
+      "frags": 18,
+      "qualified": false,
+      "damage_percentile": 56,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 5833,
+          "wins": 2,
+          "battles": 6,
+          "damage": 64367
+        }
+      ]
+    },
+    "el_adrian5754": {
+      "nickname": "EL_ADRIAN5754#22042",
+      "damage": 63491,
+      "battles": 4,
+      "wins": 2,
+      "frags": 27,
+      "qualified": false,
+      "damage_percentile": 57,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 9122,
+          "wins": 1,
+          "battles": 2,
+          "damage": 40433
+        },
+        {
+          "day_index": 3,
+          "rank": 8061,
+          "wins": 0,
+          "battles": 1,
+          "damage": 10535
+        },
+        {
+          "day_index": 4,
+          "rank": 8950,
+          "wins": 1,
+          "battles": 1,
+          "damage": 12523
+        }
+      ]
+    },
+    "abdurahman7046": {
+      "nickname": "ABDURAHMAN7046#16980",
+      "damage": 61774,
+      "battles": 6,
+      "wins": 2,
+      "frags": 23,
+      "qualified": false,
+      "damage_percentile": 57,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 6280,
+          "wins": 2,
+          "battles": 6,
+          "damage": 61774
+        }
+      ]
+    },
+    "krutoiwasa228": {
+      "nickname": "krutoiwasa228#25247",
+      "damage": 61195,
+      "battles": 5,
+      "wins": 4,
+      "frags": 18,
+      "qualified": false,
+      "damage_percentile": 58,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 3518,
+          "wins": 4,
+          "battles": 4,
+          "damage": 49040
+        },
+        {
+          "day_index": 4,
+          "rank": 11149,
+          "wins": 0,
+          "battles": 1,
+          "damage": 12155
+        }
+      ]
+    },
+    "morninghazex": {
+      "nickname": "morningHAZEx#62684",
+      "damage": 61145,
+      "battles": 3,
+      "wins": 0,
+      "frags": 19,
+      "qualified": false,
+      "damage_percentile": 58,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 11712,
+          "wins": 0,
+          "battles": 3,
+          "damage": 61145
+        }
+      ]
+    },
+    "hartosk": {
+      "nickname": "HartoSK#63467",
+      "damage": 60849,
+      "battles": 3,
+      "wins": 2,
+      "frags": 17,
+      "qualified": false,
+      "damage_percentile": 58,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 10417,
+          "wins": 1,
+          "battles": 1,
+          "damage": 23025
+        },
+        {
+          "day_index": 5,
+          "rank": 10177,
+          "wins": 1,
+          "battles": 2,
+          "damage": 37824
+        }
+      ]
+    },
+    "kazemaru815": {
+      "nickname": "kazemaru815#51212",
+      "damage": 60178,
+      "battles": 3,
+      "wins": 2,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 58,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 9108,
+          "wins": 1,
+          "battles": 2,
+          "damage": 40616
+        },
+        {
+          "day_index": 7,
+          "rank": 6053,
+          "wins": 1,
+          "battles": 1,
+          "damage": 19562
+        }
+      ]
+    },
+    "liadakox": {
+      "nickname": "liadakox#67177",
+      "damage": 59384,
+      "battles": 3,
+      "wins": 2,
+      "frags": 14,
+      "qualified": false,
+      "damage_percentile": 58,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 10768,
+          "wins": 0,
+          "battles": 1,
+          "damage": 22141
+        },
+        {
+          "day_index": 9,
+          "rank": 8501,
+          "wins": 2,
+          "battles": 2,
+          "damage": 37243
+        }
+      ]
+    },
+    "player_3266649876": {
+      "nickname": "Player_3266649876#30659",
+      "damage": 57817,
+      "battles": 4,
+      "wins": 4,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 59
+    },
+    "phastasphuqboi": {
+      "nickname": "PhastasPhuqboi#11276",
+      "damage": 56241,
+      "battles": 3,
+      "wins": 2,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 60,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 3508,
+          "wins": 2,
+          "battles": 3,
+          "damage": 56241
+        }
+      ]
+    },
+    "aryachan37": {
+      "nickname": "aryachan37#43463",
+      "damage": 55809,
+      "battles": 7,
+      "wins": 3,
+      "frags": 20,
+      "qualified": false,
+      "damage_percentile": 60,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 11853,
+          "wins": 1,
+          "battles": 4,
+          "damage": 9579
+        },
+        {
+          "day_index": 3,
+          "rank": 3580,
+          "wins": 2,
+          "battles": 3,
+          "damage": 46230
+        }
+      ]
+    },
+    "mic_hero": {
+      "nickname": "mic_hero#20263",
+      "damage": 54080,
+      "battles": 5,
+      "wins": 2,
+      "frags": 21,
+      "qualified": false,
+      "damage_percentile": 61,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 6124,
+          "wins": 1,
+          "battles": 2,
+          "damage": 16003
+        },
+        {
+          "day_index": 4,
+          "rank": 7051,
+          "wins": 1,
+          "battles": 3,
+          "damage": 38077
+        }
+      ]
+    },
+    "assassinhunte915": {
+      "nickname": "assassinhunte915#90173",
+      "damage": 53179,
+      "battles": 7,
+      "wins": 4,
+      "frags": 18,
+      "qualified": false,
+      "damage_percentile": 61,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 1822,
+          "wins": 4,
+          "battles": 7,
+          "damage": 53179
+        }
+      ]
+    },
+    "benjmaingaming": {
+      "nickname": "BenjmainGaming#31722",
+      "damage": 53166,
+      "battles": 12,
+      "wins": 6,
+      "frags": 9,
+      "qualified": true,
+      "damage_percentile": 61,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 2706,
+          "wins": 3,
+          "battles": 4,
+          "damage": 21276
+        },
+        {
+          "day_index": 6,
+          "rank": 5124,
+          "wins": 3,
+          "battles": 6,
+          "damage": 27747
+        },
+        {
+          "day_index": 10,
+          "rank": 14178,
+          "wins": 0,
+          "battles": 2,
+          "damage": 4143
+        }
+      ]
+    },
+    "cnas_09": {
+      "nickname": "CNAS_09#29580",
+      "damage": 51818,
+      "battles": 5,
+      "wins": 4,
+      "frags": 17,
+      "qualified": false,
+      "damage_percentile": 62,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 6171,
+          "wins": 3,
+          "battles": 3,
+          "damage": 36351
+        },
+        {
+          "day_index": 10,
+          "rank": 13350,
+          "wins": 0,
+          "battles": 1,
+          "damage": 12992
+        }
+      ]
+    },
+    "smokiijokii": {
+      "nickname": "SmokiiJokii#55956",
+      "damage": 51787,
+      "battles": 6,
+      "wins": 0,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 62,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 11016,
+          "wins": 0,
+          "battles": 2,
+          "damage": 13560
+        },
+        {
+          "day_index": 5,
+          "rank": 13754,
+          "wins": 0,
+          "battles": 4,
+          "damage": 38227
+        }
+      ]
+    },
+    "levipofa12": {
+      "nickname": "Levipofa12#46051",
+      "damage": 51737,
+      "battles": 4,
+      "wins": 1,
+      "frags": 15,
+      "qualified": false,
+      "damage_percentile": 62,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 8952,
+          "wins": 1,
+          "battles": 4,
+          "damage": 51737
+        }
+      ]
+    },
+    "t3rv1z": {
+      "nickname": "T3rv1z#34732",
+      "damage": 51543,
+      "battles": 4,
+      "wins": 2,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 62,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13461,
+          "wins": 0,
+          "battles": 2,
+          "damage": 29631
+        }
+      ]
+    },
+    "darkdorian": {
+      "nickname": "DarkDorian#95367",
+      "damage": 50924,
+      "battles": 4,
+      "wins": 2,
+      "frags": 16,
+      "qualified": false,
+      "damage_percentile": 62,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 6252,
+          "wins": 2,
+          "battles": 4,
+          "damage": 50924
+        }
+      ]
+    },
+    "grinch075": {
+      "nickname": "grinch075#60640",
+      "damage": 49597,
+      "battles": 3,
+      "wins": 2,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 63,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 6296,
+          "wins": 2,
+          "battles": 3,
+          "damage": 49597
+        }
+      ]
+    },
+    "codlogic_3": {
+      "nickname": "Codlogic_3#72694",
+      "damage": 48282,
+      "battles": 3,
+      "wins": 1,
+      "frags": 12,
+      "qualified": false,
+      "damage_percentile": 63,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 7262,
+          "wins": 0,
+          "battles": 2,
+          "damage": 25468
+        },
+        {
+          "day_index": 10,
+          "rank": 9926,
+          "wins": 1,
+          "battles": 1,
+          "damage": 22814
+        }
+      ]
+    },
+    "olifierek": {
+      "nickname": "Olifierek#21572",
+      "damage": 48115,
+      "battles": 3,
+      "wins": 2,
+      "frags": 17,
+      "qualified": false,
+      "damage_percentile": 63,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 10990,
+          "wins": 1,
+          "battles": 2,
+          "damage": 27221
+        }
+      ]
+    },
+    "hiponiak": {
+      "nickname": "Hiponiak#20480",
+      "damage": 47190,
+      "battles": 4,
+      "wins": 1,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 64,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 8796,
+          "wins": 1,
+          "battles": 4,
+          "damage": 47190
+        }
+      ]
+    },
+    "phoenixstar007": {
+      "nickname": "Phoenixstar007#17800",
+      "damage": 46986,
+      "battles": 3,
+      "wins": 1,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 64,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 8809,
+          "wins": 1,
+          "battles": 3,
+          "damage": 46986
+        }
+      ]
+    },
+    "kahapejib": {
+      "nickname": "KAHAPEJIb#30455",
+      "damage": 45644,
+      "battles": 3,
+      "wins": 2,
+      "frags": 10,
+      "qualified": false,
+      "damage_percentile": 65,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 7046,
+          "wins": 2,
+          "battles": 3,
+          "damage": 45644
+        }
+      ]
+    },
+    "kingkhud": {
+      "nickname": "kingkhud#20012",
+      "damage": 45040,
+      "battles": 3,
+      "wins": 1,
+      "frags": 13,
+      "qualified": false,
+      "damage_percentile": 65,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 10436,
+          "wins": 1,
+          "battles": 3,
+          "damage": 45040
+        }
+      ]
+    },
+    "jecht1090": {
+      "nickname": "Jecht1090#39968",
+      "damage": 43652,
+      "battles": 2,
+      "wins": 0,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 66,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 7122,
+          "wins": 0,
+          "battles": 2,
+          "damage": 43652
+        }
+      ]
+    },
+    "ram_8x9": {
+      "nickname": "Ram_8x9#92224",
+      "damage": 42991,
+      "battles": 4,
+      "wins": 3,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 66,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 5050,
+          "wins": 3,
+          "battles": 4,
+          "damage": 42991
+        }
+      ]
+    },
+    "kekswikings3": {
+      "nickname": "kekswikings3#20081",
+      "damage": 42974,
+      "battles": 4,
+      "wins": 4,
+      "frags": 12,
+      "qualified": false,
+      "damage_percentile": 66,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 8904,
+          "wins": 2,
+          "battles": 2,
+          "damage": 27875
+        }
+      ]
+    },
+    "caesar_2007": {
+      "nickname": "caesar_2007#25107",
+      "damage": 42375,
+      "battles": 3,
+      "wins": 2,
+      "frags": 15,
+      "qualified": false,
+      "damage_percentile": 66,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 10252,
+          "wins": 1,
+          "battles": 2,
+          "damage": 28952
+        },
+        {
+          "day_index": 9,
+          "rank": 13331,
+          "wins": 1,
+          "battles": 1,
+          "damage": 13423
+        }
+      ]
+    },
+    "grinweeper1256": {
+      "nickname": "GRINWEEPER1256#74150",
+      "damage": 40732,
+      "battles": 4,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 67,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12802,
+          "wins": 0,
+          "battles": 2,
+          "damage": 21235
+        },
+        {
+          "day_index": 10,
+          "rank": 10243,
+          "wins": 1,
+          "battles": 2,
+          "damage": 19497
+        }
+      ]
+    },
+    "upkuhrus": {
+      "nickname": "upkuhRus#80078",
+      "damage": 38941,
+      "battles": 2,
+      "wins": 1,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 68,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 8927,
+          "wins": 1,
+          "battles": 2,
+          "damage": 38941
+        }
+      ]
+    },
+    "yangleb": {
+      "nickname": "yangleb#38358",
+      "damage": 38650,
+      "battles": 3,
+      "wins": 1,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 69,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 15421,
+          "wins": 0,
+          "battles": 1,
+          "damage": 6862
+        },
+        {
+          "day_index": 4,
+          "rank": 7395,
+          "wins": 1,
+          "battles": 2,
+          "damage": 31788
+        }
+      ]
+    },
+    "kriteton": {
+      "nickname": "Kriteton#64084",
+      "damage": 37512,
+      "battles": 2,
+      "wins": 0,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 69,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 7489,
+          "wins": 0,
+          "battles": 1,
+          "damage": 24537
+        },
+        {
+          "day_index": 9,
+          "rank": 16421,
+          "wins": 0,
+          "battles": 1,
+          "damage": 12975
+        }
+      ]
+    },
+    "prince4001": {
+      "nickname": "Prince4001#93478",
+      "damage": 37477,
+      "battles": 3,
+      "wins": 2,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 69,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 7966,
+          "wins": 2,
+          "battles": 3,
+          "damage": 37477
+        }
+      ]
+    },
+    "redman901": {
+      "nickname": "Redman901#93113",
+      "damage": 36014,
+      "battles": 4,
+      "wins": 1,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 70,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 7519,
+          "wins": 1,
+          "battles": 4,
+          "damage": 36014
+        }
+      ]
+    },
+    "sevcovmaksim32": {
+      "nickname": "sevcovmaksim32#95100",
+      "damage": 35496,
+      "battles": 3,
+      "wins": 1,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 70,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13849,
+          "wins": 0,
+          "battles": 1,
+          "damage": 22930
+        },
+        {
+          "day_index": 5,
+          "rank": 12604,
+          "wins": 1,
+          "battles": 2,
+          "damage": 12566
+        }
+      ]
+    },
+    "creatin11": {
+      "nickname": "Creatin11#14306",
+      "damage": 35214,
+      "battles": 3,
+      "wins": 1,
+      "frags": 12,
+      "qualified": false,
+      "damage_percentile": 71,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 7181,
+          "wins": 1,
+          "battles": 3,
+          "damage": 35214
+        }
+      ]
+    },
+    "nekoinu_3304": {
+      "nickname": "nekoinu_3304#28364",
+      "damage": 33508,
+      "battles": 3,
+      "wins": 3,
+      "frags": 13,
+      "qualified": false,
+      "damage_percentile": 72
+    },
+    "tocca0000": {
+      "nickname": "tocca0000#38325",
+      "damage": 33320,
+      "battles": 3,
+      "wins": 1,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 72,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 7305,
+          "wins": 1,
+          "battles": 3,
+          "damage": 33320
+        }
+      ]
+    },
+    "leoncito98": {
+      "nickname": "Leoncito98#81976",
+      "damage": 32380,
+      "battles": 2,
+      "wins": 2,
+      "frags": 10,
+      "qualified": false,
+      "damage_percentile": 73,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 7361,
+          "wins": 2,
+          "battles": 2,
+          "damage": 32380
+        }
+      ]
+    },
+    "ostfan": {
+      "nickname": "Ostfan#49327",
+      "damage": 31960,
+      "battles": 4,
+      "wins": 0,
+      "frags": 10,
+      "qualified": false,
+      "damage_percentile": 73,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 12848,
+          "wins": 0,
+          "battles": 4,
+          "damage": 31960
+        }
+      ]
+    },
+    "kazeneko2997": {
+      "nickname": "kazeneko2997#50400",
+      "damage": 31807,
+      "battles": 3,
+      "wins": 2,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 73,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 11746,
+          "wins": 1,
+          "battles": 2,
+          "damage": 26396
+        }
+      ]
+    },
+    "weeezlvb": {
+      "nickname": "WeeezLVB#44105",
+      "damage": 31343,
+      "battles": 3,
+      "wins": 0,
+      "frags": 12,
+      "qualified": false,
+      "damage_percentile": 73,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 12877,
+          "wins": 0,
+          "battles": 3,
+          "damage": 31343
+        }
+      ]
+    },
+    "luckystrike301": {
+      "nickname": "LuckyStrike301#96157",
+      "damage": 30710,
+      "battles": 1,
+      "wins": 0,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 74,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 15006,
+          "wins": 0,
+          "battles": 1,
+          "damage": 30710
+        }
+      ]
+    },
+    "optimprimate": {
+      "nickname": "OptimPrimate#10547",
+      "damage": 30509,
+      "battles": 6,
+      "wins": 3,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 74,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 7776,
+          "wins": 2,
+          "battles": 2,
+          "damage": 18430
+        },
+        {
+          "day_index": 3,
+          "rank": 8279,
+          "wins": 0,
+          "battles": 2,
+          "damage": 7033
+        },
+        {
+          "day_index": 9,
+          "rank": 14164,
+          "wins": 1,
+          "battles": 2,
+          "damage": 5046
+        }
+      ]
+    },
+    "urs_the_conquerer": {
+      "nickname": "Urs_the_conquerer#86287",
+      "damage": 30219,
+      "battles": 2,
+      "wins": 1,
+      "frags": 10,
+      "qualified": false,
+      "damage_percentile": 74,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 9439,
+          "wins": 1,
+          "battles": 2,
+          "damage": 30219
+        }
+      ]
+    },
+    "tomasrepa349": {
+      "nickname": "tomasrepa349#94141",
+      "damage": 30189,
+      "battles": 1,
+      "wins": 1,
+      "frags": 10,
+      "qualified": false,
+      "damage_percentile": 74,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 9320,
+          "wins": 1,
+          "battles": 1,
+          "damage": 30189
+        }
+      ]
+    },
+    "wardaddy279": {
+      "nickname": "WarDaddy279#22440",
+      "damage": 29588,
+      "battles": 1,
+      "wins": 0,
+      "frags": 13,
+      "qualified": false,
+      "damage_percentile": 75,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 15071,
+          "wins": 0,
+          "battles": 1,
+          "damage": 29588
+        }
+      ]
+    },
+    "shusi2105": {
+      "nickname": "Shusi2105#99552",
+      "damage": 29143,
+      "battles": 5,
+      "wins": 4,
+      "frags": 13,
+      "qualified": false,
+      "damage_percentile": 75,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 15727,
+          "wins": 0,
+          "battles": 1,
+          "damage": 3459
+        }
+      ]
+    },
+    "lardon003": {
+      "nickname": "Lardon003#80737",
+      "damage": 29103,
+      "battles": 2,
+      "wins": 2,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 75
+    },
+    "roskomnadzor_": {
+      "nickname": "Roskomnadzor_#42551",
+      "damage": 29080,
+      "battles": 2,
+      "wins": 2,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 75,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 8297,
+          "wins": 2,
+          "battles": 2,
+          "damage": 29080
+        }
+      ]
+    },
+    "berkangoat__98": {
+      "nickname": "BerkanGoat__98#53324",
+      "damage": 28902,
+      "battles": 1,
+      "wins": 0,
+      "frags": 11,
+      "qualified": false,
+      "damage_percentile": 75,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 13499,
+          "wins": 0,
+          "battles": 1,
+          "damage": 28902
+        }
+      ]
+    },
+    "mesutkeskin1981": {
+      "nickname": "mesutkeskin1981#96675",
+      "damage": 28495,
+      "battles": 2,
+      "wins": 1,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 76,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12729,
+          "wins": 0,
+          "battles": 1,
+          "damage": 22083
+        },
+        {
+          "day_index": 9,
+          "rank": 14070,
+          "wins": 1,
+          "battles": 1,
+          "damage": 6412
+        }
+      ]
+    },
+    "wojtex0008": {
+      "nickname": "Wojtex0008#37784",
+      "damage": 27975,
+      "battles": 2,
+      "wins": 0,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 76,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 12280,
+          "wins": 0,
+          "battles": 2,
+          "damage": 27975
+        }
+      ]
+    },
+    "chr1st1an12": {
+      "nickname": "chr1st1an12#10309",
+      "damage": 26710,
+      "battles": 1,
+      "wins": 1,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 77,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 11712,
+          "wins": 1,
+          "battles": 1,
+          "damage": 26710
+        }
+      ]
+    },
+    "teddymurdaa_iron": {
+      "nickname": "teddymurdaa_iron#21475",
+      "damage": 26643,
+      "battles": 1,
+      "wins": 1,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 77
+    },
+    "sivy_pl6826": {
+      "nickname": "Sivy_PL6826#87078",
+      "damage": 26528,
+      "battles": 3,
+      "wins": 3,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 77,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 11210,
+          "wins": 1,
+          "battles": 1,
+          "damage": 9636
+        }
+      ]
+    },
+    "eternallychaotic": {
+      "nickname": "Eternallychaotic#23140",
+      "damage": 26314,
+      "battles": 1,
+      "wins": 1,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 77,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 9752,
+          "wins": 1,
+          "battles": 1,
+          "damage": 26314
+        }
+      ]
+    },
+    "akitushima_1937": {
+      "nickname": "Akitushima_1937#19551",
+      "damage": 26251,
+      "battles": 2,
+      "wins": 2,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 77,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 8402,
+          "wins": 2,
+          "battles": 2,
+          "damage": 26251
+        }
+      ]
+    },
+    "hasilo": {
+      "nickname": "Hasilo#13333",
+      "damage": 24858,
+      "battles": 2,
+      "wins": 2,
+      "frags": 12,
+      "qualified": false,
+      "damage_percentile": 79,
+      "history": [
+        {
+          "day_index": 11,
+          "rank": 5078,
+          "wins": 1,
+          "battles": 1,
+          "damage": 12391
+        }
+      ]
+    },
+    "na_paleam": {
+      "nickname": "NA_PALEAM#54831",
+      "damage": 24794,
+      "battles": 2,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 79,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 11927,
+          "wins": 1,
+          "battles": 2,
+          "damage": 24794
+        }
+      ]
+    },
+    "wow1968": {
+      "nickname": "Wow1968#92055",
+      "damage": 24594,
+      "battles": 1,
+      "wins": 1,
+      "frags": 9,
+      "qualified": false,
+      "damage_percentile": 79,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 7883,
+          "wins": 1,
+          "battles": 1,
+          "damage": 24594
+        }
+      ]
+    },
+    "virus015": {
+      "nickname": "virus015#71454",
+      "damage": 23810,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 80
+    },
+    "kirkonthefloor": {
+      "nickname": "KirkOnTheFloor#70782",
+      "damage": 23193,
+      "battles": 3,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 80,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 14648,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8308
+        },
+        {
+          "day_index": 6,
+          "rank": 11224,
+          "wins": 1,
+          "battles": 1,
+          "damage": 10807
+        },
+        {
+          "day_index": 10,
+          "rank": 14183,
+          "wins": 0,
+          "battles": 1,
+          "damage": 4078
+        }
+      ]
+    },
+    "0592kevin": {
+      "nickname": "0592kevin#68808",
+      "damage": 22833,
+      "battles": 2,
+      "wins": 2,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 80
+    },
+    "kryst0f12": {
+      "nickname": "Kryst0f12#16574",
+      "damage": 22730,
+      "battles": 2,
+      "wins": 1,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 81,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 11434,
+          "wins": 1,
+          "battles": 2,
+          "damage": 22730
+        }
+      ]
+    },
+    "on3_dxnq_boi": {
+      "nickname": "On3_Dxnq_Boi#41592",
+      "damage": 22723,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 81,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 8390,
+          "wins": 1,
+          "battles": 1,
+          "damage": 22723
+        }
+      ]
+    },
+    "hard_kilo": {
+      "nickname": "Hard_Kilo#88199",
+      "damage": 22397,
+      "battles": 3,
+      "wins": 3,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 81,
+      "today": {
+        "day_index": 12,
+        "wins": 2,
+        "battles": 2,
+        "win_rate": 1.0,
+        "damage": 14649,
+        "rank": 4187
+      },
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 9644,
+          "wins": 1,
+          "battles": 1,
+          "damage": 7748
+        },
+        {
+          "day_index": 12,
+          "rank": 4187,
+          "wins": 2,
+          "battles": 2,
+          "damage": 14649
+        }
+      ]
+    },
+    "serik706": {
+      "nickname": "serik706#24057",
+      "damage": 22261,
+      "battles": 1,
+      "wins": 1,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 81
+    },
+    "knobitvv": {
+      "nickname": "KnobiTVV#57958",
+      "damage": 22114,
+      "battles": 2,
+      "wins": 0,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 81,
+      "history": [
+        {
+          "day_index": 6,
+          "rank": 12726,
+          "wins": 0,
+          "battles": 2,
+          "damage": 22114
+        }
+      ]
+    },
+    "sccp_janilson": {
+      "nickname": "SCCP_Janilson#88857",
+      "damage": 21370,
+      "battles": 2,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 82,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 13378,
+          "wins": 0,
+          "battles": 2,
+          "damage": 21370
+        }
+      ]
+    },
+    "growi13": {
+      "nickname": "Growi13#42432",
+      "damage": 21075,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 82,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 8488,
+          "wins": 1,
+          "battles": 1,
+          "damage": 21075
+        }
+      ]
+    },
+    "edieaturmonk20": {
+      "nickname": "EdieaturMonk20#12304",
+      "damage": 20731,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 82,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 13417,
+          "wins": 0,
+          "battles": 1,
+          "damage": 20731
+        }
+      ]
+    },
+    "raducatalin7426": {
+      "nickname": "raducatalin7426#87603",
+      "damage": 20131,
+      "battles": 2,
+      "wins": 2,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 83,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 9654,
+          "wins": 1,
+          "battles": 1,
+          "damage": 7633
+        }
+      ]
+    },
+    "_psih0patich": {
+      "nickname": "_Psih0patich#20956",
+      "damage": 20033,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 83,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 15681,
+          "wins": 0,
+          "battles": 1,
+          "damage": 20033
+        }
+      ]
+    },
+    "yozuki_colon": {
+      "nickname": "Yozuki_Colon#46017",
+      "damage": 19859,
+      "battles": 3,
+      "wins": 1,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 83,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 10200,
+          "wins": 1,
+          "battles": 3,
+          "damage": 19859
+        }
+      ]
+    },
+    "thedarkkarma": {
+      "nickname": "TheDarkKarma#68297",
+      "damage": 18373,
+      "battles": 2,
+      "wins": 0,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 85,
+      "history": [
+        {
+          "day_index": 11,
+          "rank": 6029,
+          "wins": 0,
+          "battles": 2,
+          "damage": 18373
+        }
+      ]
+    },
+    "player_8412844322": {
+      "nickname": "Player_8412844322#46100",
+      "damage": 17977,
+      "battles": 2,
+      "wins": 0,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 85,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 13610,
+          "wins": 0,
+          "battles": 2,
+          "damage": 17977
+        }
+      ]
+    },
+    "tinman850": {
+      "nickname": "Tinman850#84783",
+      "damage": 17456,
+      "battles": 1,
+      "wins": 0,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 86,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 15920,
+          "wins": 0,
+          "battles": 1,
+          "damage": 17456
+        }
+      ]
+    },
+    "quietstorm_4042": {
+      "nickname": "quietstorm_4042#21174",
+      "damage": 17071,
+      "battles": 1,
+      "wins": 1,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 86
+    },
+    "huncapapa": {
+      "nickname": "huncapapa#69627",
+      "damage": 16534,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 87,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 13732,
+          "wins": 0,
+          "battles": 1,
+          "damage": 16534
+        }
+      ]
+    },
+    "__haron___": {
+      "nickname": "__HARON___#15734",
+      "damage": 16442,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 87
+    },
+    "benjamin_aban": {
+      "nickname": "benjamin_aban#17752",
+      "damage": 16306,
+      "battles": 1,
+      "wins": 0,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 87,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 16034,
+          "wins": 0,
+          "battles": 1,
+          "damage": 16306
+        }
+      ]
+    },
+    "mati879803": {
+      "nickname": "Mati879803#89011",
+      "damage": 16241,
+      "battles": 2,
+      "wins": 2,
+      "frags": 8,
+      "qualified": false,
+      "damage_percentile": 87,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 9288,
+          "wins": 1,
+          "battles": 1,
+          "damage": 8327
+        }
+      ]
+    },
+    "t_feucht1": {
+      "nickname": "T_Feucht1#73316",
+      "damage": 15717,
+      "battles": 1,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 88,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 8660,
+          "wins": 1,
+          "battles": 1,
+          "damage": 15717
+        }
+      ]
+    },
+    "mrk_1407": {
+      "nickname": "mrk_1407#95016",
+      "damage": 15550,
+      "battles": 2,
+      "wins": 0,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 88,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 14445,
+          "wins": 0,
+          "battles": 2,
+          "damage": 15550
+        }
+      ]
+    },
+    "anthonary_defender": {
+      "nickname": "anthonary_defender#53256",
+      "damage": 15212,
+      "battles": 2,
+      "wins": 1,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 88,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 9033,
+          "wins": 1,
+          "battles": 2,
+          "damage": 15212
+        }
+      ]
+    },
+    "thezi_ra_i": {
+      "nickname": "theZI_RA_I#93233",
+      "damage": 14995,
+      "battles": 2,
+      "wins": 1,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 88,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 13120,
+          "wins": 1,
+          "battles": 2,
+          "damage": 14995
+        }
+      ]
+    },
+    "lockwxrk_": {
+      "nickname": "LockWxrk_#48670",
+      "damage": 14240,
+      "battles": 1,
+      "wins": 1,
+      "frags": 7,
+      "qualified": false,
+      "damage_percentile": 89
+    },
+    "barret_ua": {
+      "nickname": "Barret_ua#88611",
+      "damage": 14201,
+      "battles": 1,
+      "wins": 1,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 89
+    },
+    "i_amnes1a_i": {
+      "nickname": "I_AmNeS1a_I#46912",
+      "damage": 13904,
+      "battles": 1,
+      "wins": 0,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 89,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 13244,
+          "wins": 0,
+          "battles": 1,
+          "damage": 13904
+        }
+      ]
+    },
+    "wobblebob": {
+      "nickname": "Wobblebob#20460",
+      "damage": 13861,
+      "battles": 1,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 90,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 6443,
+          "wins": 1,
+          "battles": 1,
+          "damage": 13861
+        }
+      ]
+    },
+    "harrybold50": {
+      "nickname": "Harrybold50#82479",
+      "damage": 13550,
+      "battles": 3,
+      "wins": 1,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 90,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 10855,
+          "wins": 1,
+          "battles": 3,
+          "damage": 13550
+        }
+      ]
+    },
+    "alon_bo": {
+      "nickname": "Alon_Bo#58960",
+      "damage": 13517,
+      "battles": 1,
+      "wins": 1,
+      "frags": 6,
+      "qualified": false,
+      "damage_percentile": 90,
+      "history": [
+        {
+          "day_index": 7,
+          "rank": 6468,
+          "wins": 1,
+          "battles": 1,
+          "damage": 13517
+        }
+      ]
+    },
+    "ironjohn3767": {
+      "nickname": "Ironjohn3767#38128",
+      "damage": 13460,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 90,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 13308,
+          "wins": 0,
+          "battles": 1,
+          "damage": 13460
+        }
+      ]
+    },
+    "mantas_lietuva_destroyer": {
+      "nickname": "Mantas_Lietuva_destroyer#96990",
+      "damage": 12910,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 91,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 13391,
+          "wins": 1,
+          "battles": 1,
+          "damage": 12910
+        }
+      ]
+    },
+    "aiako_ua": {
+      "nickname": "Aiako_UA#35264",
+      "damage": 12597,
+      "battles": 1,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 91
+    },
+    "fighter71yqn": {
+      "nickname": "fighter71Yqn#42005",
+      "damage": 12493,
+      "battles": 2,
+      "wins": 0,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 91,
+      "today": {
+        "day_index": 12,
+        "wins": 0,
+        "battles": 1,
+        "win_rate": 0.0,
+        "damage": 5980,
+        "rank": 8521
+      },
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 17256,
+          "wins": 0,
+          "battles": 1,
+          "damage": 6513
+        },
+        {
+          "day_index": 12,
+          "rank": 8521,
+          "wins": 0,
+          "battles": 1,
+          "damage": 5980
+        }
+      ]
+    },
+    "evilsks1": {
+      "nickname": "EVILSKS1#74556",
+      "damage": 12196,
+      "battles": 1,
+      "wins": 0,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 91,
+      "today": {
+        "day_index": 12,
+        "wins": 0,
+        "battles": 1,
+        "win_rate": 0.0,
+        "damage": 12196,
+        "rank": 8121
+      },
+      "history": [
+        {
+          "day_index": 12,
+          "rank": 8121,
+          "wins": 0,
+          "battles": 1,
+          "damage": 12196
+        }
+      ]
+    },
+    "omniscient_rake4": {
+      "nickname": "omniscient_rake4#98847",
+      "damage": 11568,
+      "battles": 1,
+      "wins": 1,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 92,
+      "history": [
+        {
+          "day_index": 3,
+          "rank": 6427,
+          "wins": 1,
+          "battles": 1,
+          "damage": 11568
+        }
+      ]
+    },
+    "dxrt_": {
+      "nickname": "dxrt_#41900",
+      "damage": 11532,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 92,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 16617,
+          "wins": 0,
+          "battles": 1,
+          "damage": 11532
+        }
+      ]
+    },
+    "kingkongzaya": {
+      "nickname": "KingKongZaya#19060",
+      "damage": 11523,
+      "battles": 1,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 92,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 11032,
+          "wins": 1,
+          "battles": 1,
+          "damage": 11523
+        }
+      ]
+    },
+    "mamrodzine": {
+      "nickname": "mamrodzine#63054",
+      "damage": 10930,
+      "battles": 3,
+      "wins": 1,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 93,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 9423,
+          "wins": 1,
+          "battles": 3,
+          "damage": 10930
+        }
+      ]
+    },
+    "player_2634006057": {
+      "nickname": "Player_2634006057#65610",
+      "damage": 10445,
+      "battles": 3,
+      "wins": 2,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 93,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 12123,
+          "wins": 1,
+          "battles": 2,
+          "damage": 5756
+        },
+        {
+          "day_index": 6,
+          "rank": 11637,
+          "wins": 1,
+          "battles": 1,
+          "damage": 4689
+        }
+      ]
+    },
+    "max4snax": {
+      "nickname": "Max4SnaX#84769",
+      "damage": 10394,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 93,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 13611,
+          "wins": 0,
+          "battles": 1,
+          "damage": 10394
+        }
+      ]
+    },
+    "ultra1232515": {
+      "nickname": "Ultra1232515#47817",
+      "damage": 10233,
+      "battles": 1,
+      "wins": 0,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 94,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 11743,
+          "wins": 0,
+          "battles": 1,
+          "damage": 10233
+        }
+      ]
+    },
+    "speedy_ecker360_985": {
+      "nickname": "speedy_ecker360_985#39709",
+      "damage": 9940,
+      "battles": 1,
+      "wins": 1,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 94,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 12885,
+          "wins": 1,
+          "battles": 1,
+          "damage": 9940
+        }
+      ]
+    },
+    "ralf_1987": {
+      "nickname": "ralf_1987#75619",
+      "damage": 9714,
+      "battles": 1,
+      "wins": 0,
+      "frags": 1,
+      "qualified": false,
+      "damage_percentile": 94,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 15096,
+          "wins": 0,
+          "battles": 1,
+          "damage": 9714
+        }
+      ]
+    },
+    "edgyketchups": {
+      "nickname": "EdgyKetchups#77216",
+      "damage": 8714,
+      "battles": 1,
+      "wins": 0,
+      "frags": 1,
+      "qualified": false,
+      "damage_percentile": 95,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 16981,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8714
+        }
+      ]
+    },
+    "parallel_rung5": {
+      "nickname": "parallel_rung5#31946",
+      "damage": 8246,
+      "battles": 1,
+      "wins": 0,
+      "frags": 2,
+      "qualified": false,
+      "damage_percentile": 96,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 13816,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8246
+        }
+      ]
+    },
+    "flamm_5": {
+      "nickname": "flamm_5#93763",
+      "damage": 8245,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 96,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 15823,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8245
+        }
+      ]
+    },
+    "mib9019": {
+      "nickname": "MIB9019#61010",
+      "damage": 8202,
+      "battles": 1,
+      "wins": 0,
+      "frags": 3,
+      "qualified": false,
+      "damage_percentile": 96,
+      "history": [
+        {
+          "day_index": 2,
+          "rank": 14657,
+          "wins": 0,
+          "battles": 1,
+          "damage": 8202
+        }
+      ]
+    },
+    "ulkas22": {
+      "nickname": "Ulkas22#71692",
+      "damage": 7249,
+      "battles": 1,
+      "wins": 1,
+      "frags": 5,
+      "qualified": false,
+      "damage_percentile": 97
+    },
+    "player_2751078834": {
+      "nickname": "Player_2751078834#42229",
+      "damage": 7225,
+      "battles": 1,
+      "wins": 0,
+      "frags": 1,
+      "qualified": false,
+      "damage_percentile": 97,
+      "history": [
+        {
+          "day_index": 10,
+          "rank": 13912,
+          "wins": 0,
+          "battles": 1,
+          "damage": 7225
+        }
+      ]
+    },
+    "pomidorka_v_tanke": {
+      "nickname": "Pomidorka_v_Tanke#97389",
+      "damage": 6541,
+      "battles": 1,
+      "wins": 0,
+      "frags": 0,
+      "qualified": false,
+      "damage_percentile": 97,
+      "today": {
+        "day_index": 12,
+        "wins": 0,
+        "battles": 1,
+        "win_rate": 0.0,
+        "damage": 6541,
+        "rank": 8489
+      },
+      "history": [
+        {
+          "day_index": 12,
+          "rank": 8489,
+          "wins": 0,
+          "battles": 1,
+          "damage": 6541
+        }
+      ]
+    },
+    "microcosm4659": {
+      "nickname": "MicRocoSM4659#82507",
+      "damage": 6482,
+      "battles": 1,
+      "wins": 1,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 97,
+      "history": [
+        {
+          "day_index": 8,
+          "rank": 9721,
+          "wins": 1,
+          "battles": 1,
+          "damage": 6482
+        }
+      ]
+    },
+    "foxhound5959": {
+      "nickname": "Foxhound5959#11654",
+      "damage": 5628,
+      "battles": 1,
+      "wins": 1,
+      "frags": 0,
+      "qualified": false,
+      "damage_percentile": 98,
+      "history": [
+        {
+          "day_index": 11,
+          "rank": 5359,
+          "wins": 1,
+          "battles": 1,
+          "damage": 5628
+        }
+      ]
+    },
+    "roger2400__": {
+      "nickname": "roger2400__#24624",
+      "damage": 5164,
+      "battles": 1,
+      "wins": 0,
+      "frags": 0,
+      "qualified": false,
+      "damage_percentile": 98,
+      "history": [
+        {
+          "day_index": 1,
+          "rank": 15599,
+          "wins": 0,
+          "battles": 1,
+          "damage": 5164
+        }
+      ]
+    },
+    "noki2007": {
+      "nickname": "noki2007#98859",
+      "damage": 4671,
+      "battles": 1,
+      "wins": 0,
+      "frags": 4,
+      "qualified": false,
+      "damage_percentile": 99,
+      "history": [
+        {
+          "day_index": 5,
+          "rank": 16191,
+          "wins": 0,
+          "battles": 1,
+          "damage": 4671
+        }
+      ]
+    },
+    "ciastek_czapus": {
+      "nickname": "ciastek_czapus#21719",
+      "damage": 2848,
+      "battles": 1,
+      "wins": 0,
+      "frags": 1,
+      "qualified": false,
+      "damage_percentile": 100,
+      "history": [
+        {
+          "day_index": 9,
+          "rank": 17587,
+          "wins": 0,
+          "battles": 1,
+          "damage": 2848
+        }
+      ]
+    },
+    "ryanyau2016": {
+      "nickname": "RyanYau2016#36400",
+      "damage": 1614,
+      "battles": 1,
+      "wins": 0,
+      "frags": 0,
+      "qualified": false,
+      "damage_percentile": 100,
+      "history": [
+        {
+          "day_index": 4,
+          "rank": 11948,
+          "wins": 0,
+          "battles": 1,
+          "damage": 1614
+        }
+      ]
+    }
+  }
+}
