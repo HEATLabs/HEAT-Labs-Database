@@ -4,7 +4,7 @@
       "buildNumber": 1,
       "buildDisplay": true,
       "buildFeatured": true,
-      "buildName": "Pigeon's Sheridan",
+      "buildName": "Universal Soldier",
       "buildDescription": "Flank and Spank",
       "buildAuthor": "PigeonPie",
       "buildDate": "24-06-2026",
@@ -69,27 +69,27 @@
       "perks": [
         {
           "slotNumber": 1,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
-          "perkName": "Perk 1 Placeholder",
-          "perkDescription": "Perk 1 Placeholder Description"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/gas_gas_gas.webp",
+          "perkName": "Gas Gas Gas",
+          "perkDescription": "+0.5 Ultimate Energy per second while boosting."
         },
         {
           "slotNumber": 2,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
-          "perkName": "Perk 2 Placeholder",
-          "perkDescription": "Perk 2 Placeholder Description"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/plan_b.webp",
+          "perkName": "Plan B",
+          "perkDescription": "-5% to main gun reload time for each ability on cooldown."
         },
         {
           "slotNumber": 3,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
-          "perkName": "Perk 3 Placeholder",
-          "perkDescription": "Perk 3 Placeholder Description"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/feather_tracks.webp",
+          "perkName": "Feather Tracks",
+          "perkDescription": "-50% to fall damage"
         },
         {
           "slotNumber": 4,
-          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
-          "perkName": "Perk 4 Placeholder",
-          "perkDescription": "Perk 4 Placeholder Description"
+          "perkIcon": "https://cdn7.heatlabs.net/perks/close_quarter_emp.webp",
+          "perkName": "Close-Quarters EMP",
+          "perkDescription": "+25% to damage dealt by Lights Out explosions."
         }
       ]
     }
