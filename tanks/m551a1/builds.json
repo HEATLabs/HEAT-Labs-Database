@@ -1,3 +1,97 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Pigeon's Sheridan",
+      "buildDescription": "Flank and Spank",
+      "buildAuthor": "PigeonPie",
+      "buildDate": "24-06-2026",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "MAR-26E",
+          "moduleDescription": "MEAPS: Killing an enemy grants free ability reactivation for 4s. Reactivation restores hit points and duration."
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "M232",
+          "moduleDescription": "CANISTER VOLLEY: +30% to ramming damage for 5s. Conditional cooldown 10s. Canister Volley Switching Time -100%, Canister Damage (Max) +5%, Aiming speed +5%, Canister Volley Cooldown +10%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "CPD-378",
+          "moduleDescription": "ZEALOUS: Critically hitting an enemy's internal module grants Zealous for 10s. APHE Damage (Max) +10.38%, APHE penetration +5.3%, Reload time +5.25%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "GH-19",
+          "moduleDescription": "OVERDIRVE: On kill, grants Overdrive for 10s. Boost mode Energy volume +7%, Boost Mode Energy Cost-7%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "F-1201",
+          "moduleDescription": "Energy regeneration +9.6%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/m551a1/upgrades/upgrade-placeholder.webp",
+          "moduleName": "RL-90R",
+          "moduleDescription": "Vehicle Camouflage +20%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/hull_reinforcement.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Launches a smoke screen in front of the vehicle, hiding it from view. Repairs damaged tracks. Extinguishes Fire areas, removes Burning, and accelerates Fire status decay. Smoke duration: 20s Charges: 2 Charge cooldown: 40s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
+          "perkName": "Perk 1 Placeholder",
+          "perkDescription": "Perk 1 Placeholder Description"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
+          "perkName": "Perk 2 Placeholder",
+          "perkDescription": "Perk 2 Placeholder Description"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
+          "perkName": "Perk 3 Placeholder",
+          "perkDescription": "Perk 3 Placeholder Description"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/temp.webp",
+          "perkName": "Perk 4 Placeholder",
+          "perkDescription": "Perk 4 Placeholder Description"
+        }
+      ]
+    }
+  ]
 }
