@@ -1,12 +1,22 @@
 {
   "agents": [
     {
-      "name": "Data Unavailable",
+      "name": "Gambit",
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
       "specialty": "To be announced",
       "description": "Information about this agent's abilities is currently unavailable.",
       "story": "Unknown Agent Story",
       "compatibleTanks": [
+        {
+          "name": "M60A3E2",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/icon_m60a3e2.webp",
+          "slug": "m60a3e2"
+        },
+        {
+          "name": "M60A3E2 Bot",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2-bot/icon_m60a3e2-bot.webp",
+          "slug": "m60a3e2-bot"
+        },
         {
           "name": "T-72SH",
           "image": "https://cdn7.heatlabs.net/tanks/t-72sh/upscaled_t-72sh.webp",
