@@ -2,7 +2,7 @@
   "agentAbility": [
     {
       "name": "Iron Curtain",
-      "description": "Information about this tank's agent ability is currently unavailable.",
+      "description": "Deploys a drone swarm that boosts allies' shields and repair rate and grants immunity to status effects.",
       "icon": "https://cdn7.heatlabs.net/tanks/m60a3e2/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -10,7 +10,7 @@
   "agentTrait": [
     {
       "name": "Tinkerer",
-      "description": "Agent Trait Coming Soon",
+      "description": "Damaging Gambit Jams the attacker. Closer hits Jam harder.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -26,13 +26,13 @@
   "tankAbilities": [
     {
       "name": "Blast Projectors",
-      "description": "Ability information is currently unavailable",
+      "description": "Concussion charges beneath the appliqué armor produce a high-pressure blast wave around the vehicle, severely damaging nearby enemies but destroying the vehicle's own armor in the process. The explosion can be charged longer for more damage, but overcharging will cause additional damage to the vehicle and tracks.",
       "icon": "https://cdn7.heatlabs.net/tanks/m60a3e2/abilities/blast_projectors.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Energized Plating",
-      "description": "Ability information is currently unavailable",
+      "description": "Boost the electric current to internal systems to massively improve armor plating effectiveness and track protection.",
       "icon": "https://cdn7.heatlabs.net/tanks/m60a3e2/abilities/energized_plating.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

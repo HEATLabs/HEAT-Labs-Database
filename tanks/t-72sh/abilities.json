@@ -2,7 +2,7 @@
   "agentAbility": [
     {
       "name": "Iron Curtain",
-      "description": "Information about this tank's agent ability is currently unavailable.",
+      "description": "Deploys a drone swarm that boosts allies' shields and repair rate and grants immunity to status effects.",
       "icon": "https://cdn7.heatlabs.net/tanks/t-72sh/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -10,7 +10,7 @@
   "agentTrait": [
     {
       "name": "Tinkerer",
-      "description": "Agent Trait Coming Soon",
+      "description": "Damaging Gambit Jams the attacker. Closer hits Jam harder.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -26,13 +26,13 @@
   "tankAbilities": [
     {
       "name": "Disruption Field Generators",
-      "description": "Ability Coming Soon",
+      "description": "A magnetic field strong enough to distort longer EM wavelengths. Laser rangefinders return erroneous data to targeting computers, diminishing the effectiveness of many weapon systems.",
       "icon": "https://cdn7.heatlabs.net/tanks/t-72sh/abilities/disruption_field.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
       "name": "Tesla Disk",
-      "description": "Ability Coming Soon",
+      "description": "Gambit deploys levitating Tesla Discs from his turret-mounted disc sling. These gadgets float on the battlefield and generate damaging energy pulses at regular intervals.",
       "icon": "https://cdn7.heatlabs.net/tanks/t-72sh/abilities/tesla_discs.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
