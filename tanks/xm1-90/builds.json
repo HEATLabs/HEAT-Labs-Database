@@ -1,3 +1,98 @@
 {
-  "buildList": []
+  "buildList": [
+    {
+      "buildNumber": 1,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "Dounload",
+      "buildDescription": "A build that focuses on abilities and penetration, reaching 454mm of AP penetration, and being able to Unload 9 Canister shells.",
+      "buildAuthor": "Legocity2000 / Arcs",
+      "buildDate": "06-07-2026",
+      "buildVersion": "1.1",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "XM364",
+          "moduleDescription": "FASTDRAW MAGAZINES Replaces HESH-T rounds in the secondary magazines with canister rounds. FASTDRAW MAGAZINES Shell Capacity +3"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "XM137",
+          "moduleDescription": "UNLOAD Unload works with Fastdraw magazines in addition to the main cylinder. When activated, it will be applied to the active magazines. Accuracy (after shot) -25%, AP Penetration (Max) +11%, unload Energy Cost +5.6%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "HPS-1756",
+          "moduleDescription": "OVERCLOCK CORE -10% to equipment cooldown time. Each subsequent critical hit reduces equipment cooldown time by a further 10%. Can stack up to 4 times. Resets when the vehicle is destroyed. FASTDRAW Magazines Energy Cost -6%, Unload Energy Cost -6%, Engine Power -5.7%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "FPSU-19",
+          "moduleDescription": "AP Penetration (Max) +9.2%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": true,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "SPC-1976",
+          "moduleDescription": "OVERDRIVE Taking a critical hit to the fuel tank applies Overdrive for up to IOS and restores 10 Boost Energy. Engine Power +10%, Hull Traverse +5%, Fire Resistance +8.6%, Incoming Crit. Modifier (Engine) +5%, Boost mode regeneration rate -10%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": false,
+          "moduleIcon": "https://cdn7.heatlabs.net/tanks/xm1-90/upgrades/upgrade-placeholder.webp",
+          "moduleName": "T156E1T",
+          "moduleDescription": "Track HP +24.5%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+          "equipmentName": "Repair Kit",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_protocol.webp",
+          "equipmentName": "Recovery Protocol",
+          "equipmentDescription": "Removes status effects from the vehicle and restores its tracks. Removes all active status effects and resets status buildup. Repairs damaged tracks. Cooldown: 65s."
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/gunslinger.webp",
+          "perkName": "Gunslinger",
+          "perkDescription": "Rising Tempo increases base reload time by 7.5% instead of 12.5%"
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/energy_recycler_kent.webp",
+          "perkName": "Energy Recycler",
+          "perkDescription": "-15% to ability Energy cost"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/combat_blur_system.webp",
+          "perkName": "Combat Blur System",
+          "perkDescription": "+20% to reticle size, including while moving"
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/time_management.webp",
+          "perkName": "Time Management",
+          "perkDescription": "Reduces minimum lock-on time for a Hydra strike from 1.5s to 1.2s and extends lock-on after stopping targeting from 2.5s to 3.5s"
+        }
+      ]
+    }
+  ]
 }
