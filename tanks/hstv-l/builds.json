@@ -93,6 +93,100 @@
           "perkDescription": "+25% to damage dealt by Lights Out explosions."
         }
       ]
+    },
+    {
+      "buildNumber": 2,
+      "buildDisplay": true,
+      "buildFeatured": true,
+      "buildName": "LigManBruh's HSTV-L",
+      "buildDescription": "No description given",
+      "buildAuthor": "LigManBruh's",
+      "buildDate": "13-07-2026",
+      "buildVersion": "1.1",
+      "modules": [
+        {
+          "slotNumber": 1,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "AOS-27",
+          "moduleDescription": "RECON PROBE: Deployed probes can make the player and allies Masked. Recon Probe Max. Placement Range +10%, Recon Probe Duration -5%"
+        },
+        {
+          "slotNumber": 2,
+          "moduleFeatured": false,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "XM1230",
+          "moduleDescription": "MK19 Auto Turret explosion damage (minimum) +54%, MK19 Auto Turret explosion damage (maximum) +54%"
+        },
+        {
+          "slotNumber": 3,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "XM885A1",
+          "moduleDescription": "AP Damage (maximum) +6.2%"
+        },
+        {
+          "slotNumber": 4,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "HTC-1427",
+          "moduleDescription": "Hull Traverse +7.7%, Vehicle Lateral Friction -5%"
+        },
+        {
+          "slotNumber": 5,
+          "moduleFeatured": false,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "RT-521P",
+          "moduleDescription": "THERMAL VISION Allows the vehicle to use thermal vision. Moving Noise Data -24%"
+        },
+        {
+          "slotNumber": 6,
+          "moduleFeatured": true,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/equipment-placeholder.webp",
+          "moduleName": "BFT-412",
+          "moduleDescription": "Boost mode Energy volume +10.5%, Boost mode regeneration rate +11%"
+        }
+      ],
+      "equipments": [
+        {
+          "slotNumber": 1,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_system.webp",
+          "equipmentName": "Recovery System",
+          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+        },
+        {
+          "slotNumber": 2,
+          "equipmentIcon": "https://cdn7.heatlabs.net/equipments/phantom_curtain.webp",
+          "equipmentName": "Phantom Curtain",
+          "equipmentDescription": "Temporarily grants the vehicle extra HP that depletes over time. Grants 700 temporary HP on activation. After 1s, temporary HP starts to deplete at 25 HP/s. Cooldown: 105s"
+        }
+      ],
+      "perks": [
+        {
+          "slotNumber": 1,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/gas_gas_gas.webp",
+          "perkName": "Gas Gas Gas",
+          "perkDescription": "+0.5 Ultimate Energy per second while boosting."
+        },
+        {
+          "slotNumber": 2,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/feather_tracks.webp",
+          "perkName": "Feather Tracks",
+          "perkDescription": "-50% to fall damage"
+        },
+        {
+          "slotNumber": 3,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/paralyzing_quickening.webp",
+          "perkName": "Paralyzing Quickening",
+          "perkDescription": "+20% to Lights Out EMP radius and -50% to the explosion damage it deals to your vehicle."
+        },
+        {
+          "slotNumber": 4,
+          "perkIcon": "https://cdn7.heatlabs.net/perks/plan_b.webp",
+          "perkName": "Plan B",
+          "perkDescription": "-5% to main gun reload time for each ability on cooldown."
+        }
+      ]
     }
   ]
 }
