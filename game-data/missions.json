@@ -1,710 +1,5629 @@
 {
-	"entitlements": [
-		{
-			"code": "play-5-battles-t62",
-			"friendlyName": "Play 5  battles on T-62",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+	"__type__": "cw::quests::MissionPoolsStorage",
+	"pools": {
+		"ALVT": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-use-ab-ult-contracted-strike-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.0.title",
+						"message": "Use *Contracted Strike* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-alvt-use-ab-dirty-substance-20",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.1.title",
+						"message": "Use *Dirty Substance* *20 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-alvt-dmg-ab-grenade-cluster-6500",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.2.title",
+						"message": "Deal *6,500* damage with *Grenade Cluster*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-blk-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.3.title",
+						"message": "Block *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-frags-30",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.4.title",
+						"message": "Destroy *30* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.5.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-dmg-10000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.6.title",
+						"message": "Deal *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-alvt-use-ab-grenade-cluster-20t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.7.title",
+						"message": "Use *Grenade Cluster* *20 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-alvt-frags-5-sm-3t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.8.title",
+						"message": "Destroy *5* enemies in a single battle *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-blk-crits-3-sr-2",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.9.title",
+						"message": "Survive *3* critical hits in a single spawn *2 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "Low",
+					"quest": "v-alvt-dmg-ab-dirtsub-uniq-5t",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.10.title",
+						"message": "Deal damage to *20* unique enemies trapped by *Dirty Substance*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-frags-10-rising-tempo",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.11.title",
+						"message": "Destroy *10* enemies with the gun while *Rising Tempo* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-alvt-dmg-slowed-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.12.title",
+						"message": "Deal *5,000* damage to *Greased* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-alvt-win-3t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.13.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-alvt-play-5t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.14.title",
+						"message": "Play *5* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-alvt-ast-20-sm",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.ALVT.missions.15.title",
+						"message": "Get *20* assists in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-10-battles-t62",
-			"friendlyName": "Play 10  battles on T-62",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"AMX 10 RC": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-amx10-dmg-uniq-ab-top-attack-30",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.0.title",
+						"message": "Hit *20* unique enemies with *Top-Attack Missiles*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-amx10-use-ab-ult-hunting-time-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.1.title",
+						"message": "Use *Hunting Time* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-use-ab-uav-drone-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.2.title",
+						"message": "Use *UAV Drone* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-amx10-frags-ab-top-attack-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.3.title",
+						"message": "Destroy *10* enemies with *Top-Attack Missiles*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-dmg-ab-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.4.title",
+						"message": "Deal *5,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-blk-crits-3",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.5.title",
+						"message": "Survive *3* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-dmg-ls-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.6.title",
+						"message": "Deal *10,000* longshot damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.7.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-amx10-frags-longshot-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.8.title",
+						"message": "Destroy *15* enemies with longshots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-amx10-ast-30",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.9.title",
+						"message": "Get *30* assists"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-dmg-uniq-ident-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.10.title",
+						"message": "Hit *20* unique *Traced* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-amx10-dmg-ident-5k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.11.title",
+						"message": "Deal *15,000* damage to *Traced* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-frags-crits-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.12.title",
+						"message": "Destroy *5* enemies with critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-amx10-win-3",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.AMX_10_RC.missions.13.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-20-battles-t62",
-			"friendlyName": "Play 20 battles on T-62",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"FTUE": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "ftue-stage-1-capture-base-a",
+					"rewards": [],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FTUE.missions.0.title",
+						"message": "Capture base A"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "ftue-stage-1-eliminate-hostiles",
+					"rewards": [],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FTUE.missions.1.title",
+						"message": "Eliminate the hostiles and secure base A"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "ftue-stage-2-investigate-base-b",
+					"rewards": [],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FTUE.missions.2.title",
+						"message": "Investigate the facility and capture base B"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "ftue-stage-2-find-prototype",
+					"rewards": [],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FTUE.missions.3.title",
+						"message": "Find the experimental tank and reach Kent outside"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "ftue-stage-3-destroy-prototype",
+					"rewards": [],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FTUE.missions.4.title",
+						"message": "Destroy the experimental tank"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-battles-t62-progress",
-			"friendlyName": "Play battles on T-62 progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"FV4030 X": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": false,
+					"initialWeight": "High",
+					"quest": "v-fv4303-blk-5k-bastion",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.0.title",
+						"message": "Block *5,000* damage with *Bastion*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4303-use-ult-cbarr-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.1.title",
+						"message": "Use *Creeping Barrage* *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-fv4303-use-bastion-10t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.2.title",
+						"message": "Use *Bastion* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-fv4303-use-jamfld-15t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.3.title",
+						"message": "Use *Jamming Field* *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4303-blk-5k-dmg",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.4.title",
+						"message": "Block *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4303-survive-crit-5t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.5.title",
+						"message": "Survive *5* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4303-dmg-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.6.title",
+						"message": "Deal *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4303-frag-15t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.7.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-fv4303-frag-5t-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.8.title",
+						"message": "Destroy *5* enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-fv4303-frags-5-sm-3t",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.9.title",
+						"message": "Destroy *5* enemies in a single battle *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-fv4303-use-ab-jamfld-2-5t-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.10.title",
+						"message": "Use *Jamming Field* *2* times in *5* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-fv4304-dmg-ab-5t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.11.title",
+						"message": "Deal ability damage to *5* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4304-dmg-crit-3t-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.12.title",
+						"message": "Deal *3* critical hits in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-fv4304-frag-jam-5t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.FV4030_X.missions.13.title",
+						"message": "Destroy *5* *Jammed* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-5-battles-1a1",
-			"friendlyName": "Play 5 battles on 1A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"HSTV-L": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-place-15-recon",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.0.title",
+						"message": "Place *15* probes with *Recon Probes*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-hstvl-dmg-uniq-autotur-10t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.1.title",
+						"message": "Deal damage to *10* unique enemies with *Autonomous Turret*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-hstvl-dmg-autotur-10k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.2.title",
+						"message": "Deal *15,000* damage to enemies with *Autonomous Turret*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-frags-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.3.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-dmg-uniq-5t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.4.title",
+						"message": "Deal *ability damage* to *5* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-dmg-ab-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.5.title",
+						"message": "Deal *10,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.6.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-dmg-2-5k-ram",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.7.title",
+						"message": "Deal *2,500* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-hstvl-frags-5-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.8.title",
+						"message": "Destroy *5* enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-hstvl-dmg-7500-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.9.title",
+						"message": "Deal *7,500* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-hstvl-hit-ab-pulse-gen-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.10.title",
+						"message": "Hit *10* enemies with *MK19 Auto Turret*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-hstvl-dmg-ab-2.5k-3-sm",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.11.title",
+						"message": "Deal *2,500* ability damage *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-ast-4-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.12.title",
+						"message": "Get *4* assists in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-hstvl-dmg-2k-sr-2",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.HSTV-L.missions.13.title",
+						"message": "Deal *2,000* damage in a single spawn *2 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-10-battles-1a1",
-			"friendlyName": "Play 10 battles on 1A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"LEOPARD 2FK": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-all-crits-sm-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.0.title",
+						"message": "Deal *3* types of critical hit in a single battle *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-dmg-crit-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.1.title",
+						"message": "Deal *10* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-frags-2-sr-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.2.title",
+						"message": "Destroy *2* enemies in one spawn *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-frags-ls-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.3.title",
+						"message": "Destroy *10* enemies with longshots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-frags-pb-2",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.4.title",
+						"message": "Destroy *2* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-use-eqp-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.5.title",
+						"message": "Use equipment *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-echo-dmg-crit-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.6.title",
+						"message": "Deal *10,000* critical damage while *Echo Proxy* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-echo-dmg-15k-ls",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.7.title",
+						"message": "Deal *15,000* longshot damage while *Echo Proxy* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-dmg-ls-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.8.title",
+						"message": "Deal *10,000* longshot damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-dmg-7k-5-shots",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.9.title",
+						"message": "Deal *3,500* damage in 5 *shots*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-cap-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.10.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-signmask-dmg-crit-20",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.11.title",
+						"message": "Deal *20* critical hits while *Signature Masking* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-frags-eoj-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.12.title",
+						"message": "Destroy *5* enemies while *Electro-Optical Jammers* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-ast-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.13.title",
+						"message": "Get *15* assists"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2fk-win-5",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.14.title",
+						"message": "Win *5* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2fk-dmg-uniq-40",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.15.title",
+						"message": "Hit *40* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-dmg-uniq-dmg-crit-30-ls",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.16.title",
+						"message": "Deal *30* longshot critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2fk-dmg-sign-mask-10k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.17.title",
+						"message": "Deal *20,000* damage while *Electro-Optical Jammers* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2fk-feigndeath-dmg-crit-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.18.title",
+						"message": "Deal *10* critical hits after using *Feign Death*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2fk-feigndeath-frags-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.19.title",
+						"message": "Destroy *15* enemies after using *Feign Death*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-20-battles-1a1",
-			"friendlyName": "Play 20 battles on 1A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"LEOPARD 2K14": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-signmask-all-crits-sm-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.0.title",
+						"message": "Deal *3* types of critical hit in a single battle while *Signature Masking* is active *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-ast-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.1.title",
+						"message": "Get *15* assists"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-dmg-3k-sm-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.2.title",
+						"message": "Deal *3,000* damage in *3 battles*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-dmg-cqb-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.3.title",
+						"message": "Deal *10,000* close-quarters damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-frags-2-pb",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.4.title",
+						"message": "Destroy *2* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-use-eqp-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.5.title",
+						"message": "Use equipment *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-echo-dmg-15k-cq",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.6.title",
+						"message": "Use *Active Camo* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-ram-uniq-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.7.title",
+						"message": "Ram *10* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-dmg-jam-slow-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.8.title",
+						"message": "Deal *5,000* damage to *Slowed* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-dmg-emp-3k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.9.title",
+						"message": "Deal *5,000* damage with *EMP Trap*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-frags-jam-slow-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.10.title",
+						"message": "Destroy *10* *Slowed* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-frags-spy-5",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.11.title",
+						"message": "Destroy *5* enemies while *Active Camo* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2k-crit-dmg-spy-10k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.12.title",
+						"message": "Deal *10,000* critical damage while *Active Camo* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.13.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-win-3",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.14.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2k-rcap-30",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.15.title",
+						"message": "Recapture *30* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo2k-dmg-uniq-5-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.16.title",
+						"message": "Hit *5* unique enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo2k-frags-cqb-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.17.title",
+						"message": "Destroy *15* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "High",
+					"quest": "v-leo2k-echo-dmg-crit-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.18.title",
+						"message": "Deal *5,000* critical damage while *Echo Proxy* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo2k-frags-emp-20",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.19.title",
+						"message": "Destroy *20* enemies with *EMP Trap*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-battles-1a1-progress",
-			"friendlyName": "Play battles on 1A1 progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Leopard 1A6": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo1a6-dmg-uniq-ab-trapping-shot-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.0.title",
+						"message": "Hit enemies with *Trapping Shot* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-dmg-10-ls-crit",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.1.title",
+						"message": "Deal *10* longshot critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-dmg-crit-20",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.2.title",
+						"message": "Deal *20* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-dmg-5000-crit-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.3.title",
+						"message": "Deal *5,000* critical damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-frags-longshot-12",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.4.title",
+						"message": "Destroy *12* enemies with longshots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-frags-crits-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.5.title",
+						"message": "Destroy *10* enemies with critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-use-ab-ult-hunting-time-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.6.title",
+						"message": "Use *Hunting Time* *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo1a6-use-ab-decoy-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.7.title",
+						"message": "Use *Decoy* *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo1a6-dmg-immob-15",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.8.title",
+						"message": "Deal *15,000* damage to *Immobilized* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo1a6-dmg-ident-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.9.title",
+						"message": "Deal *5,000* damage to *Traced* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "dmg-ident-ab-trapping-shot-5",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.10.title",
+						"message": "Land direct hits on *5* *Traced* enemies with *Trapping Shot*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-leo1a6-dmg-7k-5-shots",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.11.title",
+						"message": "Deal *7,000* damage in *5* shots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-leo1a6-frags-immob-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.12.title",
+						"message": "Destroy *5* *Immobilized* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-leo1a6-hunters-eyes-crit-30",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Leopard_1A6.missions.13.title",
+						"message": "Deal *30* critical hits while *Hunter's Eye* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-5-battles-1a6",
-			"friendlyName": "Play 5 battles on 1A6",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M1150": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": false,
+					"initialWeight": "Low",
+					"quest": "m1150-dmg-ab-line-charges-20000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.0.title",
+						"message": "Deal *20,000* damage with *Line Charges*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "m1150-frags-cqb-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.1.title",
+						"message": "Destroy *15* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "Medium",
+					"quest": "m1150-dmg-ab-incend-charges-5000-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.2.title",
+						"message": "Deal *5,000* damage with *Incendiary Charges* in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "m1150-dmg-ab-20000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.3.title",
+						"message": "Deal *15,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "m1150-dmg-10000-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.4.title",
+						"message": "Deal *7,500* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "m1150-use-eqp-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.5.title",
+						"message": "Use equipment *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "m1150-dmg-crit-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.6.title",
+						"message": "Deal *5* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1150-frags-4-pb",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.7.title",
+						"message": "Destroy *4* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m1150-frags-fire-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.8.title",
+						"message": "Destroy *15* *Burning* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1150-dmg-immob-20k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.9.title",
+						"message": "Deal *20,000* damage to *Burning* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m1150-frags-ult-15",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.10.title",
+						"message": "Destroy *15* enemies with *Grand Slam*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1150-dmg-uniq-3-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.11.title",
+						"message": "Hit *3* unique enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "Medium",
+					"quest": "v-m1150-frags-charges-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.12.title",
+						"message": "Destroy *10* enemies with *Line Charges*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1150-dmg-ram-2000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1150.missions.13.title",
+						"message": "Deal *2,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-10-battles-1a6",
-			"friendlyName": "Play 10 battles on 1A6",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M1E1": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-ab-dmg-10-unique",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.0.title",
+						"message": "Deal ability damage to *10* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-blk-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.1.title",
+						"message": "Block *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m1e1-blk-ab-20k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.2.title",
+						"message": "Block *20,000* damage with *Active Protection System*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-blk-crits-4",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.3.title",
+						"message": "Survive *4* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-dmg-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.4.title",
+						"message": "Deal *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m1e1-dmg-ab-8k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.5.title",
+						"message": "Deal *8,000* damage with *Vulcan Auto Turret*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-frags-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.6.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-frags-3-sm-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.7.title",
+						"message": "Destroy *3* enemies in one battle *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m1e1-use-aps-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.8.title",
+						"message": "Use *Active Protection System* *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-use-ult-6",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.9.title",
+						"message": "Use *Creeping Barrage* *6 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m1e1-dmg-vulcan-15-unique",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.10.title",
+						"message": "Deal damage with *Vulcan Auto Turret* *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m1e1-blk-crits-2-frags-2",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.11.title",
+						"message": "Survive *2* critical hits and destroy *2* enemies in a single spawn"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m1e1-cqb-frags-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.12.title",
+						"message": "Destroy *15* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m1e1-vulcan-frags-5",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M1E1.missions.13.title",
+						"message": "Destroy *5* enemies with *Vulcan Auto Turret*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-20-battles-1a6",
-			"friendlyName": "Play 20 battles on 1A6",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M3E1 Bradley": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-ast-30",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.0.title",
+						"message": "Get *30* assists"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-blk-crits-2t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.1.title",
+						"message": "Survive *2* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-dmg-3k-sr-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.2.title",
+						"message": "Deal *3,000* damage in a single spawn *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-dmg-ab-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.3.title",
+						"message": "Deal *10,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-dmg-ab-5k-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.4.title",
+						"message": "Deal *5,000* ability damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m3e1-dmg-ab-tow-10k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.5.title",
+						"message": "Deal *10,000* damage with *TOW ATGM*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m3e1-dmg-uniq-tow-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.6.title",
+						"message": "Hit *10* unique enemies with *TOW ATGM*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-frags-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.7.title",
+						"message": "Destroy *10* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m3e1-dmg-ab-tow-ident-5k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.8.title",
+						"message": "Deal *5,000* damage to *Traced* enemies with *TOW ATGM*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m3e1-frags-3-ast-7",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.9.title",
+						"message": "Destroy *3* enemies and get *7* assists in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-frags-ab-tow-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.10.title",
+						"message": "Destroy *5* enemies with *TOW ATGM*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m3e1-frags-ident-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.11.title",
+						"message": "Destroy *5* *Traced* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m3e1-dmg-vulnerable-10k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.12.title",
+						"message": "Deal *10,000* damage to *Vulnerable* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m3e1-nbc-protection-15",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.13.title",
+						"message": "Trigger *NBC Protection* *30 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-battles-1a6-progress",
-			"friendlyName": "Play battles on 1A6 progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M551A1": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-repair-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.0.title",
+						"message": "Repair your vehicle *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-target-ult-pg-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.1.title",
+						"message": "Damage *10* enemies with *Lights Out*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-frags-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.2.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-dmg-ab-8k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.3.title",
+						"message": "Deal *8,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-cap-10-bases",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.4.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m551a1-dmg-5k-ram",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.5.title",
+						"message": "Deal *5,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-survive-crit-6t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.6.title",
+						"message": "Survive *6* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-blk-2-5k-dmg",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.7.title",
+						"message": "Block *2,500* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-dmg-7500-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.8.title",
+						"message": "Deal *7,500* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m551a1-dmg-uniq-canister-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.9.title",
+						"message": "Hit *15* unique enemies with *Canister Volley*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m551a1-frags-cqb-frags-canister-5",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.10.title",
+						"message": "Destroy *30* enemies in close quarters with *Canister Volley*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m551a1-dmg-crit-20t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.11.title",
+						"message": "Deal *20* *critical hits*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m551a1-dmg-4k-3-shots",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.12.title",
+						"message": "Deal *2,000* damage in *3* shots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m551a1-cqb-dmg-20k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M551A1.missions.13.title",
+						"message": "Deal *20,000* close-quarters damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-5-battles-m60a1",
-			"friendlyName": "Play 5 battles on M-60-A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M60 A3E2": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-dmg-5k-ab-blstprt",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.0.title",
+						"message": "Deal *5,000* damage with *Blast Projectors*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a3e2-heal-10k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.1.title",
+						"message": "Restore *10,000* HP"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a3e2-frags-ab-blast-2t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.2.title",
+						"message": "Destroy *2* enemies with *Blast Projectors*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-blk-10k-ult",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.3.title",
+						"message": "Block *10,000* damage with *Iron Curtain*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a3e2-use-enplat-5t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.4.title",
+						"message": "Use *Energized Plating* *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m60a3e2-repair-30t",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.5.title",
+						"message": "Repair your vehicle *30 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-dmg-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.6.title",
+						"message": "Deal *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-blk-10k-dmg",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.7.title",
+						"message": "Block *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-dmg-2-5k-ls",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.8.title",
+						"message": "Deal *2,500* longshot damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-dmg-crit-5t-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.9.title",
+						"message": "Deal *5* critical hits in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-use-eqp-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.10.title",
+						"message": "Use equipment *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-frags-3-pb",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.11.title",
+						"message": "Destroy *3* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a3e2-blk-1k-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.12.title",
+						"message": "Block *1,000* damage in single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a3e2-win-3t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60_A3E2.missions.13.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-10-battles-m60a1",
-			"friendlyName": "Play 10 battles on M-60-A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M60A1": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-ast-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.0.title",
+						"message": "Get *15* assists"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-dmg-ram-20",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.1.title",
+						"message": "Ram *20* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m60a1-dmg-ab-suppressive-fire-5000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.2.title",
+						"message": "Deal *15,000* damage with *Suppressive Fire*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a1-use-ab-suppressive-fire-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.3.title",
+						"message": "Use *Suppressive Fire* *10 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-blk-15000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.4.title",
+						"message": "Block *15,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-frags-20",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.5.title",
+						"message": "Destroy *20* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-dmg-ram-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.6.title",
+						"message": "Deal *5,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-blk-7000-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.7.title",
+						"message": "Block *7,000* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-dmg-ab-ultimate-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.8.title",
+						"message": "Deal *5,000* damage with the *Napalm in the Morning* Ultimate"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-dmg-frags-5-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.9.title",
+						"message": "Destroy *5* enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-m60a1-frags-supressive-fire-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.10.title",
+						"message": "Destroy *5* enemies with *Suppressive Fire*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a1-dmg-repair-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.11.title",
+						"message": "Repair your vehicle *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-m60a1-dmg-uniq-suppressive-fire-25",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.12.title",
+						"message": "Hit *25* unique enemies with *Suppressive Fire*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-m60a1-dmg-3000-sr-3",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A1.missions.13.title",
+						"message": "Deal *3,000* damage in a single spawn *3 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-20-battles-m60a1",
-			"friendlyName": "Play 20 battles on M-60-A1",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"M60A2": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-use-ab-airburst-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.0.title",
+						"message": "Use *Airburst* *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-starship-frags-cqb-15",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.1.title",
+						"message": "Destroy *15* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-starship-dmg-ab-autocannons-15000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.2.title",
+						"message": "Deal *15,000* damage with *Autocannons*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-use-ab-ultimate-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.3.title",
+						"message": "Use the *Napalm in the Morning* Ultimate *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-frags-5-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.4.title",
+						"message": "Destroy *5* enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-starship-heal-10000",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.5.title",
+						"message": "Restore *10,000* HP"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-frags-ram-3",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.6.title",
+						"message": "Destroy *3* enemies by ramming"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.7.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-heal-2000-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.8.title",
+						"message": "Restore *2,000* HP in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-frags-20",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.9.title",
+						"message": "Destroy *20* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-starship-dmg-cqb-10k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.10.title",
+						"message": "Deal *10,000* close-quarters damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-starship-blk-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.11.title",
+						"message": "Block *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-starship-dmg-ab-auto-5k-fire",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.12.title",
+						"message": "Deal *5,000* damage to *Burning* enemies with *Autocannons*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-starship-dmg-uniq-airburst-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.M60A2.missions.13.title",
+						"message": "Hit *10* unique enemies with *Airburst*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "play-battles-m60a1-progress",
-			"friendlyName": "Play battles on M-60-A1 progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"MARDER 1A3": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.0.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-ab-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.1.title",
+						"message": "Deal *5,000* ability damage in a *single battle*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-15k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.2.title",
+						"message": "Deal *15,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-ab-suppres-10k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.3.title",
+						"message": "Deal *10,000* damage with *Suppression Strike*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": false,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-ram-2k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.4.title",
+						"message": "Deal *2,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-5-uniq-ab",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.5.title",
+						"message": "Deal *ability damage* to *5* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-marder1a3-dmg-20-uniq-ab-suppres",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.6.title",
+						"message": "Hit *20* unique enemies with *Suppression Strike*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-frags-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.7.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-marder1a3-use-ab-mines-3",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.8.title",
+						"message": "Place *20* mines with *Smart Mines*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-marder1a3-dmg-uniq-10-ab-mines",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.9.title",
+						"message": "Deal damage to *10* unique enemies with *Smart Mines*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-ast-15-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.10.title",
+						"message": "Get *5* assists in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-marder1a3-dmg-ab-mines-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.11.title",
+						"message": "Deal *5,000* damage with *Smart Mines*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-marder1a3-frags-suppres-5",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.12.title",
+						"message": "Destroy *5* enemies with *Suppression Strike*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-marder1a3-nbc-protection-15",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.MARDER_1A3.missions.13.title",
+						"message": "Trigger *NBC Protection* *15 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-5-games-kill-confirm",
-			"friendlyName": "Win 5 games in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Object 287": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-object287-dmg-ram-2000-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.0.title",
+						"message": "Deal *2,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "object287-dmg-ram-2000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.1.title",
+						"message": "Deal *2,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "object287-dmg-10000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.2.title",
+						"message": "Deal *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "object287-frags-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.3.title",
+						"message": "Destroy *15* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "object287-cap-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.4.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-object287-frags-cqb-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.5.title",
+						"message": "Destroy *10* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-object287-frags-ram-5",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.6.title",
+						"message": "Destroy *5* enemies by ramming"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-object287-use-ult-rampage-3t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.7.title",
+						"message": "Use *Rampage* *3* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-object287-frags-5-pb",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.8.title",
+						"message": "Destroy *5* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-object287-win-3t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.9.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-object287-heal-ab-5t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.10.title",
+						"message": "Repair your vehicle with *Scavenger* *20 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-object287-use-combcage-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.11.title",
+						"message": "Use *Combat Cage* *10* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-object287-dmg-3000-sm",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.12.title",
+						"message": "Deal *3,000* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-object287-play-10-matches",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Object_287.missions.13.title",
+						"message": "Play *10* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-10-games-kill-confirm",
-			"friendlyName": "Win 10 games in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"T-62AV": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-t62av-dmg-ram-10000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.0.title",
+						"message": "Deal *10,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "t62av-frags-ram-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.1.title",
+						"message": "Destroy *10* enemies by ramming"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "t62av-dmg-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.2.title",
+						"message": "Deal *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-dmg-ab-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.3.title",
+						"message": "Deal *5,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "t62av-frags-25",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.4.title",
+						"message": "Destroy *25* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-cap-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.5.title",
+						"message": "Capture *10* bases"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-dmg-10000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.6.title",
+						"message": "Deal *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t62av-win-3t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.7.title",
+						"message": "Win *3* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-t62av-play-10-matches",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.8.title",
+						"message": "Play *10* battles"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-heal-ab-5t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.9.title",
+						"message": "Repair your vehicle with *Scavenger* *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t62av-use-ult-rampage-5t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.10.title",
+						"message": "Use *Rampage* *5* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-blk-5000",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.11.title",
+						"message": "Block *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-use-ptrail-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.12.title",
+						"message": "Use *Pyro-Trail* *10* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t62av-use-rbarrage-10t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.13.title",
+						"message": "Use *Rocket Barrage* *10* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t62av-dmg-3000-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-62AV.missions.14.title",
+						"message": "Deal *3,000* damage in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-20-games-kill-confirm",
-			"friendlyName": "Win 20 games in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"T-72": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-t72-dmg-10k-jam",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.0.title",
+						"message": "Deal *10,000* damage to *Jammed* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-blk-ult-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.1.title",
+						"message": "Block *10* projectiles with *Iron Curtain*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t72-heal-20k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.2.title",
+						"message": "Restore *20,000* HP"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-blk-10k-dmg-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.3.title",
+						"message": "Block *10,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-dmg-crit-20t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.4.title",
+						"message": "Deal *20* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-dmg-5k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.5.title",
+						"message": "Deal *5,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-frag-ls-5t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.6.title",
+						"message": "Destroy *5* enemies with longshots"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-heal-10t",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.7.title",
+						"message": "Repair your vehicle *10* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-frags-20",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.8.title",
+						"message": "Destroy *20* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-t72-dmg-ram-6k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.9.title",
+						"message": "Deal *6,000* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t72-dmg-uniq-10t",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.10.title",
+						"message": "Hit *10* unique enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t72-frags-5-jammed",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.11.title",
+						"message": "Destroy *10* *Jammed* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-t72-frags-5-pb",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.12.title",
+						"message": "Destroy *5* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-t72-dmg-blk-2k-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.T-72.missions.13.title",
+						"message": "Deal and block *2,000* damage each in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-games-kill-confirm-progress",
-			"friendlyName": "Win games in Kill confirm progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"The First": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-the-first-charm-play-3-matches",
+					"rewards": [
+						{
+							"amount": 1,
+							"code": "vehicle_c11n_talisman_53",
+							"type": "Entitlement"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.The_First.missions.0.title",
+						"message": "Play *3 battles* within the *first 7 days* after release to unlock the *Spearhead* charm"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "use-demolition-charge-ability-5-times",
-			"friendlyName": "Use Demolition charge ability 5 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Twitch Launch Week 1": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-twitch-launch-w1-play-3-matches",
+					"rewards": [
+						{
+							"amount": 15000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Twitch_Launch_Week_1.missions.0.title",
+						"message": "*Twitch Drop* Week 1: Play *3 battles* with the *M1E1*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "use-demolition-charge-ability-10-times",
-			"friendlyName": "Use Demolition charge ability 10 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Twitch Launch Week 2": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-twitch-launch-w2-play-3-matches",
+					"rewards": [
+						{
+							"amount": 1,
+							"code": "a01_chrysler_c11n_camo_twitch",
+							"type": "Entitlement"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Twitch_Launch_Week_2.missions.0.title",
+						"message": "*Twitch Drop* Week 2: Play *3 battles* with the *XM1V*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "use-demolition-charge-ability-20-times",
-			"friendlyName": "Use Demolition charge ability 20 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Twitch Launch Week 3": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-twitch-launch-w3-play-3-matches",
+					"rewards": [
+						{
+							"amount": 1,
+							"code": "a08_m3_c11n_camo_twitch",
+							"type": "Entitlement"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Twitch_Launch_Week_3.missions.0.title",
+						"message": "*Twitch Drop* Week 3: Play *3 battles* with the *M3E1*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "use-demolition-charge-ability-progress",
-			"friendlyName": "Use Demolition charge ability progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Twitch Launch Week 4": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-twitch-launch-w4-play-3-matches",
+					"rewards": [
+						{
+							"amount": 10000,
+							"code": "soft",
+							"type": "Currency"
+						},
+						{
+							"amount": 100,
+							"code": "tech",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Twitch_Launch_Week_4.missions.0.title",
+						"message": "*Twitch Drop* Week 4: Play *3 battles* with the *T-62AV*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-5-games-conquest",
-			"friendlyName": "Win 5 games in Conquest",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"Twitch Launch Week 5": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "e-twitch-launch-w5-play-3-matches",
+					"rewards": [
+						{
+							"amount": 1,
+							"code": "a07_hstv_c11n_camo_twitch",
+							"type": "Entitlement"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Twitch_Launch_Week_5.missions.0.title",
+						"message": "*Twitch Drop* Week 5: Play *3 battles* with the *HSTV-L*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-10-games-conquest",
-			"friendlyName": "Win 10 games in Conquest",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"XM1 90": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-xm190-dmg-after-ab-special-shells-10000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.0.title",
+						"message": "Deal *10,000* damage with secondary magazine shells"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-xm190-dmg-aft-ab-unload-20k",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.1.title",
+						"message": "Deal *20,000* damage with *Unload*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm190-frags-ab-special-shells-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.2.title",
+						"message": "Destroy *10* enemies with secondary magazine shells"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-dmg-30-crit",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.3.title",
+						"message": "Deal *30* critical hits"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-use-ab-contracted-strike-5",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.4.title",
+						"message": "Use *Contracted Strike* *5 times*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-frags-30",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.5.title",
+						"message": "Destroy *30* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-dmg-ram-1500",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.6.title",
+						"message": "Deal *1,500* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-frags-5-sm",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.7.title",
+						"message": "Destroy *5* enemies in a single battle"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-blk-crits-3",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.8.title",
+						"message": "Survive *3* *critical hits*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "xm190-dmg-5000-sr",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.9.title",
+						"message": "Deal *5,000* damage in a single spawn"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-dmg-uniq-unload-2",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.10.title",
+						"message": "Deal damage to *2* unique enemies with *Unload*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm190-deal-12k-rising-tempo",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.11.title",
+						"message": "Deal *12,000* damage with the gun while *Rising Tempo* is active"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm190-dmg-contr-str-15k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.12.title",
+						"message": "Deal *15,000* damage with *Contracted Strike*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm190-frags-contr-str-8",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1_90.missions.13.title",
+						"message": "Destroy *8* enemies with *Contracted Strike*"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		},
-		{
-			"code": "win-20-games-conquest",
-			"friendlyName": "Win 20 games in Conquest",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "win-games-conquest-progress",
-			"friendlyName": "Win games in Conquest progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "win-5-games-domination",
-			"friendlyName": "Win 5 games in Domination",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "win-10-games-domination",
-			"friendlyName": "Win 10 games in Domination",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "win-20-games-domination",
-			"friendlyName": "Win 20 games in Domination",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "win-games-domination-progress",
-			"friendlyName": "Win games in Domination progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "deny-5-kills-kill-confirm",
-			"friendlyName": "Deny 5 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "deny-10-kills-kill-confirm",
-			"friendlyName": "Deny 10 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "deny-20-kills-kill-confirm",
-			"friendlyName": "Deny 20 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "deny-kills-kill-confirm-progress",
-			"friendlyName": "Deny kills in Kill confirm-progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "confirm-5-kills-kill-confirm",
-			"friendlyName": "Confirm 5 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "confirm-10-kills-kill-confirm",
-			"friendlyName": "Confirm 10 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "confirm-20-kills-kill-confirm",
-			"friendlyName": "Confirm 20 kills in Kill confirm",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "confirm-kills-kill-confirm-progress",
-			"friendlyName": "Confirm kills in Kill confirm progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "kill-20-enemies",
-			"friendlyName": "Kill 20 enemies",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "kill-50-enemies",
-			"friendlyName": "Kill 50 enemies",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "kill-100-enemies",
-			"friendlyName": "Kill 100 enemies",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "kill-enemies-progress",
-			"friendlyName": "Kill enemies progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "heal-allies-1000",
-			"friendlyName": "Heal allies for 1000",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "heal-allies-5000",
-			"friendlyName": "Heal allies for 5000",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "heal-allies-10000",
-			"friendlyName": "Heal allies for 10000",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "heal-allies-progress",
-			"friendlyName": "Heal allies progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "block-ricochet-1000-dmg",
-			"friendlyName": "Block/Ricochet 1000 amount of damage",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "block-ricochet-5000-dmg",
-			"friendlyName": "Block/Ricochet 5000 amount of damage",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "block-ricochet-10000-dmg",
-			"friendlyName": "Block/Ricochet 10000 amount of damage",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "block-ricochet-dmg-progress",
-			"friendlyName": "Block/Ricochet amount of damage progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "ramming-enemy-to-death-1-times",
-			"friendlyName": "Ramming an enemy to death 1 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "ramming-enemy-to-death-5-times",
-			"friendlyName": "Ramming an enemy to death 5 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "ramming-enemy-to-death-10-times",
-			"friendlyName": "Ramming an enemy to death 10 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "ramming-enemy-to-death-progress",
-			"friendlyName": "Ramming an enemy to death progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "revenge-1-times",
-			"friendlyName": "Kill an enemy that killed you in a match 1 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "revenge-5-times",
-			"friendlyName": "Kill an enemy that killed you in a match 5 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "revenge-10-times",
-			"friendlyName": "Kill an enemy that killed you in a match 10 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "revenge-progress",
-			"friendlyName": "Kill an enemy that killed you in a match progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "first-blood-1-times",
-			"friendlyName": "Make first teamkill in a match 1 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "first-blood-5-times",
-			"friendlyName": "Make first teamkill in a match 5 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "first-blood-10-times",
-			"friendlyName": "Make first teamkill in a match 10 times",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
-			]
-		},
-		{
-			"code": "first-blood-progress",
-			"friendlyName": "Make first teamkill in a match progress",
-			"price": {
-				"currencies": []
-			},
-			"tags": [
-				"Achievement",
-				"NoCheat"
+		"XM1V": {
+			"enabled": true,
+			"missions": [
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm1v-blk-15k",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.0.title",
+						"message": "Block *15,000* damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "xm1V-dmg-ab-10",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.1.title",
+						"message": "Deal *10,000* ability damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "xm1V-dmg-ab-minefield-10000",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.2.title",
+						"message": "Deal *10,000* damage with *Minefield*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm1v-dmg-ram-2500",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.3.title",
+						"message": "Deal *2,500* ramming damage"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "xm1V-frags-ab-demolition-charges-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.4.title",
+						"message": "Destroy *5* enemies with *Demolition Charges*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "xm1V-use-eqp-15",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.5.title",
+						"message": "Use equipment *15* times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "v-xm1v-frags-2-pb",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.6.title",
+						"message": "Destroy *2* enemies as payback"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "xm1v-frags-cqb-30",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.7.title",
+						"message": "Destroy *15* enemies in close quarters"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Low",
+					"quest": "v-xm1V-frags-ult-5",
+					"rewards": [
+						{
+							"amount": 300,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.8.title",
+						"message": "Destroy *15* enemies with *Grand Slam*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm1V-dmg-immob-5k",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.9.title",
+						"message": "Deal *15,000* damage to *Immobilized* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "High",
+					"quest": "xm1V-frags-ram-3",
+					"rewards": [
+						{
+							"amount": 40,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.10.title",
+						"message": "Destroy *3* enemies by ramming"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm1V-frags-immob-10",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.11.title",
+						"message": "Destroy *10* *Immobilized* enemies"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm1V-dmg-ab-demolition-charges-7500",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.12.title",
+						"message": "Deal *7,500* damage with *Demolition Charges*"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Medium",
+					"quest": "v-xm1V-frags-ab-30",
+					"rewards": [
+						{
+							"amount": 120,
+							"code": "intel",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.XM1V.missions.13.title",
+						"message": "Destroy *30* enemies with abilities"
+					},
+					"weightUpdatePolicy": "Keep"
+				}
 			]
 		}
-	],
-	"products": [],
-	"promos": []
+	},
+	"updateWindowSeconds": 60,
+	"weightValues": {
+		"High": 4,
+		"Low": 1,
+		"Medium": 2
+	}
 }
