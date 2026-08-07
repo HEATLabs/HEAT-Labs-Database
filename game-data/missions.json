@@ -1,5 +1,4 @@
 {
-	"__type__": "cw::quests::MissionPoolsStorage",
 	"pools": {
 		"ALVT": {
 			"enabled": true,
@@ -18,7 +17,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.0.title",
-						"message": "Use *Contracted Strike* *10 times*"
+						"message": "Use Contracted Strike 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -36,7 +35,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.1.title",
-						"message": "Use *Dirty Substance* *20 times*"
+						"message": "Use Dirty Substance 20 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -54,7 +53,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.2.title",
-						"message": "Deal *6,500* damage with *Grenade Cluster*"
+						"message": "Deal 6,500 damage with Grenade Cluster"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -72,7 +71,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.3.title",
-						"message": "Block *5,000* damage"
+						"message": "Block 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -90,7 +89,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.4.title",
-						"message": "Destroy *30* enemies"
+						"message": "Destroy 30 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -108,7 +107,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.5.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -126,7 +125,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.6.title",
-						"message": "Deal *10,000* damage"
+						"message": "Deal 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -144,7 +143,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.7.title",
-						"message": "Use *Grenade Cluster* *20 times*"
+						"message": "Use Grenade Cluster 20 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -162,7 +161,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.8.title",
-						"message": "Destroy *5* enemies in a single battle *3 times*"
+						"message": "Destroy 5 enemies in a single battle 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -180,7 +179,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.9.title",
-						"message": "Survive *3* critical hits in a single spawn *2 times*"
+						"message": "Survive 3 critical hits in a single spawn 2 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -198,7 +197,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.10.title",
-						"message": "Deal damage to *20* unique enemies trapped by *Dirty Substance*"
+						"message": "Deal damage to 20 unique enemies trapped by Dirty Substance"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -216,7 +215,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.11.title",
-						"message": "Destroy *10* enemies with the gun while *Rising Tempo* is active"
+						"message": "Destroy 10 enemies with the gun while Rising Tempo is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -234,7 +233,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.12.title",
-						"message": "Deal *5,000* damage to *Greased* enemies"
+						"message": "Deal 5,000 damage to Greased enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -252,7 +251,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.13.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -270,7 +269,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.14.title",
-						"message": "Play *5* battles"
+						"message": "Play 5 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -288,13 +287,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.ALVT.missions.15.title",
-						"message": "Get *20* assists in a single battle"
+						"message": "Get 20 assists in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"AMX 10 RC": {
+		"AMX-10 RC": {
 			"enabled": true,
 			"missions": [
 				{
@@ -311,7 +310,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.0.title",
-						"message": "Hit *20* unique enemies with *Top-Attack Missiles*"
+						"message": "Hit 20 unique enemies with Top-Attack Missiles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -329,7 +328,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.1.title",
-						"message": "Use *Hunting Time* *10 times*"
+						"message": "Use Hunting Time 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -347,7 +346,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.2.title",
-						"message": "Use *UAV Drone* *10 times*"
+						"message": "Use UAV Drone 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -365,7 +364,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.3.title",
-						"message": "Destroy *10* enemies with *Top-Attack Missiles*"
+						"message": "Destroy 10 enemies with Top-Attack Missiles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -383,7 +382,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.4.title",
-						"message": "Deal *5,000* ability damage"
+						"message": "Deal 5,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -401,7 +400,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.5.title",
-						"message": "Survive *3* critical hits"
+						"message": "Survive 3 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -419,7 +418,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.6.title",
-						"message": "Deal *10,000* longshot damage"
+						"message": "Deal 10,000 longshot damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -437,7 +436,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.7.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -455,7 +454,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.8.title",
-						"message": "Destroy *15* enemies with longshots"
+						"message": "Destroy 15 enemies with longshots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -473,7 +472,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.9.title",
-						"message": "Get *30* assists"
+						"message": "Get 30 assists"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -491,7 +490,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.10.title",
-						"message": "Hit *20* unique *Traced* enemies"
+						"message": "Hit 20 unique Traced enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -509,7 +508,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.11.title",
-						"message": "Deal *15,000* damage to *Traced* enemies"
+						"message": "Deal 15,000 damage to Traced enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -527,7 +526,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.12.title",
-						"message": "Destroy *5* enemies with critical hits"
+						"message": "Destroy 5 enemies with critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -545,13 +544,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.AMX_10_RC.missions.13.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"FV4030 X": {
+		"FV 4030/X": {
 			"enabled": true,
 			"missions": [
 				{
@@ -568,7 +567,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.0.title",
-						"message": "Block *5,000* damage with *Bastion*"
+						"message": "Block 5,000 damage with Bastion"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -586,7 +585,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.1.title",
-						"message": "Use *Creeping Barrage* *3 times*"
+						"message": "Use Creeping Barrage 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -604,7 +603,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.2.title",
-						"message": "Use *Bastion* *10 times*"
+						"message": "Use Bastion 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -622,7 +621,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.3.title",
-						"message": "Use *Jamming Field* *15 times*"
+						"message": "Use Jamming Field 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -640,7 +639,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.4.title",
-						"message": "Block *5,000* damage"
+						"message": "Block 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -658,7 +657,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.5.title",
-						"message": "Survive *5* critical hits"
+						"message": "Survive 5 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -676,7 +675,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.6.title",
-						"message": "Deal *5,000* damage"
+						"message": "Deal 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -694,7 +693,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.7.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -712,7 +711,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.8.title",
-						"message": "Destroy *5* enemies in a single battle"
+						"message": "Destroy 5 enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -730,7 +729,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.9.title",
-						"message": "Destroy *5* enemies in a single battle *3 times*"
+						"message": "Destroy 5 enemies in a single battle 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -748,7 +747,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.10.title",
-						"message": "Use *Jamming Field* *2* times in *5* battles"
+						"message": "Use Jamming Field 2 times in 5 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -766,7 +765,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.11.title",
-						"message": "Deal ability damage to *5* unique enemies"
+						"message": "Deal ability damage to 5 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -784,7 +783,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.12.title",
-						"message": "Deal *3* critical hits in a single battle"
+						"message": "Deal 3 critical hits in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -802,7 +801,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.FV4030_X.missions.13.title",
-						"message": "Destroy *5* *Jammed* enemies"
+						"message": "Destroy 5 Jammed enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -825,7 +824,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.0.title",
-						"message": "Place *15* probes with *Recon Probes*"
+						"message": "Place 15 probes with Recon Probes"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -843,7 +842,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.1.title",
-						"message": "Deal damage to *10* unique enemies with *Autonomous Turret*"
+						"message": "Deal damage to 10 unique enemies with Autonomous Turret"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -861,7 +860,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.2.title",
-						"message": "Deal *15,000* damage to enemies with *Autonomous Turret*"
+						"message": "Deal 15,000 damage to enemies with Autonomous Turret"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -879,7 +878,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.3.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -897,7 +896,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.4.title",
-						"message": "Deal *ability damage* to *5* unique enemies"
+						"message": "Deal ability damage to 5 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -915,7 +914,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.5.title",
-						"message": "Deal *10,000* ability damage"
+						"message": "Deal 10,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -933,7 +932,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.6.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -951,7 +950,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.7.title",
-						"message": "Deal *2,500* ramming damage"
+						"message": "Deal 2,500 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -969,7 +968,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.8.title",
-						"message": "Destroy *5* enemies in a single battle"
+						"message": "Destroy 5 enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -987,7 +986,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.9.title",
-						"message": "Deal *7,500* damage in a single battle"
+						"message": "Deal 7,500 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1005,7 +1004,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.10.title",
-						"message": "Hit *10* enemies with *MK19 Auto Turret*"
+						"message": "Hit 10 enemies with MK19 Auto Turret"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1023,7 +1022,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.11.title",
-						"message": "Deal *2,500* ability damage *5 times*"
+						"message": "Deal 2,500 ability damage 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1041,7 +1040,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.12.title",
-						"message": "Get *4* assists in a single battle"
+						"message": "Get 4 assists in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1059,7 +1058,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.HSTV-L.missions.13.title",
-						"message": "Deal *2,000* damage in a single spawn *2 times*"
+						"message": "Deal 2,000 damage in a single spawn 2 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -1082,7 +1081,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.0.title",
-						"message": "Deal *3* types of critical hit in a single battle *3 times*"
+						"message": "Deal 3 types of critical hit in a single battle 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1100,7 +1099,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.1.title",
-						"message": "Deal *10* critical hits"
+						"message": "Deal 10 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1118,7 +1117,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.2.title",
-						"message": "Destroy *2* enemies in one spawn *3 times*"
+						"message": "Destroy 2 enemies in one spawn 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1136,7 +1135,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.3.title",
-						"message": "Destroy *10* enemies with longshots"
+						"message": "Destroy 10 enemies with longshots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1154,7 +1153,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.4.title",
-						"message": "Destroy *2* enemies as payback"
+						"message": "Destroy 2 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1172,7 +1171,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.5.title",
-						"message": "Use equipment *10 times*"
+						"message": "Use equipment 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1190,7 +1189,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.6.title",
-						"message": "Deal *10,000* critical damage while *Echo Proxy* is active"
+						"message": "Deal 10,000 critical damage while Echo Proxy is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1208,7 +1207,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.7.title",
-						"message": "Deal *15,000* longshot damage while *Echo Proxy* is active"
+						"message": "Deal 15,000 longshot damage while Echo Proxy is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1226,7 +1225,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.8.title",
-						"message": "Deal *10,000* longshot damage"
+						"message": "Deal 10,000 longshot damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1244,7 +1243,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.9.title",
-						"message": "Deal *3,500* damage in 5 *shots*"
+						"message": "Deal 3,500 damage in 5 shots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1262,7 +1261,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.10.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1280,7 +1279,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.11.title",
-						"message": "Deal *20* critical hits while *Signature Masking* is active"
+						"message": "Deal 20 critical hits while Signature Masking is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1298,7 +1297,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.12.title",
-						"message": "Destroy *5* enemies while *Electro-Optical Jammers* is active"
+						"message": "Destroy 5 enemies while Electro-Optical Jammers is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1316,7 +1315,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.13.title",
-						"message": "Get *15* assists"
+						"message": "Get 15 assists"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1334,7 +1333,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.14.title",
-						"message": "Win *5* battles"
+						"message": "Win 5 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1352,7 +1351,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.15.title",
-						"message": "Hit *40* unique enemies"
+						"message": "Hit 40 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1370,7 +1369,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.16.title",
-						"message": "Deal *30* longshot critical hits"
+						"message": "Deal 30 longshot critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1388,7 +1387,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.17.title",
-						"message": "Deal *20,000* damage while *Electro-Optical Jammers* is active"
+						"message": "Deal 20,000 damage while Electro-Optical Jammers is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1406,7 +1405,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.18.title",
-						"message": "Deal *10* critical hits after using *Feign Death*"
+						"message": "Deal 10 critical hits after using Feign Death"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1424,13 +1423,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2FK.missions.19.title",
-						"message": "Destroy *15* enemies after using *Feign Death*"
+						"message": "Destroy 15 enemies after using Feign Death"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"LEOPARD 2K14": {
+		"LEOPARD 2KST": {
 			"enabled": true,
 			"missions": [
 				{
@@ -1447,7 +1446,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.0.title",
-						"message": "Deal *3* types of critical hit in a single battle while *Signature Masking* is active *3 times*"
+						"message": "Deal 3 types of critical hit in a single battle while Signature Masking is active 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1465,7 +1464,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.1.title",
-						"message": "Get *15* assists"
+						"message": "Get 15 assists"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1483,7 +1482,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.2.title",
-						"message": "Deal *3,000* damage in *3 battles*"
+						"message": "Deal 3,000 damage in 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1501,7 +1500,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.3.title",
-						"message": "Deal *10,000* close-quarters damage"
+						"message": "Deal 10,000 close-quarters damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1519,7 +1518,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.4.title",
-						"message": "Destroy *2* enemies as payback"
+						"message": "Destroy 2 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1537,7 +1536,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.5.title",
-						"message": "Use equipment *15 times*"
+						"message": "Use equipment 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1555,7 +1554,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.6.title",
-						"message": "Use *Active Camo* *10 times*"
+						"message": "Use Active Camo 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1573,7 +1572,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.7.title",
-						"message": "Ram *10* unique enemies"
+						"message": "Ram 10 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1591,7 +1590,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.8.title",
-						"message": "Deal *5,000* damage to *Slowed* enemies"
+						"message": "Deal 5,000 damage to Slowed enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1609,7 +1608,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.9.title",
-						"message": "Deal *5,000* damage with *EMP Trap*"
+						"message": "Deal 5,000 damage with EMP Trap"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1627,7 +1626,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.10.title",
-						"message": "Destroy *10* *Slowed* enemies"
+						"message": "Destroy 10 Slowed enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1645,7 +1644,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.11.title",
-						"message": "Destroy *5* enemies while *Active Camo* is active"
+						"message": "Destroy 5 enemies while Active Camo is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1663,7 +1662,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.12.title",
-						"message": "Deal *10,000* critical damage while *Active Camo* is active"
+						"message": "Deal 10,000 critical damage while Active Camo is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1681,7 +1680,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.13.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1699,7 +1698,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.14.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1717,7 +1716,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.15.title",
-						"message": "Recapture *30* bases"
+						"message": "Recapture 30 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1735,7 +1734,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.16.title",
-						"message": "Hit *5* unique enemies in a single battle"
+						"message": "Hit 5 unique enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1753,7 +1752,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.17.title",
-						"message": "Destroy *15* enemies in close quarters"
+						"message": "Destroy 15 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1771,7 +1770,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.18.title",
-						"message": "Deal *5,000* critical damage while *Echo Proxy* is active"
+						"message": "Deal 5,000 critical damage while Echo Proxy is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1789,13 +1788,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.LEOPARD_2K14.missions.19.title",
-						"message": "Destroy *20* enemies with *EMP Trap*"
+						"message": "Destroy 20 enemies with EMP Trap"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"Leopard 1A6": {
+		"Leopard 1A6A1": {
 			"enabled": true,
 			"missions": [
 				{
@@ -1812,7 +1811,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.0.title",
-						"message": "Hit enemies with *Trapping Shot* *10 times*"
+						"message": "Hit enemies with Trapping Shot 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1830,7 +1829,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.1.title",
-						"message": "Deal *10* longshot critical hits"
+						"message": "Deal 10 longshot critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1848,7 +1847,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.2.title",
-						"message": "Deal *20* critical hits"
+						"message": "Deal 20 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1866,7 +1865,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.3.title",
-						"message": "Deal *5,000* critical damage in a single battle"
+						"message": "Deal 5,000 critical damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1884,7 +1883,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.4.title",
-						"message": "Destroy *12* enemies with longshots"
+						"message": "Destroy 12 enemies with longshots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1902,7 +1901,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.5.title",
-						"message": "Destroy *10* enemies with critical hits"
+						"message": "Destroy 10 enemies with critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1920,7 +1919,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.6.title",
-						"message": "Use *Hunting Time* *5 times*"
+						"message": "Use Hunting Time 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1938,7 +1937,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.7.title",
-						"message": "Use *Decoy* *15 times*"
+						"message": "Use Decoy 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1956,7 +1955,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.8.title",
-						"message": "Deal *15,000* damage to *Immobilized* enemies"
+						"message": "Deal 15,000 damage to Immobilized enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1974,7 +1973,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.9.title",
-						"message": "Deal *5,000* damage to *Traced* enemies"
+						"message": "Deal 5,000 damage to Traced enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -1992,7 +1991,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.10.title",
-						"message": "Land direct hits on *5* *Traced* enemies with *Trapping Shot*"
+						"message": "Land direct hits on 5 Traced enemies with Trapping Shot"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2010,7 +2009,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.11.title",
-						"message": "Deal *7,000* damage in *5* shots"
+						"message": "Deal 7,000 damage in 5 shots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2028,7 +2027,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.12.title",
-						"message": "Destroy *5* *Immobilized* enemies"
+						"message": "Destroy 5 Immobilized enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2046,7 +2045,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Leopard_1A6.missions.13.title",
-						"message": "Deal *30* critical hits while *Hunter's Eye* is active"
+						"message": "Deal 30 critical hits while Hunter's Eye is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -2069,7 +2068,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.0.title",
-						"message": "Deal *20,000* damage with *Line Charges*"
+						"message": "Deal 20,000 damage with Line Charges"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2087,7 +2086,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.1.title",
-						"message": "Destroy *15* enemies in close quarters"
+						"message": "Destroy 15 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2105,7 +2104,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.2.title",
-						"message": "Deal *5,000* damage with *Incendiary Charges* in a single battle"
+						"message": "Deal 5,000 damage with Incendiary Charges in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2123,7 +2122,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.3.title",
-						"message": "Deal *15,000* ability damage"
+						"message": "Deal 15,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2141,7 +2140,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.4.title",
-						"message": "Deal *7,500* damage in a single battle"
+						"message": "Deal 7,500 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2159,7 +2158,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.5.title",
-						"message": "Use equipment *10 times*"
+						"message": "Use equipment 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2177,7 +2176,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.6.title",
-						"message": "Deal *5* critical hits"
+						"message": "Deal 5 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2195,7 +2194,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.7.title",
-						"message": "Destroy *4* enemies as payback"
+						"message": "Destroy 4 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2213,7 +2212,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.8.title",
-						"message": "Destroy *15* *Burning* enemies"
+						"message": "Destroy 15 Burning enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2231,7 +2230,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.9.title",
-						"message": "Deal *20,000* damage to *Burning* enemies"
+						"message": "Deal 20,000 damage to Burning enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2249,7 +2248,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.10.title",
-						"message": "Destroy *15* enemies with *Grand Slam*"
+						"message": "Destroy 15 enemies with Grand Slam"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2267,7 +2266,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.11.title",
-						"message": "Hit *3* unique enemies in a single battle"
+						"message": "Hit 3 unique enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2285,7 +2284,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.12.title",
-						"message": "Destroy *10* enemies with *Line Charges*"
+						"message": "Destroy 10 enemies with Line Charges"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2303,7 +2302,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1150.missions.13.title",
-						"message": "Deal *2,000* ramming damage"
+						"message": "Deal 2,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -2326,7 +2325,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.0.title",
-						"message": "Deal ability damage to *10* unique enemies"
+						"message": "Deal ability damage to 10 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2344,7 +2343,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.1.title",
-						"message": "Block *5,000* damage"
+						"message": "Block 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2362,7 +2361,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.2.title",
-						"message": "Block *20,000* damage with *Active Protection System*"
+						"message": "Block 20,000 damage with Active Protection System"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2380,7 +2379,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.3.title",
-						"message": "Survive *4* critical hits"
+						"message": "Survive 4 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2398,7 +2397,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.4.title",
-						"message": "Deal *10,000* damage"
+						"message": "Deal 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2416,7 +2415,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.5.title",
-						"message": "Deal *8,000* damage with *Vulcan Auto Turret*"
+						"message": "Deal 8,000 damage with Vulcan Auto Turret"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2434,7 +2433,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.6.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2452,7 +2451,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.7.title",
-						"message": "Destroy *3* enemies in one battle *3 times*"
+						"message": "Destroy 3 enemies in one battle 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2470,7 +2469,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.8.title",
-						"message": "Use *Active Protection System* *15 times*"
+						"message": "Use Active Protection System 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2488,7 +2487,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.9.title",
-						"message": "Use *Creeping Barrage* *6 times*"
+						"message": "Use Creeping Barrage 6 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2506,7 +2505,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.10.title",
-						"message": "Deal damage with *Vulcan Auto Turret* *15 times*"
+						"message": "Deal damage with Vulcan Auto Turret 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2524,7 +2523,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.11.title",
-						"message": "Survive *2* critical hits and destroy *2* enemies in a single spawn"
+						"message": "Survive 2 critical hits and destroy 2 enemies in a single spawn"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2542,7 +2541,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.12.title",
-						"message": "Destroy *15* enemies in close quarters"
+						"message": "Destroy 15 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2560,7 +2559,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.13.title",
-						"message": "Destroy *5* enemies with *Vulcan Auto Turret*"
+						"message": "Destroy 5 enemies with Vulcan Auto Turret"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -2583,7 +2582,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.0.title",
-						"message": "Get *30* assists"
+						"message": "Get 30 assists"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2601,7 +2600,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.1.title",
-						"message": "Survive *2* critical hits"
+						"message": "Survive 2 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2619,7 +2618,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.2.title",
-						"message": "Deal *3,000* damage in a single spawn *3 times*"
+						"message": "Deal 3,000 damage in a single spawn 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2637,7 +2636,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.3.title",
-						"message": "Deal *10,000* ability damage"
+						"message": "Deal 10,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2655,7 +2654,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.4.title",
-						"message": "Deal *5,000* ability damage in a single battle"
+						"message": "Deal 5,000 ability damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2673,7 +2672,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.5.title",
-						"message": "Deal *10,000* damage with *TOW ATGM*"
+						"message": "Deal 10,000 damage with TOW ATGM"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2691,7 +2690,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.6.title",
-						"message": "Hit *10* unique enemies with *TOW ATGM*"
+						"message": "Hit 10 unique enemies with TOW ATGM"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2709,7 +2708,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.7.title",
-						"message": "Destroy *10* enemies"
+						"message": "Destroy 10 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2727,7 +2726,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.8.title",
-						"message": "Deal *5,000* damage to *Traced* enemies with *TOW ATGM*"
+						"message": "Deal 5,000 damage to Traced enemies with TOW ATGM"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2745,7 +2744,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.9.title",
-						"message": "Destroy *3* enemies and get *7* assists in a single battle"
+						"message": "Destroy 3 enemies and get 7 assists in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2763,7 +2762,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.10.title",
-						"message": "Destroy *5* enemies with *TOW ATGM*"
+						"message": "Destroy 5 enemies with TOW ATGM"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2781,7 +2780,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.11.title",
-						"message": "Destroy *5* *Traced* enemies"
+						"message": "Destroy 5 Traced enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2799,7 +2798,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.12.title",
-						"message": "Deal *10,000* damage to *Vulnerable* enemies"
+						"message": "Deal 10,000 damage to Vulnerable enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2817,7 +2816,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M3E1_Bradley.missions.13.title",
-						"message": "Trigger *NBC Protection* *30 times*"
+						"message": "Trigger NBC Protection 30 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -2840,7 +2839,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.0.title",
-						"message": "Repair your vehicle *10 times*"
+						"message": "Repair your vehicle 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2858,7 +2857,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.1.title",
-						"message": "Damage *10* enemies with *Lights Out*"
+						"message": "Damage 10 enemies with Lights Out"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2876,7 +2875,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.2.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2894,7 +2893,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.3.title",
-						"message": "Deal *8,000* ability damage"
+						"message": "Deal 8,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2912,7 +2911,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.4.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2930,7 +2929,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.5.title",
-						"message": "Deal *5,000* ramming damage"
+						"message": "Deal 5,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2948,7 +2947,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.6.title",
-						"message": "Survive *6* critical hits"
+						"message": "Survive 6 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2966,7 +2965,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.7.title",
-						"message": "Block *2,500* damage"
+						"message": "Block 2,500 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -2984,7 +2983,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.8.title",
-						"message": "Deal *7,500* damage in a single battle"
+						"message": "Deal 7,500 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3002,7 +3001,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.9.title",
-						"message": "Hit *15* unique enemies with *Canister Volley*"
+						"message": "Hit 15 unique enemies with Canister Volley"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3020,7 +3019,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.10.title",
-						"message": "Destroy *30* enemies in close quarters with *Canister Volley*"
+						"message": "Destroy 30 enemies in close quarters with Canister Volley"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3038,7 +3037,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.11.title",
-						"message": "Deal *20* *critical hits*"
+						"message": "Deal 20 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3056,7 +3055,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.12.title",
-						"message": "Deal *2,000* damage in *3* shots"
+						"message": "Deal 2,000 damage in 3 shots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3074,13 +3073,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M551A1.missions.13.title",
-						"message": "Deal *20,000* close-quarters damage"
+						"message": "Deal 20,000 close-quarters damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"M60 A3E2": {
+		"M60A3E2": {
 			"enabled": true,
 			"missions": [
 				{
@@ -3097,7 +3096,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.0.title",
-						"message": "Deal *5,000* damage with *Blast Projectors*"
+						"message": "Deal 5,000 damage with Blast Projectors"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3115,7 +3114,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.1.title",
-						"message": "Restore *10,000* HP"
+						"message": "Restore 10,000 HP"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3133,7 +3132,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.2.title",
-						"message": "Destroy *2* enemies with *Blast Projectors*"
+						"message": "Destroy 2 enemies with Blast Projectors"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3151,7 +3150,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.3.title",
-						"message": "Block *10,000* damage with *Iron Curtain*"
+						"message": "Block 10,000 damage with Iron Curtain"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3169,7 +3168,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.4.title",
-						"message": "Use *Energized Plating* *5 times*"
+						"message": "Use Energized Plating 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3187,7 +3186,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.5.title",
-						"message": "Repair your vehicle *30 times*"
+						"message": "Repair your vehicle 30 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3205,7 +3204,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.6.title",
-						"message": "Deal *5,000* damage"
+						"message": "Deal 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3223,7 +3222,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.7.title",
-						"message": "Block *10,000* damage"
+						"message": "Block 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3241,7 +3240,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.8.title",
-						"message": "Deal *2,500* longshot damage"
+						"message": "Deal 2,500 longshot damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3259,7 +3258,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.9.title",
-						"message": "Deal *5* critical hits in a single battle"
+						"message": "Deal 5 critical hits in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3277,7 +3276,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.10.title",
-						"message": "Use equipment *10 times*"
+						"message": "Use equipment 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3295,7 +3294,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.11.title",
-						"message": "Destroy *3* enemies as payback"
+						"message": "Destroy 3 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3313,7 +3312,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.12.title",
-						"message": "Block *1,000* damage in single battle"
+						"message": "Block 1,000 damage in single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3331,7 +3330,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60_A3E2.missions.13.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -3354,7 +3353,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.0.title",
-						"message": "Get *15* assists"
+						"message": "Get 15 assists"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3372,7 +3371,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.1.title",
-						"message": "Ram *20* unique enemies"
+						"message": "Ram 20 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3390,7 +3389,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.2.title",
-						"message": "Deal *15,000* damage with *Suppressive Fire*"
+						"message": "Deal 15,000 damage with Suppressive Fire"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3408,7 +3407,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.3.title",
-						"message": "Use *Suppressive Fire* *10 times*"
+						"message": "Use Suppressive Fire 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3426,7 +3425,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.4.title",
-						"message": "Block *15,000* damage"
+						"message": "Block 15,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3444,7 +3443,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.5.title",
-						"message": "Destroy *20* enemies"
+						"message": "Destroy 20 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3462,7 +3461,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.6.title",
-						"message": "Deal *5,000* ramming damage"
+						"message": "Deal 5,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3480,7 +3479,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.7.title",
-						"message": "Block *7,000* damage in a single battle"
+						"message": "Block 7,000 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3498,7 +3497,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.8.title",
-						"message": "Deal *5,000* damage with the *Napalm in the Morning* Ultimate"
+						"message": "Deal 5,000 damage with the Napalm in the Morning Ultimate"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3516,7 +3515,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.9.title",
-						"message": "Destroy *5* enemies in a single battle"
+						"message": "Destroy 5 enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3534,7 +3533,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.10.title",
-						"message": "Destroy *5* enemies with *Suppressive Fire*"
+						"message": "Destroy 5 enemies with Suppressive Fire"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3552,7 +3551,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.11.title",
-						"message": "Repair your vehicle *15 times*"
+						"message": "Repair your vehicle 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3570,7 +3569,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.12.title",
-						"message": "Hit *25* unique enemies with *Suppressive Fire*"
+						"message": "Hit 25 unique enemies with Suppressive Fire"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3588,7 +3587,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A1.missions.13.title",
-						"message": "Deal *3,000* damage in a single spawn *3 times*"
+						"message": "Deal 3,000 damage in a single spawn 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -3611,7 +3610,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.0.title",
-						"message": "Use *Airburst* *5 times*"
+						"message": "Use Airburst 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3629,7 +3628,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.1.title",
-						"message": "Destroy *15* enemies in close quarters"
+						"message": "Destroy 15 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3647,7 +3646,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.2.title",
-						"message": "Deal *15,000* damage with *Autocannons*"
+						"message": "Deal 15,000 damage with Autocannons"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3665,7 +3664,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.3.title",
-						"message": "Use the *Napalm in the Morning* Ultimate *5 times*"
+						"message": "Use the Napalm in the Morning Ultimate 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3683,7 +3682,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.4.title",
-						"message": "Destroy *5* enemies in a single battle"
+						"message": "Destroy 5 enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3701,7 +3700,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.5.title",
-						"message": "Restore *10,000* HP"
+						"message": "Restore 10,000 HP"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3719,7 +3718,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.6.title",
-						"message": "Destroy *3* enemies by ramming"
+						"message": "Destroy 3 enemies by ramming"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3737,7 +3736,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.7.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3755,7 +3754,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.8.title",
-						"message": "Restore *2,000* HP in a single battle"
+						"message": "Restore 2,000 HP in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3773,7 +3772,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.9.title",
-						"message": "Destroy *20* enemies"
+						"message": "Destroy 20 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3791,7 +3790,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.10.title",
-						"message": "Deal *10,000* close-quarters damage"
+						"message": "Deal 10,000 close-quarters damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3809,7 +3808,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.11.title",
-						"message": "Block *10,000* damage"
+						"message": "Block 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3827,7 +3826,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.12.title",
-						"message": "Deal *5,000* damage to *Burning* enemies with *Autocannons*"
+						"message": "Deal 5,000 damage to Burning enemies with Autocannons"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3845,7 +3844,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.M60A2.missions.13.title",
-						"message": "Hit *10* unique enemies with *Airburst*"
+						"message": "Hit 10 unique enemies with Airburst"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -3868,7 +3867,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.0.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3886,7 +3885,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.1.title",
-						"message": "Deal *5,000* ability damage in a *single battle*"
+						"message": "Deal 5,000 ability damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3904,7 +3903,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.2.title",
-						"message": "Deal *15,000* ability damage"
+						"message": "Deal 15,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3922,7 +3921,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.3.title",
-						"message": "Deal *10,000* damage with *Suppression Strike*"
+						"message": "Deal 10,000 damage with Suppression Strike"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3940,7 +3939,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.4.title",
-						"message": "Deal *2,000* ramming damage"
+						"message": "Deal 2,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3958,7 +3957,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.5.title",
-						"message": "Deal *ability damage* to *5* unique enemies"
+						"message": "Deal ability damage to 5 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3976,7 +3975,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.6.title",
-						"message": "Hit *20* unique enemies with *Suppression Strike*"
+						"message": "Hit 20 unique enemies with Suppression Strike"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -3994,7 +3993,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.7.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4012,7 +4011,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.8.title",
-						"message": "Place *20* mines with *Smart Mines*"
+						"message": "Place 20 mines with Smart Mines"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4030,7 +4029,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.9.title",
-						"message": "Deal damage to *10* unique enemies with *Smart Mines*"
+						"message": "Deal damage to 10 unique enemies with Smart Mines"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4048,7 +4047,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.10.title",
-						"message": "Get *5* assists in a single battle"
+						"message": "Get 5 assists in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4066,7 +4065,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.11.title",
-						"message": "Deal *5,000* damage with *Smart Mines*"
+						"message": "Deal 5,000 damage with Smart Mines"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4084,7 +4083,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.12.title",
-						"message": "Destroy *5* enemies with *Suppression Strike*"
+						"message": "Destroy 5 enemies with Suppression Strike"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4102,7 +4101,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.MARDER_1A3.missions.13.title",
-						"message": "Trigger *NBC Protection* *15 times*"
+						"message": "Trigger NBC Protection 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -4125,7 +4124,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.0.title",
-						"message": "Deal *2,000* ability damage"
+						"message": "Deal 2,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4143,7 +4142,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.1.title",
-						"message": "Deal *2,000* ramming damage"
+						"message": "Deal 2,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4161,7 +4160,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.2.title",
-						"message": "Deal *10,000* damage"
+						"message": "Deal 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4179,7 +4178,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.3.title",
-						"message": "Destroy *15* enemies"
+						"message": "Destroy 15 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4197,7 +4196,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.4.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4215,7 +4214,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.5.title",
-						"message": "Destroy *10* enemies in close quarters"
+						"message": "Destroy 10 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4233,7 +4232,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.6.title",
-						"message": "Destroy *5* enemies by ramming"
+						"message": "Destroy 5 enemies by ramming"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4251,7 +4250,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.7.title",
-						"message": "Use *Rampage* *3* times"
+						"message": "Use Rampage 3 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4269,7 +4268,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.8.title",
-						"message": "Destroy *5* enemies as payback"
+						"message": "Destroy 5 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4287,7 +4286,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.9.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4305,7 +4304,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.10.title",
-						"message": "Repair your vehicle with *Scavenger* *20 times*"
+						"message": "Repair your vehicle with Scavenger 20 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4323,7 +4322,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.11.title",
-						"message": "Use *Combat Cage* *10* times"
+						"message": "Use Combat Cage 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4341,7 +4340,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.12.title",
-						"message": "Deal *3,000* damage in a single battle"
+						"message": "Deal 3,000 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4359,7 +4358,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.Object_287.missions.13.title",
-						"message": "Play *10* battles"
+						"message": "Play 10 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -4382,7 +4381,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.0.title",
-						"message": "Deal *10,000* ramming damage"
+						"message": "Deal 10,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4400,7 +4399,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.1.title",
-						"message": "Destroy *10* enemies by ramming"
+						"message": "Destroy 10 enemies by ramming"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4418,7 +4417,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.2.title",
-						"message": "Deal *5,000* damage"
+						"message": "Deal 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4436,7 +4435,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.3.title",
-						"message": "Deal *5,000* ability damage"
+						"message": "Deal 5,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4454,7 +4453,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.4.title",
-						"message": "Destroy *25* enemies"
+						"message": "Destroy 25 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4472,7 +4471,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.5.title",
-						"message": "Capture *10* bases"
+						"message": "Capture 10 bases"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4490,7 +4489,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.6.title",
-						"message": "Deal *10,000* damage"
+						"message": "Deal 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4508,7 +4507,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.7.title",
-						"message": "Win *3* battles"
+						"message": "Win 3 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4526,7 +4525,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.8.title",
-						"message": "Play *10* battles"
+						"message": "Play 10 battles"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4544,7 +4543,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.9.title",
-						"message": "Repair your vehicle with *Scavenger* *5 times*"
+						"message": "Repair your vehicle with Scavenger 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4562,7 +4561,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.10.title",
-						"message": "Use *Rampage* *5* times"
+						"message": "Use Rampage 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4580,7 +4579,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.11.title",
-						"message": "Block *5,000* damage"
+						"message": "Block 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4598,7 +4597,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.12.title",
-						"message": "Use *Pyro-Trail* *10* times"
+						"message": "Use Pyro-Trail 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4616,7 +4615,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.13.title",
-						"message": "Use *Rocket Barrage* *10* times"
+						"message": "Use Rocket Barrage 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4634,13 +4633,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-62AV.missions.14.title",
-						"message": "Deal *3,000* damage in a single battle"
+						"message": "Deal 3,000 damage in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"T-72": {
+		"T-72SH": {
 			"enabled": true,
 			"missions": [
 				{
@@ -4657,7 +4656,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.0.title",
-						"message": "Deal *10,000* damage to *Jammed* enemies"
+						"message": "Deal 10,000 damage to Jammed enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4675,7 +4674,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.1.title",
-						"message": "Block *10* projectiles with *Iron Curtain*"
+						"message": "Block 10 projectiles with Iron Curtain"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4693,7 +4692,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.2.title",
-						"message": "Restore *20,000* HP"
+						"message": "Restore 20,000 HP"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4711,7 +4710,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.3.title",
-						"message": "Block *10,000* damage"
+						"message": "Block 10,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4729,7 +4728,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.4.title",
-						"message": "Deal *20* critical hits"
+						"message": "Deal 20 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4747,7 +4746,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.5.title",
-						"message": "Deal *5,000* damage"
+						"message": "Deal 5,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4765,7 +4764,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.6.title",
-						"message": "Destroy *5* enemies with longshots"
+						"message": "Destroy 5 enemies with longshots"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4783,7 +4782,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.7.title",
-						"message": "Repair your vehicle *10* times"
+						"message": "Repair your vehicle 10 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4801,7 +4800,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.8.title",
-						"message": "Destroy *20* enemies"
+						"message": "Destroy 20 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4819,7 +4818,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.9.title",
-						"message": "Deal *6,000* ramming damage"
+						"message": "Deal 6,000 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4837,7 +4836,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.10.title",
-						"message": "Hit *10* unique enemies"
+						"message": "Hit 10 unique enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4855,7 +4854,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.11.title",
-						"message": "Destroy *10* *Jammed* enemies"
+						"message": "Destroy 10 Jammed enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4873,7 +4872,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.12.title",
-						"message": "Destroy *5* enemies as payback"
+						"message": "Destroy 5 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4891,13 +4890,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.T-72.missions.13.title",
-						"message": "Deal and block *2,000* damage each in a single battle"
+						"message": "Deal and block 2,000 damage each in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"XM1 90": {
+		"XM1-90": {
 			"enabled": true,
 			"missions": [
 				{
@@ -4914,7 +4913,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.0.title",
-						"message": "Deal *10,000* damage with secondary magazine shells"
+						"message": "Deal 10,000 damage with secondary magazine shells"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4932,7 +4931,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.1.title",
-						"message": "Deal *20,000* damage with *Unload*"
+						"message": "Deal 20,000 damage with Unload"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4950,7 +4949,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.2.title",
-						"message": "Destroy *10* enemies with secondary magazine shells"
+						"message": "Destroy 10 enemies with secondary magazine shells"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4968,7 +4967,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.3.title",
-						"message": "Deal *30* critical hits"
+						"message": "Deal 30 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -4986,7 +4985,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.4.title",
-						"message": "Use *Contracted Strike* *5 times*"
+						"message": "Use Contracted Strike 5 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5004,7 +5003,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.5.title",
-						"message": "Destroy *30* enemies"
+						"message": "Destroy 30 enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5022,7 +5021,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.6.title",
-						"message": "Deal *1,500* ramming damage"
+						"message": "Deal 1,500 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5040,7 +5039,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.7.title",
-						"message": "Destroy *5* enemies in a single battle"
+						"message": "Destroy 5 enemies in a single battle"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5058,7 +5057,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.8.title",
-						"message": "Survive *3* *critical hits*"
+						"message": "Survive 3 critical hits"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5076,7 +5075,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.9.title",
-						"message": "Deal *5,000* damage in a single spawn"
+						"message": "Deal 5,000 damage in a single spawn"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5094,7 +5093,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.10.title",
-						"message": "Deal damage to *2* unique enemies with *Unload*"
+						"message": "Deal damage to 2 unique enemies with Unload"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5112,7 +5111,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.11.title",
-						"message": "Deal *12,000* damage with the gun while *Rising Tempo* is active"
+						"message": "Deal 12,000 damage with the gun while Rising Tempo is active"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5130,7 +5129,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.12.title",
-						"message": "Deal *15,000* damage with *Contracted Strike*"
+						"message": "Deal 15,000 damage with Contracted Strike"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5148,13 +5147,13 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.13.title",
-						"message": "Destroy *8* enemies with *Contracted Strike*"
+						"message": "Destroy 8 enemies with Contracted Strike"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
-		"XM1V": {
+		"XM1-V": {
 			"enabled": true,
 			"missions": [
 				{
@@ -5171,7 +5170,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.0.title",
-						"message": "Block *15,000* damage"
+						"message": "Block 15,000 damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5189,7 +5188,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.1.title",
-						"message": "Deal *10,000* ability damage"
+						"message": "Deal 10,000 ability damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5207,7 +5206,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.2.title",
-						"message": "Deal *10,000* damage with *Minefield*"
+						"message": "Deal 10,000 damage with Minefield"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5225,7 +5224,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.3.title",
-						"message": "Deal *2,500* ramming damage"
+						"message": "Deal 2,500 ramming damage"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5243,7 +5242,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.4.title",
-						"message": "Destroy *5* enemies with *Demolition Charges*"
+						"message": "Destroy 5 enemies with Demolition Charges"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5261,7 +5260,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.5.title",
-						"message": "Use equipment *15* times"
+						"message": "Use equipment 15 times"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5279,7 +5278,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.6.title",
-						"message": "Destroy *2* enemies as payback"
+						"message": "Destroy 2 enemies as payback"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5297,7 +5296,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.7.title",
-						"message": "Destroy *15* enemies in close quarters"
+						"message": "Destroy 15 enemies in close quarters"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5315,7 +5314,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.8.title",
-						"message": "Destroy *15* enemies with *Grand Slam*"
+						"message": "Destroy 15 enemies with Grand Slam"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5333,7 +5332,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.9.title",
-						"message": "Deal *15,000* damage to *Immobilized* enemies"
+						"message": "Deal 15,000 damage to Immobilized enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5351,7 +5350,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.10.title",
-						"message": "Destroy *3* enemies by ramming"
+						"message": "Destroy 3 enemies by ramming"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5369,7 +5368,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.11.title",
-						"message": "Destroy *10* *Immobilized* enemies"
+						"message": "Destroy 10 Immobilized enemies"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5387,7 +5386,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.12.title",
-						"message": "Deal *7,500* damage with *Demolition Charges*"
+						"message": "Deal 7,500 damage with Demolition Charges"
 					},
 					"weightUpdatePolicy": "Keep"
 				},
@@ -5405,7 +5404,7 @@
 					"tags": [],
 					"title": {
 						"key": "mission_pools.specs.pools.XM1V.missions.13.title",
-						"message": "Destroy *30* enemies with abilities"
+						"message": "Destroy 30 enemies with abilities"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
