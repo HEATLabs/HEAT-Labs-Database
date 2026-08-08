@@ -2048,6 +2048,60 @@
 						"message": "Deal 30 critical hits while Hunter's Eye is active"
 					},
 					"weightUpdatePolicy": "Keep"
+				},
+			  	{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-leo1a6-use-ab-decoy-5",
+					"rewards": [
+						{
+							"amount": 20000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_Leo1a6.missions.0.title",
+						"message": "Use Decoy 5 times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-leo1a6-hit-trapping-shot-5",
+					"rewards": [
+						{
+							"amount": 35000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_Leo1a6.missions.1.title",
+						"message": "Deal damage with a Traping Shot direct hit 5 times"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-leo1a6-use-ult-1",
+					"rewards": [
+						{
+							"amount": 50000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_Leo1a6.missions.2.title",
+						"message": "Use Hunting Time 1 time"
+					},
+					"weightUpdatePolicy": "Keep"
 				}
 			]
 		},
@@ -2560,6 +2614,60 @@
 					"title": {
 						"key": "mission_pools.specs.pools.M1E1.missions.13.title",
 						"message": "Destroy 5 enemies with Vulcan Auto Turret"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+			  	{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-m1e1-blk-ab-5000",
+					"rewards": [
+						{
+							"amount": 20000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_M1E1.missions.0.title",
+						"message": "Block 5,000 damage with Active Protection System"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-m1e1-vulcan-dmg-1500",
+					"rewards": [
+						{
+							"amount": 35000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_M1E1.missions.1.title",
+						"message": "Deal 1,500 damage with Vulcan Auto Turret"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-m1e1-use-ult-1",
+					"rewards": [
+						{
+							"amount": 50000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_M1E1.missions.2.title",
+						"message": "Use Creeping Barrage once"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
@@ -5148,6 +5256,60 @@
 					"title": {
 						"key": "mission_pools.specs.pools.XM1_90.missions.13.title",
 						"message": "Destroy 8 enemies with Contracted Strike"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+			  	{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-xm190-dmg-fastdraw-1500",
+					"rewards": [
+						{
+							"amount": 20000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_XM1_90.missions.0.title",
+						"message": "Deal 1,500 damage with secondary magazine shells"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-xm190-dmg-kills-unload-2",
+					"rewards": [
+						{
+							"amount": 35000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_XM1_90.missions.1.title",
+						"message": "Destroy 2 enemies with Unload"
+					},
+					"weightUpdatePolicy": "Keep"
+				},
+				{
+					"enabled": true,
+					"initialWeight": "Always",
+					"quest": "b-xm190-ab-ult-1",
+					"rewards": [
+						{
+							"amount": 50000,
+							"code": "soft",
+							"type": "Currency"
+						}
+					],
+					"tags": [],
+					"title": {
+						"key": "mission_pools.specs.pools.Beginner_Missions_XM1_90.missions.2.title",
+						"message": "Use Contracted Strike 1 time"
 					},
 					"weightUpdatePolicy": "Keep"
 				}
