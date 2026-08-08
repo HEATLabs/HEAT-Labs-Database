@@ -1,0 +1,4807 @@
+{
+	"groups": [
+		{
+			"icon": "",
+			"id": 1,
+			"order": 0,
+			"title": {
+				"key": "perks.specs.groups.0.title",
+				"message": "Trait"
+			}
+		},
+		{
+			"icon": "",
+			"id": 2,
+			"order": 1,
+			"title": {
+				"key": "perks.specs.groups.1.title",
+				"message": "Ability"
+			}
+		},
+		{
+			"icon": "",
+			"id": 3,
+			"order": 2,
+			"title": {
+				"key": "perks.specs.groups.2.title",
+				"message": "Attribute"
+			}
+		},
+		{
+			"icon": "",
+			"id": 4,
+			"order": 3,
+			"title": {
+				"key": "perks.specs.groups.3.title",
+				"message": "Ultimate"
+			}
+		}
+	],
+	"perks": [
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ultimate_1_perk",
+				"product": "perk_raketa_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.0.description",
+				"message": "+5 s to Rampage duration."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/raketa/skill_rampage_overstay.png",
+			"id": 1,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier1/s_rampage_overstay_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier1/s_rampage_overstay_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_raketa_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.0.title",
+				"message": "Rampage Overstay"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ultimate_2_perk",
+				"product": "perk_raketa_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.1.description",
+				"message": "+25% to Ultimate charge speed."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/raketa/skill_supercharger.png",
+			"id": 2,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier2/s_supercharger_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier2/s_supercharger_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_raketa_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.1.title",
+				"message": "SUPERCHARGER"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ultimate_3_perk",
+				"product": "perk_raketa_ultimate_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.2.description",
+				"message": "-35% to reload time between shells in the magazine when Scavenge is active."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_perks/role_perks/assault_role_perks/this_is_my_gun.png",
+			"id": 3,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier3/s_bloodlust_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier3/s_bloodlust_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_raketa_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.2.title",
+				"message": "BLOODLUST"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ultimate_4_perk",
+				"product": "perk_raketa_ultimate_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.3.description",
+				"message": "Picking up a Scrap Token fully refills the Scavenge magazine."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_perks/role_perks/defender_role_perks/back_on_track.png",
+			"id": 4,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier4/s_metalbolism_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/ultimates/tier4/s_metalbolism_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_raketa_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.3.title",
+				"message": "METALBOLISM"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_trait_1_perk",
+				"product": "perk_raketa_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.4.description",
+				"message": "Grants Warded for 10 s on picking up a Scrap Token."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/raketa/skill_last_stand_token.png",
+			"id": 5,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier1/s_last_stand_token_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier1/s_last_stand_token_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_raketa_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.4.title",
+				"message": "Last Stand Token"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_trait_2_perk",
+				"product": "perk_raketa_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.5.description",
+				"message": "+10 to Boost Energy capacity and +5% to Boost Energy regeneration speed for every collected Scrap Token until destruction."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/raketa/skill_mass_to_energy.png",
+			"id": 6,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier2/s_mass_to_energy_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier2/s_mass_to_energy_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_raketa_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.5.title",
+				"message": "MASS TO ENERGY"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_trait_3_perk",
+				"product": "perk_raketa_trait_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.6.description",
+				"message": "+50% to HP restored by Scrap Tokens."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_perks/division_perks/bravo_company/peripheral_vision.png",
+			"id": 7,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier3/s_rational_distribution_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier3/s_rational_distribution_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_raketa_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.6.title",
+				"message": "RATIONAL DISTRIBUTION"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_trait_4_perk",
+				"product": "perk_raketa_trait_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.7.description",
+				"message": "Picking up a Scrap Token provides 100% resistance to Daze and Interference for 20s."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_perks/division_perks/bravo_company/stable_approach.png",
+			"id": 8,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier4/s_metal_resistance_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/traits/tier4/s_metal_resistance_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_raketa_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.7.title",
+				"message": "METAL RESISTANCE"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_extension_1_perk",
+				"product": "perk_raketa_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.8.description",
+				"message": "+10% to hull and turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/raketa/skill_well_oiled_mashine.png",
+			"id": 9,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier1/well_oiled_machine/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier1/well_oiled_machine/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_raketa_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.8.title",
+				"message": "WELL-OILED MACHINE"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_extension_2_perk",
+				"product": "perk_raketa_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.9.description",
+				"message": "+100% to Slow resistance while boosting."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/raketa/skill_unstoppable.png",
+			"id": 10,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier2/unstoppable/s_unstoppable_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier2/unstoppable/s_unstoppable_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_raketa_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.9.title",
+				"message": "UNSTOPPABLE"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_extension_3_perk",
+				"product": "perk_raketa_extension_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.10.description",
+				"message": "+100% track HP"
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_perks/hero_perks/breacher/cool_aid.png",
+			"id": 11,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier3/big_foot/s_big_foot_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier3/big_foot/s_big_foot_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_raketa_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.10.title",
+				"message": "BIG FOOT"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_extension_4_perk",
+				"product": "perk_raketa_extension_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.11.description",
+				"message": "On kill, restocks the main gun magazine."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_perks/hero_perks/breacher/rapid_deployment.png",
+			"id": 12,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier4/second_wind/s_second_wind_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/extension/tier4/second_wind/s_second_wind_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_raketa_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.11.title",
+				"message": "SECOND WIND"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ability_1_perk",
+				"product": "perk_raketa_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.12.description",
+				"message": "Damaging an enemy with an ability makes them Fragile."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/raketa/skill_flamethrower.png",
+			"id": 13,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier1/flamethrower/s_flamethrower_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier1/flamethrower/s_flamethrower_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_raketa_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.12.title",
+				"message": "FLAMETHROWER"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ability_2_perk",
+				"product": "perk_raketa_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.13.description",
+				"message": "+30% to velocity of ability munitions."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/raketa/skill_high_oxygen.png",
+			"id": 14,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier2/high_oxigene/s_high_oxygen_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier2/high_oxigene/s_high_oxygen_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_raketa_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.13.title",
+				"message": "HIGH OXYGEN"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ability_3_perk",
+				"product": "perk_raketa_ability_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.14.description",
+				"message": "-50% to cooldown of all abilities."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_perks/hero_perks/breacher/evasive_maneuver.png",
+			"id": 15,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier3/horologer/s_horologer_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier3/horologer/s_horologer_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_raketa_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.14.title",
+				"message": "HOROLOGER"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_raketa_ability_4_perk",
+				"product": "perk_raketa_ability_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.15.description",
+				"message": "Using abilities that boost your tank's speed above 45 km/h applies Warded to you."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_perks/hero_perks/breacher/smoking_gun.png",
+			"id": 16,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier4/comet/s_comet_skill.prefab",
+					"vehicleId": 41
+				},
+				{
+					"prefab": "/frontmen/pc/pc_002/skills/abilities/tier4/comet/s_comet_skill.prefab",
+					"vehicleId": 56
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_raketa_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.15.title",
+				"message": "COMET"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_extension_1_perk",
+				"product": "perk_kent_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.16.description",
+				"message": "+10% to hull and turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/kent/skill_well-oiled_machine.png",
+			"id": 18,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/extension/tier1/well_oiled_machine/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/extension/tier1/well_oiled_machine/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_kent_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.16.title",
+				"message": "WELL-OILED MACHINE"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_extension_2_perk",
+				"product": "perk_kent_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.17.description",
+				"message": "-20% to reticle size, including while moving."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/kent/skill_combat_blur_system.png",
+			"id": 19,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/extension/tier2/combat_blur_system/s_combat_blur_system_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/extension/tier2/combat_blur_system/s_combat_blur_system_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_kent_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.17.title",
+				"message": "Combat Blur System"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ability_1_perk",
+				"product": "perk_kent_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.18.description",
+				"message": "+15% to shell velocity."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/kent/skill_shell_velocity_mode.png",
+			"id": 21,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier1/shell_velocity_mod/s_shell_velocity_mod_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier1/shell_velocity_mod/s_shell_velocity_mod_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_kent_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.18.title",
+				"message": "Shell Velocity Mode"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ability_2_perk",
+				"product": "perk_kent_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.19.description",
+				"message": "-15% to ability Energy cost."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/kent/skill_energy_recycler.png",
+			"id": 23,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_kent_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.19.title",
+				"message": "Energy Recycler"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ultimate_1_perk",
+				"product": "perk_kent_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.20.description",
+				"message": "Canceling Contracted Strike reduces its charge amount to 33% instead of 0%."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/kent/skill_charge_retention.png",
+			"id": 25,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/ultimates/tier1/s_charge_retention_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/ultimates/tier1/s_charge_retention_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_kent_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.20.title",
+				"message": "Charge Retention"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ultimate_2_perk",
+				"product": "perk_kent_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.21.description",
+				"message": "Reduces minimum lock-on time for a Hydra strike from 1.5 s to 1.2 s and extends lock-on after stopping targeting from 2.5 s to 3.5 s."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/kent/skill_time_management.png",
+			"id": 24,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/ultimates/tier2/s_time_management_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/ultimates/tier2/s_time_management_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_kent_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.21.title",
+				"message": "Time Management"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_trait_1_perk",
+				"product": "perk_kent_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.22.description",
+				"message": "Rising Tempo increases base reload time by 7.5% instead of 12.5%."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/kent/skill_target_stability.png",
+			"id": 26,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/traits/tier1/s_gunslinger_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/traits/tier1/s_gunslinger_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_kent_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.22.title",
+				"message": "Gunslinger"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_trait_2_perk",
+				"product": "perk_kent_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.23.description",
+				"message": "+25% to aiming speed for each stack of Rising Tempo."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/kent/skill_combat_experience.png",
+			"id": 27,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/traits/tier2/s_lawman_skill.prefab",
+					"vehicleId": 2
+				},
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/traits/tier2/s_lawman_skill.prefab",
+					"vehicleId": 39
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_kent_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.23.title",
+				"message": "Lawman"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ability_3_perk",
+				"product": "perk_kent_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 28,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ability_4_perk",
+				"product": "perk_kent_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 29,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ultimate_3_perk",
+				"product": "perk_kent_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 30,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_ultimate_4_perk",
+				"product": "perk_kent_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 31,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_trait_3_perk",
+				"product": "perk_kent_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 32,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_trait_4_perk",
+				"product": "perk_kent_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 33,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_extension_3_perk",
+				"product": "perk_kent_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 36,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_kent_extension_4_perk",
+				"product": "perk_kent_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 37,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_001/skills/abilities/tier2/mana_recycler/s_mana_recycler_skill.prefab",
+					"vehicleId": 2
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_kent_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ultimate_1_perk",
+				"product": "perk_chopper_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.32.description",
+				"message": "+10% to Slow applied by shells."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/chopper/skill_concussive_payload.png",
+			"id": 17,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/ultimates/tier1/s_concussive_payload_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/ultimates/tier1/s_concussive_payload_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_chopper_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.32.title",
+				"message": "Concussive Payload"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ultimate_2_perk",
+				"product": "perk_chopper_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.33.description",
+				"message": "Shell hits on enemies increase their track repair time by 10% for 10 s."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/chopper/skill_cripping_impact.png",
+			"id": 38,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/ultimates/tier2/s_crippling_impact_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/ultimates/tier2/s_crippling_impact_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_chopper_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.33.title",
+				"message": "Crippling Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_trait_1_perk",
+				"product": "perk_chopper_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.34.description",
+				"message": "After expiring, Warded is granted again for 10 s.  Cooldown: 30 s"
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/chopper/skill_echo_shield.png",
+			"id": 39,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/traits/tier1/s_echo_shield_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/traits/tier1/s_echo_shield_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_chopper_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.34.title",
+				"message": "Echo Shield"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_trait_2_perk",
+				"product": "perk_chopper_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.35.description",
+				"message": "+1 stack of Warded when the enemy team is winning."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/chopper/skill_underdogs_guard.png",
+			"id": 20,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/traits/tier2/s_underdogs_guard_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/traits/tier2/s_underdogs_guard_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_chopper_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.35.title",
+				"message": "Underdog's Guard"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_extension_1_perk",
+				"product": "perk_chopper_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.36.description",
+				"message": "+10% to engine power."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/chopper/skill_overdrive_engine.png",
+			"id": 40,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/extension/tier1/overdrive_engine/s_overdrive_engine_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/extension/tier1/overdrive_engine/s_overdrive_engine_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_chopper_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.36.title",
+				"message": "Overdrive Engine"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_extension_2_perk",
+				"product": "perk_chopper_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.37.description",
+				"message": "+10% to turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/chopper/skill_snap_traverse.png",
+			"id": 22,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/extension/tier2/snap_traverse/s_snap_traverse_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/extension/tier2/snap_traverse/s_snap_traverse_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_chopper_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.37.title",
+				"message": "Snap Traverse"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ability_1_perk",
+				"product": "perk_chopper_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.38.description",
+				"message": "-5% to reload time for each ability on cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/chopper/skill_combat_rhythm.png",
+			"id": 41,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/abilities/tier1/combat_rhythm/s_combat_rhythm_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/abilities/tier1/combat_rhythm/s_combat_rhythm_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_chopper_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.38.title",
+				"message": "Combat Rhythm"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ability_2_perk",
+				"product": "perk_chopper_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.39.description",
+				"message": "+1 Ultimate Energy for every 5 Energy spent on abilities."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/chopper/skill_enegry_recycler.png",
+			"id": 42,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/abilities/tier2/energy_recycler/s_energy_recycler_skill.prefab",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "/frontmen/pc/pc_004/skills/abilities/tier2/energy_recycler/s_energy_recycler_skill.prefab",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_chopper_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.39.title",
+				"message": "Energy Recycler"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ultimate_1_perk",
+				"product": "perk_hound_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.40.description",
+				"message": "Destroying an enemy with Hunting Time makes targets around them Fragile as well as Traced."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/hound/skill_sure_shot.png",
+			"id": 55,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/ultimates/tier1/s_sure_short_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/ultimates/tier1/s_sure_short_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.40.title",
+				"message": "Sure Shot"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ultimate_2_perk",
+				"product": "perk_hound_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.41.description",
+				"message": "+50% to Hunting Time's Tracing radius."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/hound/skill_enhanced_tracking.png",
+			"id": 57,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/ultimates/tier2/s_enhanced_tracking_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/ultimates/tier2/s_enhanced_tracking_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.41.title",
+				"message": "Enhanced Tracking"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ultimate_3_perk",
+				"product": "perk_hound_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 59,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ultimate_4_perk",
+				"product": "perk_hound_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 61,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ability_1_perk",
+				"product": "perk_hound_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.44.description",
+				"message": "-10% to ability Energy cost."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/hound/skill_conservative.png",
+			"id": 63,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/abilities/tier1/s_conservative_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/abilities/tier1/s_conservative_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.44.title",
+				"message": "Conservative"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ability_2_perk",
+				"product": "perk_hound_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.45.description",
+				"message": "-25% to ability cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/hound/skill_rapid_flow.png",
+			"id": 43,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/abilities/tier2/s_rapid_flow_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/abilities/tier2/s_rapid_flow_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.45.title",
+				"message": "Rapid Flow"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ability_3_perk",
+				"product": "perk_hound_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 44,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_ability_4_perk",
+				"product": "perk_hound_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 45,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_extension_1_perk",
+				"product": "perk_hound_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.48.description",
+				"message": "-10% to reticle size while moving."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/hound/skill_camouflaged.png",
+			"id": 46,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/extensions/tier1/s_camouflaged_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/extensions/tier1/s_camouflaged_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.48.title",
+				"message": "Camouflaged"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_extension_2_perk",
+				"product": "perk_hound_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.49.description",
+				"message": "+10% to turret traverse speed and aiming speed when moving at under 33 km/h."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/hound/skill_slow_and_steady.png",
+			"id": 47,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/extensions/tier2/s_slow_n_steady_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/extensions/tier2/s_slow_n_steady_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.49.title",
+				"message": "Slow and Steady"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_extension_3_perk",
+				"product": "perk_hound_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 48,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_extension_4_perk",
+				"product": "perk_hound_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 49,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_trait_1_perk",
+				"product": "perk_hound_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.52.description",
+				"message": "+5% to damage while Hunter's Eye is active."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/hound/skill_shattered.png",
+			"id": 50,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/traits/tier1/s_shattered_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/traits/tier1/s_shattered_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.52.title",
+				"message": "Shattered"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_trait_2_perk",
+				"product": "perk_hound_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.53.description",
+				"message": "Reveals critical zones on enemy vehicles as soon as they are spotted."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/hound/skill_exposed.png",
+			"id": 51,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/traits/tier2/s_exposed_skill.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/frontmen/pc/pc_006/skills/traits/tier2/s_exposed_skill.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.53.title",
+				"message": "Exposed"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_trait_3_perk",
+				"product": "perk_hound_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 52,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_hound_trait_4_perk",
+				"product": "perk_hound_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 53,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 42
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 99
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_hound_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ultimate_1_perk",
+				"product": "perk_reaper_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.56.description",
+				"message": "+15% to Ultimate charge speed."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/reaper/skill_fuel_the_flames.png",
+			"id": 56,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/ultimates/tier1/s_fuel_the_flames_skill.prefab",
+					"vehicleId": 101
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/ultimates/tier1/s_fuel_the_flames_skill.prefab",
+					"vehicleId": 5
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_reaper_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.56.title",
+				"message": "Fuel the Flames"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ultimate_2_perk",
+				"product": "perk_reaper_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.57.description",
+				"message": "+20% to duration of Napalm areas left by Napalm in the Morning."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/reaper/skill_lingering_inferno.png",
+			"id": 58,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/ultimates/tier2/s_lingering_inferno_skill.prefab",
+					"vehicleId": 101
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/ultimates/tier2/s_lingering_inferno_skill.prefab",
+					"vehicleId": 5
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_reaper_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.57.title",
+				"message": "Lingering Inferno"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ultimate_3_perk",
+				"product": "perk_reaper_ultimate_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.58.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 60,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.58.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ultimate_4_perk",
+				"product": "perk_reaper_ultimate_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.59.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 62,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.59.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_trait_1_perk",
+				"product": "perk_reaper_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.60.description",
+				"message": "Incoming damage leaves the vehicle with up to 4% of its HP instead of the default 1 HP."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/reaper/skill_last_stand.png",
+			"id": 64,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/traits/tier1/s_last_stand_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/traits/tier1/s_last_stand_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_reaper_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.60.title",
+				"message": "Last Stand"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_trait_2_perk",
+				"product": "perk_reaper_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.61.description",
+				"message": "+30% to status decay speed while Relentless is active."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/reaper/skill_never_say_die.png",
+			"id": 65,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/traits/tier2/s_never_say_die_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/traits/tier2/s_never_say_die_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_reaper_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.61.title",
+				"message": "Never Say Die"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_trait_3_perk",
+				"product": "perk_reaper_trait_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.62.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 66,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.62.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_trait_4_perk",
+				"product": "perk_reaper_trait_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.63.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 67,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.63.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_extension_1_perk",
+				"product": "perk_reaper_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.64.description",
+				"message": "+10% to frontal armor."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/reaper/skill_reinforced_plating.png",
+			"id": 68,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/extensions/tier1/s_reinforced_plating_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/extensions/tier1/s_reinforced_plating_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_reaper_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.64.title",
+				"message": "Reinforced Plating"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_extension_2_perk",
+				"product": "perk_reaper_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.65.description",
+				"message": "+15% to Boost Energy regeneration speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/reaper/skill_tuned_suspention.png",
+			"id": 69,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/extensions/tier2/s_tuned_suspension_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/extensions/tier2/s_tuned_suspension_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_reaper_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.65.title",
+				"message": "Tuned Suspension"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_extension_3_perk",
+				"product": "perk_reaper_extension_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.66.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 70,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.66.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_extension_4_perk",
+				"product": "perk_reaper_extension_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.67.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 71,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.67.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ability_1_perk",
+				"product": "perk_reaper_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.68.description",
+				"message": "+7% to Energy regeneration speed and -7% to ability cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/reaper/skill_reactive_systems.png",
+			"id": 72,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/abilities/tier1/s_reactive_systems_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/abilities/tier1/s_reactive_systems_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_reaper_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.68.title",
+				"message": "Reactive Systems"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ability_2_perk",
+				"product": "perk_reaper_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.69.description",
+				"message": "+15% to ability projectile effectiveness, including ATGM turn speed and Slow applied by Suppressive Fire."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/reaper/skill_tactical_calibration.png",
+			"id": 73,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/abilities/tier2/s_tactical_calibration_skill.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/frontmen/assault/aslt003/skills/abilities/tier2/s_tactical_calibration_skill.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_reaper_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.69.title",
+				"message": "Tactical Calibration"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ability_3_perk",
+				"product": "perk_reaper_ability_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.70.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 74,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.70.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_reaper_ability_4_perk",
+				"product": "perk_reaper_ability_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.71.description",
+				"message": " "
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 54,
+			"prefabs": [
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 5
+				},
+				{
+					"prefab": "/vehicles/inside_modules/placeholder_module/placeholder_module.prefab",
+					"vehicleId": 101
+				}
+			],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_reaper_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.71.title",
+				"message": " "
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_extension_1_perk",
+				"product": "perk_ember_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.72.description",
+				"message": "+10% to hull and turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/ember/skill_well-oiled_mashine.png",
+			"id": 75,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/extension/tier1/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/extension/tier1/s_well_oiled_machine_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_ember_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.72.title",
+				"message": "Well-Oiled Machine"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_extension_2_perk",
+				"product": "perk_ember_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.73.description",
+				"message": "Activates Overdrive when Warded."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/ember/skill_fast_and_heavy.png",
+			"id": 76,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/extension/tier2/s_fast_and_heavy_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/extension/tier2/s_fast_and_heavy_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_ember_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.73.title",
+				"message": "Fast & Heavy"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ability_1_perk",
+				"product": "perk_ember_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.74.description",
+				"message": "-10% to ability Energy cost."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/ember/skill_overloaded.png",
+			"id": 77,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/abilities/tier1/s_overloaded_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/abilities/tier1/s_overloaded_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_ember_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.74.title",
+				"message": "Overloaded"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ability_2_perk",
+				"product": "perk_ember_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.75.description",
+				"message": "-25% to ability cooldown, but -10% to ability damage."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/ember/skill_overlocked.png",
+			"id": 78,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/abilities/tier2/s_overclocked_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/abilities/tier2/s_overclocked_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_ember_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.75.title",
+				"message": "Overclocked"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ultimate_1_perk",
+				"product": "perk_ember_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.76.description",
+				"message": "+1 Ultimate Energy for every 250 damage dealt with the main gun."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/ember/skill_adrenaline_rush.png",
+			"id": 79,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier1/s_adrenaline_rush_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier1/s_adrenaline_rush_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_ember_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.76.title",
+				"message": "Adrenaline Rush"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ultimate_2_perk",
+				"product": "perk_ember_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.77.description",
+				"message": "+10% to Ultimate damage, but -2 m to Ultimate radius."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/ember/skill_maximum_impact.png",
+			"id": 80,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier2/s_maximum_impact_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier2/s_maximum_impact_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_ember_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.77.title",
+				"message": "Maximum Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_trait_1_perk",
+				"product": "perk_ember_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.78.description",
+				"message": "+5% to frontal hull armor."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/ember/skill_thickhead.png",
+			"id": 81,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/traits/tier1/s_thickhead_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/traits/tier1/s_thickhead_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_ember_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.78.title",
+				"message": "Thickhead"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_trait_2_perk",
+				"product": "perk_ember_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.79.description",
+				"message": "+10% to ramming damage when moving at over 25 km/h."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/ember/skill_rhinoceros.png",
+			"id": 82,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/traits/tier2/s_rhinoceros_skill.prefab",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/traits/tier2/s_rhinoceros_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_ember_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.79.title",
+				"message": "Rhinoceros"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_extension_3_perk",
+				"product": "perk_ember_extension_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.80.description",
+				"message": "+10% to hull and turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 84,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_ember_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.80.title",
+				"message": "Well-Oiled Machine"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_extension_4_perk",
+				"product": "perk_ember_extension_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.81.description",
+				"message": "+10% to hull and turret traverse speed."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 85,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_ember_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.81.title",
+				"message": "Well-Oiled Machine"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ability_3_perk",
+				"product": "perk_ember_ability_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.82.description",
+				"message": "-10% to ability Energy cost."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 86,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_ember_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.82.title",
+				"message": "Overloaded"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ability_4_perk",
+				"product": "perk_ember_ability_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.83.description",
+				"message": "-10% to ability Energy cost."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 87,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_ember_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.83.title",
+				"message": "Overloaded"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ultimate_4_perk",
+				"product": "perk_ember_ultimate_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.84.description",
+				"message": "+10% to Ultimate damage, but -2 m to Ultimate radius."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 88,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier2/s_maximum_impact_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_ember_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.84.title",
+				"message": "Maximum Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_ultimate_3_perk",
+				"product": "perk_ember_ultimate_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.85.description",
+				"message": "+10% to Ultimate damage, but -2 m to Ultimate radius."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 89,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "/frontmen/pc/pc_005/skills/ultimates/tier2/s_maximum_impact_skill.prefab",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_ember_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.85.title",
+				"message": "Maximum Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_trait_3_perk",
+				"product": "perk_ember_trait_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.86.description",
+				"message": "+5% to frontal hull armor."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 90,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_ember_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.86.title",
+				"message": "Thickhead"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_ember_trait_4_perk",
+				"product": "perk_ember_trait_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.87.description",
+				"message": "+5% to frontal hull armor."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 91,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 1
+				},
+				{
+					"prefab": "",
+					"vehicleId": 98
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_ember_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.87.title",
+				"message": "Thickhead"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ultimate_3_perk",
+				"product": "perk_chopper_ultimate_3_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.88.description",
+				"message": "Shell hits on enemies increase their track repair time by 10% for 10 s."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 92,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_chopper_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.perks.88.title",
+				"message": "Crippling Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ultimate_4_perk",
+				"product": "perk_chopper_ultimate_4_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.89.description",
+				"message": "Shell hits on enemies increase their track repair time by 10% for 10 s."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 93,
+			"prefabs": [
+				{
+					"prefab": "",
+					"vehicleId": 3
+				},
+				{
+					"prefab": "",
+					"vehicleId": 24
+				}
+			],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_chopper_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.perks.89.title",
+				"message": "Crippling Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_trait_3_perk",
+				"product": "perk_chopper_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 94,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_chopper_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_trait_4_perk",
+				"product": "perk_chopper_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 95,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_chopper_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_extension_3_perk",
+				"product": "perk_chopper_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 96,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_chopper_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_extension_4_perk",
+				"product": "perk_chopper_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 97,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_chopper_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ability_3_perk",
+				"product": "perk_chopper_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 98,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_chopper_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_chopper_ability_4_perk",
+				"product": "perk_chopper_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 99,
+			"prefabs": [],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_chopper_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ultimate_1_perk",
+				"product": "perk_gambit_ultimate_1_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 100,
+			"prefabs": [],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_gambit_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ultimate_2_perk",
+				"product": "perk_gambit_ultimate_2_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 101,
+			"prefabs": [],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_gambit_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ultimate_3_perk",
+				"product": "perk_gambit_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 102,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_gambit_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ultimate_4_perk",
+				"product": "perk_gambit_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 103,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_gambit_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_trait_1_perk",
+				"product": "perk_gambit_trait_1_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 104,
+			"prefabs": [],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_gambit_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_trait_2_perk",
+				"product": "perk_gambit_trait_2_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 105,
+			"prefabs": [],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_gambit_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_trait_3_perk",
+				"product": "perk_gambit_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 106,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_gambit_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_trait_4_perk",
+				"product": "perk_gambit_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 107,
+			"prefabs": [],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_gambit_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_extension_1_perk",
+				"product": "perk_gambit_extension_1_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 108,
+			"prefabs": [],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_gambit_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_extension_2_perk",
+				"product": "perk_gambit_extension_2_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 109,
+			"prefabs": [],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_gambit_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_extension_3_perk",
+				"product": "perk_gambit_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 110,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_gambit_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_extension_4_perk",
+				"product": "perk_gambit_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 111,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_gambit_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ability_1_perk",
+				"product": "perk_gambit_ability_1_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 112,
+			"prefabs": [],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_gambit_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ability_2_perk",
+				"product": "perk_gambit_ability_2_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 113,
+			"prefabs": [],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_gambit_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ability_3_perk",
+				"product": "perk_gambit_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 114,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_gambit_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_gambit_ability_4_perk",
+				"product": "perk_gambit_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 115,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_gambit_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ultimate_1_perk",
+				"product": "perk_flair_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.112.description",
+				"message": "-1 s to time to switch between main tank and proxy."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/flair/skill_dont_blink.png",
+			"id": 116,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/ultimates/tier1/dont_blink/s_dont_blink_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/ultimates/tier1/dont_blink/s_dont_blink_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_flair_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.112.title",
+				"message": "DON'T BLINK"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ultimate_2_perk",
+				"product": "perk_flair_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.113.description",
+				"message": "When destroyed, your proxy tank Slows all enemy vehicles within a 15 m radius."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/flair/skill_hidden_trap.png",
+			"id": 117,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/ultimates/tier2/hidden_trap/s_hidden_trap_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/ultimates/tier2/hidden_trap/s_hidden_trap_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_flair_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.113.title",
+				"message": "HIDDEN TRAP"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ultimate_3_perk",
+				"product": "perk_flair_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 118,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_flair_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ultimate_4_perk",
+				"product": "perk_flair_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 119,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_flair_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_trait_1_perk",
+				"product": "perk_flair_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.116.description",
+				"message": "+50% to Slow resistance and instantly repairs damaged tracks."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/flair/skill_show_goes_on.png",
+			"id": 120,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/traits/tier1/show_goes_on/s_show_goes_on_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/traits/tier1/show_goes_on/s_show_goes_on_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_flair_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.116.title",
+				"message": "SHOW GOES ON"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_trait_2_perk",
+				"product": "perk_flair_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.117.description",
+				"message": "Enemies you hit do not see a damage direction indicator."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/flair/skill_concealed_impact.png",
+			"id": 121,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/traits/tier2/concealed_impact/s_concealed_impact_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/traits/tier2/concealed_impact/s_concealed_impact_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_flair_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.117.title",
+				"message": "Concealed Impact"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_trait_3_perk",
+				"product": "perk_flair_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 122,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_flair_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_trait_4_perk",
+				"product": "perk_flair_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 123,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_flair_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_extension_1_perk",
+				"product": "perk_flair_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.120.description",
+				"message": "-10% to shell reload time."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/flair/skill_sleight_of_hand.png",
+			"id": 124,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/extension/tier1/sleight_of_hand/s_sleight_of_hand_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/extension/tier1/sleight_of_hand/s_sleight_of_hand_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_flair_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.120.title",
+				"message": "SLEIGHT OF HAND"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_extension_2_perk",
+				"product": "perk_flair_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.121.description",
+				"message": "+15% to Energy capacity."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/flair/skill_magic_source.png",
+			"id": 125,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/extension/tier2/magic_source/s_magic_source_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/extension/tier2/magic_source/s_magic_source_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_flair_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.121.title",
+				"message": "MAGIC SOURCE"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_extension_3_perk",
+				"product": "perk_flair_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 126,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_flair_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_extension_4_perk",
+				"product": "perk_flair_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 127,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_flair_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ability_1_perk",
+				"product": "perk_flair_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.124.description",
+				"message": "-10% to ability cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/flair/skill_bag_of_tricks.png",
+			"id": 128,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/abilities/tier1/bag_of_tricks/s_bag_of_tricks_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/abilities/tier1/bag_of_tricks/s_bag_of_tricks_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_flair_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.124.title",
+				"message": "BAG OF TRICKS"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ability_2_perk",
+				"product": "perk_flair_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.125.description",
+				"message": "+10% to damage dealt by shots fired while Masked."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/flair/skill_unseen_fighter.png",
+			"id": 129,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/abilities/tier2/unseen_fighter/s_unseen_fighter_skill.prefab",
+					"vehicleId": 26
+				},
+				{
+					"prefab": "/frontmen/pc/pc_008/skills/abilities/tier2/unseen_fighter/s_unseen_fighter_skill.prefab",
+					"vehicleId": 8
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_flair_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.125.title",
+				"message": "Unseen Fighter"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ability_3_perk",
+				"product": "perk_flair_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 130,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_flair_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_flair_ability_4_perk",
+				"product": "perk_flair_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 131,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_flair_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ultimate_1_perk",
+				"product": "perk_fuzzer_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.128.description",
+				"message": "-25% to time between Strike Laser pulses."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_payload_amplifier.png",
+			"id": 132,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/ultimates/tier_1/s_payload_amplifier_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/ultimates/tier_1/s_payload_amplifier_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.128.title",
+				"message": "Payload Amplifier"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ultimate_2_perk",
+				"product": "perk_fuzzer_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.129.description",
+				"message": "+50% to duration of pulse area created after destroying a target with Strike Laser."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_signal_dominance.png",
+			"id": 133,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/ultimates/tier_2/s_signal_dominance_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/ultimates/tier_2/s_signal_dominance_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.129.title",
+				"message": "Signal Dominance"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ultimate_3_perk",
+				"product": "perk_fuzzer_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 134,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ultimate_4_perk",
+				"product": "perk_fuzzer_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "",
+			"id": 135,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_trait_1_perk",
+				"product": "perk_fuzzer_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.132.description",
+				"message": "Grants Overdrive and Warded for 10 s after removing a status effect."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_patch_uplink.png",
+			"id": 136,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/traits/tier_1/s_patch_uplink_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/traits/tier_1/s_patch_uplink_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_fuzzer_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.132.title",
+				"message": "Patch Uplink"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_trait_2_perk",
+				"product": "perk_fuzzer_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.133.description",
+				"message": "NBC Protection can be used twice in a row before going on cooldown."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_execution_protocol.png",
+			"id": 137,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/traits/tier_2/s_execution_protocol_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/traits/tier_2/s_execution_protocol_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_fuzzer_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.133.title",
+				"message": "Execution Protocol"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_trait_3_perk",
+				"product": "perk_fuzzer_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 138,
+			"prefabs": [],
+			"skillPoints": 0,
+			"tags": [],
+			"technicalName": "perk_fuzzer_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_trait_4_perk",
+				"product": "perk_fuzzer_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "",
+			"id": 139,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_fuzzer_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_extension_1_perk",
+				"product": "perk_fuzzer_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.136.description",
+				"message": "+2.5% to all weapon damage for 5 s after each critical hit dealt. Can stack up to 3 times."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_killer_algorithm.png",
+			"id": 140,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/extension/tier_1/s_killer_algorithm_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/extension/tier_1/s_killer_algorithm_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_fuzzer_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.136.title",
+				"message": "Killer Algorithm"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_extension_2_perk",
+				"product": "perk_fuzzer_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.137.description",
+				"message": "+15% to all statuses applied by the vehicle."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_code_injection.png",
+			"id": 141,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/extension/tier_2/s_code_injection_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/extension/tier_2/s_code_injection_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_fuzzer_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.137.title",
+				"message": "Code Injection"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_extension_3_perk",
+				"product": "perk_fuzzer_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 142,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_fuzzer_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_extension_4_perk",
+				"product": "perk_fuzzer_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "",
+			"id": 143,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_fuzzer_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ability_1_perk",
+				"product": "perk_fuzzer_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.140.description",
+				"message": "-10% to ability cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_memory_expansion.png",
+			"id": 144,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/abilities/tier_1/s_memory_expansion_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/abilities/tier_1/s_memory_expansion_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.140.title",
+				"message": "Memory Expansion"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ability_2_perk",
+				"product": "perk_fuzzer_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.141.description",
+				"message": "+5% to ability damage."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/fuzzer/skill_data_surge.png",
+			"id": 145,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/abilities/tier_2/s_data_surge_skill.prefab",
+					"vehicleId": 53
+				},
+				{
+					"prefab": "/frontmen/pc/pc_007/skills/abilities/tier_2/s_data_surge_skill.prefab",
+					"vehicleId": 100
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.141.title",
+				"message": "Data Surge"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ability_3_perk",
+				"product": "perk_fuzzer_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 146,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_fuzzer_ability_4_perk",
+				"product": "perk_fuzzer_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "",
+			"id": 147,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_fuzzer_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ultimate_1_perk",
+				"product": "perk_twister_ultimate_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.144.description",
+				"message": "+25% to damage dealt by Lights Out explosions."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/twister/skill_close_quarter_emp.png",
+			"id": 148,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ultimate/tier_1/s_close_quarter_emp_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ultimate/tier_1/s_close_quarter_emp_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_twister_ultimate_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.144.title",
+				"message": "Close-Quarters EMP"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ultimate_2_perk",
+				"product": "perk_twister_ultimate_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.145.description",
+				"message": "+20% to Lights Out EMP radius and -50% to the explosion damage it deals to your vehicle."
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/twister/skill_paralyzing_quickening.png",
+			"id": 149,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ultimate/tier_2/s_paralyzing_quickening_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ultimate/tier_2/s_paralyzing_quickening_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_twister_ultimate_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.145.title",
+				"message": "Paralyzing Quickening"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ultimate_3_perk",
+				"product": "perk_twister_ultimate_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 150,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_twister_ultimate_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ultimate_4_perk",
+				"product": "perk_twister_ultimate_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 4,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 151,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_twister_ultimate_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_trait_1_perk",
+				"product": "perk_twister_trait_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.148.description",
+				"message": "-50% to fall damage."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/twister/skill_feathertracks.png",
+			"id": 152,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/trait/tier_1/s_feathertracks_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/trait/tier_1/s_feathertracks_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_twister_trait_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.148.title",
+				"message": "Feathertracks"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_trait_2_perk",
+				"product": "perk_twister_trait_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.149.description",
+				"message": "+100% to track HP and +50% to Slow resistance while drifting."
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/twister/skill_deja_vu.png",
+			"id": 153,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/trait/tier_2/s_deja_vu_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/trait/tier_2/s_deja_vu_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_twister_trait_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.149.title",
+				"message": "Deja Vu"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_trait_3_perk",
+				"product": "perk_twister_trait_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 154,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_twister_trait_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_trait_4_perk",
+				"product": "perk_twister_trait_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 1,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 155,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_twister_trait_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_extension_1_perk",
+				"product": "perk_twister_extension_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.152.description",
+				"message": "+0.5 Ultimate Energy per second while boosting."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/twister/skill_gas_gas_gas.png",
+			"id": 156,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/extension/tier_1/s_gas_gas_gas_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/extension/tier_1/s_gas_gas_gas_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_twister_extension_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.152.title",
+				"message": "Gas Gas Gas"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_extension_2_perk",
+				"product": "perk_twister_extension_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.153.description",
+				"message": "Releases a Smoke cloud with a 10 m radius around the vehicle after dropping below 25% HP."
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/twister/skill_escape_protocol_smoke.png",
+			"id": 157,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/extension/tier_2/s_escape_protocol_smoke_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/extension/tier_2/s_escape_protocol_smoke_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_twister_extension_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.153.title",
+				"message": "Escape Protocol: Smoke"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_extension_3_perk",
+				"product": "perk_twister_extension_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 158,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_twister_extension_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_extension_4_perk",
+				"product": "perk_twister_extension_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 3,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 159,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_twister_extension_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ability_1_perk",
+				"product": "perk_twister_ability_1_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.156.description",
+				"message": "+25% to Energy capacity."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/twister/skill_spellblade.png",
+			"id": 160,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ability/tier_1/s_spellblade_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ability/tier_1/s_spellblade_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 1,
+			"tags": [],
+			"technicalName": "perk_twister_ability_1",
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.perks.156.title",
+				"message": "Spellblade"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ability_2_perk",
+				"product": "perk_twister_ability_2_perk"
+			},
+			"description": {
+				"key": "perks.specs.perks.157.description",
+				"message": "-5% to main gun reload time for each ability on cooldown."
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/twister/skill_plan_b.png",
+			"id": 161,
+			"prefabs": [
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ability/tier_2/s_plan_b_skill.prefab",
+					"vehicleId": 34
+				},
+				{
+					"prefab": "/frontmen/pc/pc_009/skills/ability/tier_2/s_plan_b_skill.prefab",
+					"vehicleId": 97
+				}
+			],
+			"skillPoints": 2,
+			"tags": [],
+			"technicalName": "perk_twister_ability_2",
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.perks.157.title",
+				"message": "Plan B"
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ability_3_perk",
+				"product": "perk_twister_ability_3_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 162,
+			"prefabs": [],
+			"skillPoints": 3,
+			"tags": [],
+			"technicalName": "perk_twister_ability_3",
+			"tier": 3,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		},
+		{
+			"commerce": {
+				"entitlement": "perk_twister_ability_4_perk",
+				"product": "perk_twister_ability_4_perk"
+			},
+			"description": {
+				"key": "",
+				"message": ""
+			},
+			"extraEquipment": [],
+			"group": 2,
+			"icon": "/ui/assets/hero_skills/skill_temp.png",
+			"id": 163,
+			"prefabs": [],
+			"skillPoints": 4,
+			"tags": [],
+			"technicalName": "perk_twister_ability_4",
+			"tier": 4,
+			"title": {
+				"key": "",
+				"message": ""
+			}
+		}
+	],
+	"skillPointIcon": "/ui/assets/meta/currency/currency_skillpoints_3d.png",
+	"slots": [
+		{
+			"id": 1,
+			"tier": 1,
+			"title": {
+				"key": "perks.specs.slots.0.title",
+				"message": "Slot 1"
+			}
+		},
+		{
+			"id": 2,
+			"tier": 2,
+			"title": {
+				"key": "perks.specs.slots.1.title",
+				"message": "Slot 2"
+			}
+		},
+		{
+			"id": 3,
+			"tier": 3,
+			"title": {
+				"key": "perks.specs.slots.2.title",
+				"message": "Slot 3"
+			}
+		},
+		{
+			"id": 4,
+			"tier": 4,
+			"title": {
+				"key": "perks.specs.slots.3.title",
+				"message": "Slot 4"
+			}
+		}
+	],
+	"tiers": [
+		{
+			"icon": "",
+			"id": 1,
+			"level": 1,
+			"points": 300,
+			"title": {
+				"key": "perks.specs.tiers.0.title",
+				"message": "Tier 1"
+			}
+		},
+		{
+			"icon": "",
+			"id": 2,
+			"level": 2,
+			"points": 600,
+			"title": {
+				"key": "perks.specs.tiers.1.title",
+				"message": "Tier 2"
+			}
+		},
+		{
+			"icon": "",
+			"id": 3,
+			"level": 3,
+			"points": 900,
+			"title": {
+				"key": "perks.specs.tiers.2.title",
+				"message": "Tier 3"
+			}
+		},
+		{
+			"icon": "",
+			"id": 4,
+			"level": 4,
+			"points": 1200,
+			"title": {
+				"key": "perks.specs.tiers.3.title",
+				"message": "Tier 4"
+			}
+		}
+	],
+	"vehicleSlots": [
+		{
+			"handle": "FirstPerk"
+		},
+		{
+			"handle": "SecondPerk"
+		},
+		{
+			"handle": "ThirdPerk"
+		},
+		{
+			"handle": "FourthPerk"
+		}
+	]
+}
