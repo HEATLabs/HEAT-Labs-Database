@@ -2,20 +2,44 @@
   "strengths_and_weaknesses": {
     "strengths": [
       {
-        "title": "Strength Title",
-        "description": "Description of the strength."
+        "title": "Hidden Passive",
+        "description": "One strength of the XM1-90 is its hidden passive: Rising Tempo. The more shots that land and cause damage, the faster the interclip reload becomes, giving a noticable boost to damage output as the fight goes on."
+      },
+      {
+        "title": "Decent Protection",
+        "description": "Despite being an attacker the XM1-90 features a similar armour profile to the XM1-V. A decent amount of frontal armour as well as a strong turret bustle helps keep the XM1-90 alive and allows it to bully others of its class 1 on 1."
+      },
+      {
+        "title": "Sustained Damage",
+        "description": "The XM1-90’s gun is able to switch to a secondary drum while reloading the main drum. Proper use of this ability will allow you to keep sustained damage on an enenmy. Players who manage this switch well can mitigate their downtime significantly."
+      },
+      {
+        "title": "Counter Flanker",
+        "description": "Excelling at countering flank, any enemies hoping to get around undetected may find their routes contested by an XM1-90. A skilled XM1-90 commander can significantly ease pressure on their team."
       }
     ],
     "weaknesses": [
       {
-        "title": "Weakness Title",
-        "description": "Description of the weakness."
+        "title": "Poor Low Speed Acceleration",
+        "description": "The XM1-90’s gearing means the tank is sluggish to get off the mark. Early stages of this tank’s acceleration suffer as a result and speed takes a while to build. Players must stay on their toes to not get cut off."
+      },
+      {
+        "title": "Low Alpha Damage",
+        "description": "Despite the gun characteristics generally being favourable. It is much more focused on sustained damage rather than burst. As a result the XM1-90 often has to stay exposed for longer to secure a kill."
+      },
+      {
+        "title": "Critical Hit Reliant Tank",
+        "description": "The XM1-90's gun relies on scoring critical hits in order to put out high damage numbers. Players must be careful to aim their shots. stray rounds may be the difference between getting the kill or getting killed."
+      },
+      {
+        "title": "Vulnerable Weakspots",
+        "description": "Much like the XM1V, the XM1-90 shares much the same armour profile. The critical 'window' is present allowing well aimed shots to ammorack the XM1-90 frontally. The XM1-90 also suffers from exposed fuel tanks and a large ammo bustle in the turret. Commanders must stay on their toes to actively microposition to avoid these hits."
       }
     ]
   },
   "tank_summary": [
-    "First paragraph of the tank summary.",
-    "Second paragraph of the tank summary.",
-    "Third paragraph of the tank summary."
+    "The XM1-90 is an ‘Attacker’ with World of Tanks: HEAT. Although unlike its companions it is significantly heavier than most in its class. This is derived from its unusually good armour for the class and as a result the XM1-90 crosses slightly into more of a light defender in terms of roles.",
+    "The XM1-90 is most effectively utilized as a counter-attacker. Its low acceleration limits opportunistic flanking. Its toolkit excels at pinning down enemy tanks and maintaining crucial spotting information.",
+    "XM1-90 commanders must, however, maintain situational awareness. Despite its armour, the tank can be easily overwhelmed if caught out of position, as even heavier defenders can match its initial, sluggish acceleration. Furthermore, initiating an engagement with an empty clip can be a fatal mistake, so always ensure you're reloaded."
   ]
 }

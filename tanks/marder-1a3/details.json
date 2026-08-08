@@ -2,20 +2,40 @@
   "strengths_and_weaknesses": {
     "strengths": [
       {
-        "title": "Strength Title",
-        "description": "Description of the strength."
+        "title": "Coming Soon",
+        "description": "This vehicle is not yet available. Statistics, details, and player feedback will be added once it's officially released."
+      },
+      {
+        "title": "Abilities",
+        "description": "The Marder has really good abilities, helping the Player to deal damage."
       }
     ],
     "weaknesses": [
       {
-        "title": "Weakness Title",
-        "description": "Description of the weakness."
+        "title": "Coming Soon",
+        "description": "This vehicle is not yet available. Statistics, details, and player feedback will be added once it's officially released."
+      },
+      {
+        "title": "Armour",
+        "description": "Armour is just for style on the Marder."
+      },
+      {
+        "title": "Burst firing",
+        "description": "The Marder's gun doesn't fire like normal autocannons, it fires in bursts, making the firing non-consistent."
+      },
+      {
+        "title": "Module locations",
+        "description": "The tank has its modules in the front, so they are easy to hit."
+      },
+      {
+        "title": "Reliance on abilities",
+        "description": "The tank relies on its abilities, which often ends in energy-shortage."
       }
     ]
   },
   "tank_summary": [
-    "First paragraph of the tank summary.",
-    "Second paragraph of the tank summary.",
-    "Third paragraph of the tank summary."
+    "The Marder 1A3 is a fast and highly responsive marksman that excels at delivering consistent damage from a safe distance. Armed with an APHE autocannon featuring the best aim speed in the game, it can quickly acquire targets and steadily chip away at enemy vehicles. While its individual shots may not be devastating, it's enough to maintain constant pressure throughout an engagement.",
+    "One of the Marder's most dangerous tools is its anti-tank mines. These can be placed in unexpected locations to deny routes, protect flanks, or punish aggressive pushes. Vehicles lacking shields or explosive reactive armour are especially vulnerable, often taking severe damage if they trigger a well-positioned mine. Commanders who learn common travel routes can really hinder the enemy.",
+    "As a secondary armament, the Marder carries a HE ATGM capable of dealing respectable burst damage or disrupting enemy movements. Used to finish off weakened targets or surprise distracted enemies, the missile adds versatility to an already capable vehicle. Combined with its mobility and excellent gun handling, the Marder 1A3 rewards patient players who can maintain distance and capitalize on enemy mistakes."
   ]
 }

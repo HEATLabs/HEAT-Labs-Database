@@ -2,20 +2,38 @@
   "strengths_and_weaknesses": {
     "strengths": [
       {
-        "title": "Strength Title",
-        "description": "Description of the strength."
+        "title": "High DPM",
+        "description": "The ALVT combines 640 alpha damage with a base 6-second reload. In addition, thanks to the 'Rising Tempo' passive the reload time decreases as you land more damaging shots, boosting the already heavy damage output of the main gun."
+      },
+      {
+        "title": "Ability Synergy",
+        "description": "Grenade Cluster and Dirty Substance are both powerful individual abilities, and even stronger when combined. Together they can reliably set enemies on fire, deal significant AOE damage and fix your opponent in place ensuring effective and damaging crowd control."
+      },
+      {
+        "title": "Strong Mobility",
+        "description": "Whilst it's top speed suggests otherwise, overall, the ALVT has decent mobility. Favourable hull geometry and good gearing means the ALVT can easily navigate most terrain and allows for effective repositioning between fights."
+      },
+      {
+        "title": "Versatile Builds",
+        "description": "A wide selection of modifications allows the ALVT to excel in multiple roles. Players can tailor the vehicle toward damage, survivability, or team utility depending on preference, giving the ALVT several viable builds that can all find their niche."
       }
     ],
     "weaknesses": [
       {
-        "title": "Weakness Title",
-        "description": "Description of the weakness."
+        "title": "Weak Turret",
+        "description": "The ALVT's turret cheeks are a major vulnerability, enough to warrant their own caution. Experienced opponents can consistently penetrate them when given the opportunity. Especially opponents with HEAT shells who can ammorack you frontally through this weakness"
+      },
+      {
+        "title": "Poor Side Armour",
+        "description": "The ALVT's side armour and lack of shielding offers little protection and punishes poor positioning. Angling is generally ineffective and can expose easy penetration opportunities. Even Autocannons will find it easy to cripple an ALVT from the side."
+      },
+      {
+        "title": "Ability Heavy Tank",
+        "description": "The ALVT's strongest ability combinations require a significant energy investment. Players must constantly be calculating if they have the energy spare to make their combos work effectively, thus making ability cost reduction upgrades highly valuable."
       }
     ]
   },
   "tank_summary": [
-    "First paragraph of the tank summary.",
-    "Second paragraph of the tank summary.",
-    "Third paragraph of the tank summary."
+    "This vehicle is not yet available. Statistics, details, and player feedback will be added once it's officially released."
   ]
 }

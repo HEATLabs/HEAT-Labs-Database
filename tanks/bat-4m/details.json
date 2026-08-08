@@ -2,20 +2,52 @@
   "strengths_and_weaknesses": {
     "strengths": [
       {
-        "title": "Strength Title",
-        "description": "Description of the strength."
+        "title": "Mobility",
+        "description": "The BAT-4M has good top speed, acceleration and even traverse speed, deadly in close quarters."
+      },
+      {
+        "title": "Survivability",
+        "description": "The vehicle has good hit-points and frontal shields which protect vital critical modules. It also has a well sloped frontal plate which is impenetrable versus a lot of vehicles."
+      },
+      {
+        "title": "Team Repair",
+        "description": "With access to repair welder, you can rapidly repair large amount of hitpoints in a short space of time which also applies a buff to allies, this reduces the damage they take during this repair. A powerful tool in extended fights."
+      },
+      {
+        "title": "No Turret",
+        "description": "One of the outstanding features of the BAT-4M is that ii doesn't have a conventional turret unlike other vehicles which means it can more easily engage multiple opponents at close ranges more effectively without exposing its ammorack."
+      },
+      {
+        "title": "Rate of Fire",
+        "description": "The high rate of fire allows you to constantly be dishing out damage making it difficult for enemies to repair using kits. Along with rate of fire the BAT-4M has the highest damage per minute and good burst with a potential of 1800 damage to ammoracks, any of the defenders aslong as the heat meter is managed properly."
       }
     ],
     "weaknesses": [
       {
-        "title": "Weakness Title",
-        "description": "Description of the weakness."
+        "title": "Penetration",
+        "description": "The low penetration makes hitting some frontal and even side criticals impossible. A lot of vehicles are unpennable frontally even with good marksmanship."
+      },
+      {
+        "title": "Range",
+        "description": "The guns have very low range and requires you to be within 100m to be effective."
+      },
+      {
+        "title": "Overheat Mechanic",
+        "description": "Overheating the main guns causes you to become useless for a long duration and basically puts you out of the fight, In a lot of cases causing your death."
+      },
+      {
+        "title": "Ability Range",
+        "description": "This vehicle has no access to any ranged abilities meaning, if you want to effectively use your abilities you need to be close to allies or your enemies."
+      },
+      {
+        "title": "Base Damage",
+        "description": "The low base damage makes this vehicle bad at short trades with conventional single shot cannons and ineffective at peaking."
       }
     ]
   },
   "tank_summary": [
-    "First paragraph of the tank summary.",
-    "Second paragraph of the tank summary.",
-    "Third paragraph of the tank summary."
+    "The BAT-4M might have good survivability and be labelled as a defender, but it excels best when pared with other vehicles in a more supportive position. In most situations the BAT-4M isn't an immediate threat, but it is a threat the longer it is left alive because of the sheer amount of repair and damage mitigation it provides to a team. This is especially noticeable in larger scale modes such as conquest.",
+    "The engagements its best suited for is in the thick of the fight but not fighting other vehicles head on, because of its lack of turret it doesn't have the disadvantage of exposing its ammo-rack when turning to face an opponent. This means in small skirmish scenarios it can easily flank with its high speed and isolate opponents from their team without the same weakness as other vehicles. This is deadly when paired with its high damage per minute.",
+    "Like any support vehicle its weak when isolated and alone, but not defenceless. It's a vehicle with a high skill ceiling and excels when played alongside members of a team or squad. In some situations it may appear underpowered and in others overpowered, this vehicle should be focused when the opportunity arises."
   ]
 }
