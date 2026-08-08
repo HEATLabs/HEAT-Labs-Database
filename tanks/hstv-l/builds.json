@@ -58,7 +58,7 @@
           "slotNumber": 1,
           "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_system.webp",
           "equipmentName": "Recovery System",
-          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+          "equipmentDescription": "Gradually repairs the vehicle if it avoids taking damage for a set time. Starts restoring 100 HP/s after 10 s without taking damage. Triggers shield recovery on activation. Taking damage interrupts the repair process."
         },
         {
           "slotNumber": 2,
@@ -152,7 +152,7 @@
           "slotNumber": 1,
           "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_system.webp",
           "equipmentName": "Recovery System",
-          "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+          "equipmentDescription": "Gradually repairs the vehicle if it avoids taking damage for a set time. Starts restoring 100 HP/s after 10 s without taking damage. Triggers shield recovery on activation. Taking damage interrupts the repair process."
         },
         {
           "slotNumber": 2,
