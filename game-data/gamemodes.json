@@ -1,0 +1,144 @@
+{
+	"playModes": [
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/quick_match_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.0.description",
+				"message": "Find the best match for your level against real players"
+			},
+			"icon": "/ui/assets/play_button/quick_match.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": true,
+			"isPlatoonAvailable": true,
+			"playMode": "Quick Match",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.0.subtitle",
+				"message": "Core game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.0.title",
+				"message": "Quick Match"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/plant_and_defuse_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.1.description",
+				"message": "5v5 tactical bomb showdown"
+			},
+			"icon": "/ui/assets/play_button/plant_defuse.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": true,
+			"isPlatoonAvailable": true,
+			"playMode": "Plant And Defuse",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.1.subtitle",
+				"message": "Experimental game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.1.title",
+				"message": "PLANT/DEFUSE"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/versus_ai_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.2.description",
+				"message": "Join forces with real players against a team of AI opponents"
+			},
+			"icon": "/ui/assets/play_button/versus_ai.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": true,
+			"isPlatoonAvailable": true,
+			"playMode": "Versus AI",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.2.subtitle",
+				"message": "Core game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.2.title",
+				"message": "Versus AI"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/tournament_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.3.description",
+				"message": "Climb the ranks with winning streaks, or lose them for repeated defeats"
+			},
+			"icon": "/ui/assets/play_button/tournament.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": false,
+			"isPlatoonAvailable": false,
+			"playMode": "Tournament",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.3.subtitle",
+				"message": "Competitive game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.3.title",
+				"message": "Ranked"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/ftue_bg.jpg",
+			"description": {
+				"key": "play_modes.specs.playModes.4.description",
+				"message": "Your introduction to the world of HEAT"
+			},
+			"icon": "/ui/assets/play_button/ftue.png",
+			"isCrossplayAvailable": false,
+			"isMatchmakerMode": false,
+			"isPlatoonAvailable": false,
+			"playMode": "Bootcamp Operation",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.4.subtitle",
+				"message": "Tutorial mission"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.4.title",
+				"message": "Operation Phoenix"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/custom_game_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.5.description",
+				"message": "Practice battle"
+			},
+			"icon": "/ui/assets/play_button/custom_game.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": false,
+			"isPlatoonAvailable": false,
+			"playMode": "Custom Game",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.5.subtitle",
+				"message": "Core game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.5.title",
+				"message": "Custom Game"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/firing_range_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.6.description",
+				"message": "Test your vehicles in a controlled environment"
+			},
+			"icon": "/ui/assets/play_button/training.png",
+			"isCrossplayAvailable": false,
+			"isMatchmakerMode": false,
+			"isPlatoonAvailable": false,
+			"playMode": "Firing Range",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.6.subtitle",
+				"message": "Training mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.6.title",
+				"message": "Firing Range"
+			}
+		}
+	]
+}
