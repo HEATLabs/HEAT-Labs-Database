@@ -185,6 +185,100 @@
           "perkIcon": "https://cdn7.heatlabs.net/perks/well_oiled_machine.webp",
           "perkName": "Well Oiled Machine",
           "perkDescription": "+10% to hull and turret traverse speed"
+        },
+        {
+          "buildNumber": 3,
+          "buildDisplay": true,
+          "buildFeatured": true,
+          "buildName": "Legendary Mod Hater’s Build for Ember",
+          "buildDescription": "Ember’s Legendary Mod seems bad. ",
+          "buildAuthor": "BOT DXHunter",
+          "buildDate": "10-08-26",
+          "buildVersion": "1.1.2",
+          "modules": [
+            {
+              "slotNumber": 1,
+              "moduleFeatured": true,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "BLU-73/A",
+              "moduleDescription": "Bombs apply Vulnerable for 10s. Max Blast Damage +10%, Min Blast Damage +10%"
+            },
+            {
+              "slotNumber": 2,
+              "moduleFeatured": true,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "M87G2",
+              "moduleDescription": "The minefield can be rotated. Minefield charges +1, Minefield Energy cost -10%."
+            },
+            {
+              "slotNumber": 3,
+              "moduleFeatured": true,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "M2",
+              "moduleDescription": ""
+            },
+            {
+              "slotNumber": 4,
+              "moduleFeatured": false,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "XM1 GMT",
+              "moduleDescription": ""
+            },
+            {
+              "slotNumber": 5,
+              "moduleFeatured": false,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "AVDS1790",
+              "moduleDescription": "Equipment cooldown -12%"
+            },
+            {
+              "slotNumber": 6,
+              "moduleFeatured": false,
+              "moduleIcon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+              "moduleName": "WS/AN1",
+              "moduleDescription": "Grants Retribution for 10s after damaging an enemy vehicle with a shot."
+            }
+          ],
+          "equipments": [
+            {
+              "slotNumber": 1,
+              "equipmentIcon": "https://cdn7.heatlabs.net/equipments/repair_kit.webp",
+              "equipmentName": "Repair Kit",
+              "equipmentDescription": "Instantly restores HP and shields. Restores 550 HP instantly. Triggers shield recovery on activation. Taking damage interrupts the repair process. Cooldown: 45s. Charges: 3. Charge cooldown: 15s."
+            },
+            {
+              "slotNumber": 2,
+              "equipmentIcon": "https://cdn7.heatlabs.net/equipments/recovery_protocol.webp",
+              "equipmentName": "Recovery Protocol",
+              "equipmentDescription": "Removes status effects from the vehicle and restores its tracks. Removes all active status effects and resets status buildup. Repairs damaged tracks. Cooldown: 65s."
+            }
+          ],
+          "perks": [
+            {
+              "slotNumber": 1,
+              "perkIcon": "https://cdn7.heatlabs.net/perks/thickhead.webp",
+              "perkName": "Thickhead",
+              "perkDescription": "+5% to frontal hull armor"
+            },
+            {
+              "slotNumber": 2,
+              "perkIcon": "https://cdn7.heatlabs.net/perks/overclocked.webp",
+              "perkName": "Overclocked",
+              "perkDescription": "-25% to ability cooldown, but -10% to ability damage"
+            },
+            {
+              "slotNumber": 4,
+              "perkIcon": "https://cdn7.heatlabs.net/perks/adrenaline_rush.webp",
+              "perkName": "Adrenaline Rush",
+              "perkDescription": "+1 Ultimate Energy for every 250 damage dealt with the main gun"
+            },
+            {
+              "slotNumber": 3,
+              "perkIcon": "https://cdn7.heatlabs.net/perks/well_oiled_machine.webp",
+              "perkName": "Well Oiled Machine",
+              "perkDescription": "+10% to hull and turret traverse speed"
+            }
+          ]
         }
       ]
     }
