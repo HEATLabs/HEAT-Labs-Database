@@ -41,49 +41,29 @@
 			}
 		},
 		{
-			"bgImg": "/ui/assets/meta/mode_selector/bg/versus_ai_bg.png",
+			"bgImg": "/ui/assets/meta/mode_selector/bg/20v20_conquest_bg.png",
 			"description": {
 				"key": "play_modes.specs.playModes.2.description",
-				"message": "Join forces with real players against a team of AI opponents"
+				"message": "Large-scale 20v20 Conquest with unlimited respawns"
 			},
-			"icon": "/ui/assets/play_button/versus_ai.png",
+			"icon": "/ui/assets/play_button/20v20_conquest.png",
 			"isCrossplayAvailable": true,
 			"isMatchmakerMode": true,
 			"isPlatoonAvailable": true,
-			"playMode": "Versus AI",
+			"playMode": "Twenty Versus Twenty",
 			"subtitle": {
 				"key": "play_modes.specs.playModes.2.subtitle",
 				"message": "Core game mode"
 			},
 			"title": {
 				"key": "play_modes.specs.playModes.2.title",
-				"message": "Versus AI"
+				"message": "20 vs 20"
 			}
 		},
 		{
-			"bgImg": "/ui/assets/meta/mode_selector/bg/tournament_bg.png",
+			"bgImg": "/ui/assets/meta/mode_selector/bg/ftue_bg.png",
 			"description": {
 				"key": "play_modes.specs.playModes.3.description",
-				"message": "Climb the ranks with winning streaks, or lose them for repeated defeats"
-			},
-			"icon": "/ui/assets/play_button/tournament.png",
-			"isCrossplayAvailable": true,
-			"isMatchmakerMode": false,
-			"isPlatoonAvailable": false,
-			"playMode": "Tournament",
-			"subtitle": {
-				"key": "play_modes.specs.playModes.3.subtitle",
-				"message": "Competitive game mode"
-			},
-			"title": {
-				"key": "play_modes.specs.playModes.3.title",
-				"message": "Ranked"
-			}
-		},
-		{
-			"bgImg": "/ui/assets/meta/mode_selector/bg/ftue_bg.jpg",
-			"description": {
-				"key": "play_modes.specs.playModes.4.description",
 				"message": "Your introduction to the world of HEAT"
 			},
 			"icon": "/ui/assets/play_button/ftue.png",
@@ -92,12 +72,32 @@
 			"isPlatoonAvailable": false,
 			"playMode": "Bootcamp Operation",
 			"subtitle": {
-				"key": "play_modes.specs.playModes.4.subtitle",
+				"key": "play_modes.specs.playModes.3.subtitle",
 				"message": "Tutorial mission"
 			},
 			"title": {
-				"key": "play_modes.specs.playModes.4.title",
+				"key": "play_modes.specs.playModes.3.title",
 				"message": "Operation Phoenix"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/versus_ai_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.4.description",
+				"message": "Join forces with real players against a team of AI opponents"
+			},
+			"icon": "/ui/assets/play_button/versus_ai.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": true,
+			"isPlatoonAvailable": true,
+			"playMode": "Versus AI",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.4.subtitle",
+				"message": "Core game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.4.title",
+				"message": "Versus AI"
 			}
 		},
 		{
@@ -121,9 +121,29 @@
 			}
 		},
 		{
-			"bgImg": "/ui/assets/meta/mode_selector/bg/firing_range_bg.png",
+			"bgImg": "/ui/assets/meta/mode_selector/bg/tournament_bg.png",
 			"description": {
 				"key": "play_modes.specs.playModes.6.description",
+				"message": "Climb the ranks with winning streaks, or lose them for repeated defeats"
+			},
+			"icon": "/ui/assets/play_button/tournament.png",
+			"isCrossplayAvailable": true,
+			"isMatchmakerMode": false,
+			"isPlatoonAvailable": false,
+			"playMode": "Tournament",
+			"subtitle": {
+				"key": "play_modes.specs.playModes.6.subtitle",
+				"message": "Competitive game mode"
+			},
+			"title": {
+				"key": "play_modes.specs.playModes.6.title",
+				"message": "Ranked"
+			}
+		},
+		{
+			"bgImg": "/ui/assets/meta/mode_selector/bg/firing_range_bg.png",
+			"description": {
+				"key": "play_modes.specs.playModes.7.description",
 				"message": "Test your vehicles in a controlled environment"
 			},
 			"icon": "/ui/assets/play_button/training.png",
@@ -132,11 +152,11 @@
 			"isPlatoonAvailable": false,
 			"playMode": "Firing Range",
 			"subtitle": {
-				"key": "play_modes.specs.playModes.6.subtitle",
+				"key": "play_modes.specs.playModes.7.subtitle",
 				"message": "Training mode"
 			},
 			"title": {
-				"key": "play_modes.specs.playModes.6.title",
+				"key": "play_modes.specs.playModes.7.title",
 				"message": "Firing Range"
 			}
 		}
