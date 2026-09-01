@@ -2,19 +2,19 @@
   "agents": [
     {
       "name": "Gambit",
-      "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-      "specialty": "To be announced",
-      "description": "Information about this agent's abilities is currently unavailable.",
+      "image": "https://cdn7.heatlabs.net/agents/Gambit-NewBG.webp",
+      "specialty": "Iron Curtain",
+      "description": "Deploys a drone swarm that boosts allies' shields and repair rate and grants immunity to status effects.",
       "story": "Unknown Agent Story",
       "compatibleTanks": [
         {
           "name": "M60A3E2",
-          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/icon_m60a3e2.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/m60a3e2/m60a3e2.webp",
           "slug": "m60a3e2"
         },
         {
           "name": "T-72SH",
-          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/upscaled_t-72sh.webp",
+          "image": "https://cdn7.heatlabs.net/tanks/t-72sh/t72sh.webp",
           "slug": "t-72sh"
         }
       ]
