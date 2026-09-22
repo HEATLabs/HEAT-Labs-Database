@@ -1,0 +1,228 @@
+**TL;DR - leo unable to climb stairs will be fixed soon, APS cancellation bug will be fixed soon, ABV being immune to fire through modules - known, will be fixed soon, ABV was supposed to come out on game’s release, but due-to stability issues - the release was delayed, ABV will receive nerfs and reworks - not being able to just push everyone around effortlessly, now you will need to sprint to actually push anybody, fire status application will be reduced, ABVs Namalp launchers will be limited in minimum and maximum range, AMX will get a rework for its missiles, module rework is in very early stage and has been pushed out to LSP now, to allow devs more time to get feedback and tweak stuff. After the changes - you will be refunded fully for each module changed. Sheridan buff incoming, updates physically CANNOT come out faster due-to internal procedures, Marder rework incoming, M60A2 will be nerfed with the release of newly reworked modules. **
+
+This episode covers 2 streams: on **9th** and **16th** of September. This episode also contains answers from a developer behind ABV - Rickles.
+
+For a full disclosure, this post has been reviewed (and potentially received some corrections) by Mr.Matcha before becoming public.
+
+Disclaimer: if you don’t see a question that interests you, there is a high probability that this question was not asked during the stream.
+
+Repeated questions, reiterated public information and vague answers were not included in the episode.
+
+This episode is THE largest episode in the history of this series, so brace yourself for the wall of text you’re about to read.
+
+1.
+Q: **When will Leo 1 be able to climb stairs?**
+A: (Remmy) Actually - very soon. I need to see if that’s actually a level [design] issue or something we can fix through stats of the vehicle itself. If it’s the ladder - I can do it easy peasy. But I need to check.
+
+2.
+Q: **Yea but remember it's also the problem with some maps, not only Leo being stuck everywhere... check out the famous soap stairs on Moonshot**
+A: (Remmy) It’s also a problem with Obj 287, but I think Leo 1 is affected the most. I will need to pull some strings, do some shenanigans and something.
+
+3.
+Q: **Are there any weekly events? Right now, there's no point in playing the game without Ranked or Bomb mode.**
+A: (Remmy) Stay tuned, we might have some information on that in the next few days. (OP on pre-posting stage: it was the 20v20 mode)
+
+4.
+Q: **When will the APS cancellation bug be fixed? **
+A: (Remmy) I think it will be [fixed with] the patch afterwards. (Mid-Sept patch??)
+
+5.
+Q: **There is a build that you can make ABV immune to fire somehow**
+A: (Remmy) Yes, we know. And it will be fixed, by the way.
+
+6.
+Q: **Are there gonna be changes to incentivize people playing the objective? Because right now it can be really bad with people focusing on kills or damage and losing the game because of that**
+A: (Remmy) Yes, there will be … there are some stuff that we’re hoping to improve on for sure, like scoring for example. Much bigger stuff - expect a bit later in the future.
+
+The next part is from the stream on **16th of September.**
+
+Note: **Rickles** - is a **systems designer** for WoT HEAT. He’s been in the company for 2 years, and he’s been in the industry for nearly 12 years. The systems that **he manages** in the game are related to **ballistics simulations** and **internal damage models**. He also did a few hero designs, back in the past. And also worked on M1E1, XM1V, Challenger and** ABV.**
+
+|
+7.
+Q: **What is the story behind ABV?**
+A: (Rickles) So before we talk about ABV, let’s start with where you put the ABV, which is on Ember as a character. We had intended on having 2 vehicles for Ember on launch, both the XM1V and the ABV. ABV had some very unique features, which - to solve the performance of - took us a little bit longer than we would’ve liked, so it pushed back. Ember as a character - themed around the aspect of area control and essentially if you were to image where you’d want to put this character in an environment, if there is - a bottle neck that the enemy has to tank or an objective zone they need to clear; Ember wants to position herself as the gatekeeper to it. She is not great at pushing objective, but once she is in there - kinda hard to dig her out. Survivability is not as great as the other defenders - wants to avoid getting shot at by things at long range. Marksman will absolutely do horrible things to both of her vehicles, but when she gets in a brawl - she will stick you in a locker and probably pin you in there until the rest of the team are dogpiles you and it’s going to be a very messy story.
+
+Now, the ABV - how did that come into existence? So, middle of last year, creative directors picking vehicles - we like to give our players non conventional combat vehicles in WoT: HEAT. When we have a vehicle with a gun on it, and looks like a tank and it behaves like a tank - trying to introduce a variety in the game becomes more difficult. So for the combat engineer perspective, the ABV - it's an Armor Breaching Vehicle. This is the vehicle they put in a armored battalion, and it’s meant for crossing fortifications. It's probably the vehicle you least want to be assigned as a tanker. They only got about 4 of these in a battalion, so the responsibility is pretty high and you basically drive ahead of everybody else and everything is going to be shooting at you.
+
+The vehicle visually - we wanted to match the real world representation on it, so there is this turret with a very-very large box on the back, and that box contains about 3 tonnes of C4 packed in coiled lines, and it’s meant for clearing minefields. How do you represent this as something you use in-game? And that was a difficult challenge. Problem being that - we didn’t really have from an animation stand point - a setup where we could have this vehicle be able to move and shoot at the same time. Doing the soft body animations for the line charges is quite difficult, which is why it has to stop right now. People are gonna ask right now the question of “Why does it have to be stationary?” - so that doesn’t look janky. It was the compromise we had to make there, and then in real life actually, the vehicle does have to get stationary to use its weapon.
+
+Now what is a line charge doing to HEAT’s vehicles? Well, we went for removing external components, so shedding your ERA and tracks, and a bit of damage. If the breacher can hold you in one spot - great. Means that from a team play perspective - making somebody immobile is usually a death sentence. Assuming that Ember has got support, given she is played defensively.
+
+And as people pointed out - there were a lot of effects, visual noise was one of the main contentious points of feedback. Was that intended? From the flamethrower - no. Problem for the breacher is - she doesn’t go very fast, and she has got a very short stick to beat you with. She can’t reach you, it’s kind of a one-way interaction.
+
+Now, Marksman are supposed to be a hard counter to this vehicle. Ember does not want to be in the open with it. How do you give the vehicle a counter-play tool? This is where those Incendiary Launchers come in. People use it for applying a status effect. Now, that wasn’t really the intent of the vehicle to start with. It was meant to be an augmented (better) version of our smoke launchers that are currently exist in a game. Blocks thermal vision, and with that - Ember can buy a little bit of time whilst out in the open, to try and get itself safe before it gets nuked by someone like Leopard 2FK or 1A6.
+
+The playtesting - as to how people place these, then they get used at far closer range than we would like. Once you’re inside this combat envelope of close range engagements of about 50 to 60 meters. This, as an effect; really shouldn’t be something that’s used. And this is something we’ll come back to in a little while (see Q№). But we have looked at the feedback on how these visual effects are being intrusive to combat environment that we would not like them to be, which is this role scenario. They are still going to be a meaningful tool we want the Breacher to have against Marksmen. It is a very much a “feast or famine” (basically no middle-ground solution) sort of vehicle, so they will be staying around, but there will be changes
+
+8.
+Q: **Did you guys think of an idea of giving her (ABV) an actual gun and making a flamethrower an ability for example? **
+A: (Rickles) Having an ability as a flamethrower? Yeah, it could have been done. Why didn’t we [do it]? Well they wanted the flamethrower to be one of the forthfront features of the tank. It's why it's taken the place of the main gun. In reality this vehicle, as I said, has a .50 calibre machine gun on top. To have given it a gun and a flamethrower - it’s  a lot of versatility. Problem is - if we were going to give it a gun, it would have probably been something along the lines of AP.
+
+Problem is - if we gave it a gun that has the option to immobilise the vehicles, being held in place is bad. Being held in place over a pit of fire is a lot worse. The actual tools kit that the Breacher has in order to do this - is a little bit more limited. You have this Line Charge Launcher, it can immobilise you, but it’s a skill shot. There is a lot of televised VFX for the Line Charge Launch, [so it] gives you some time to react. You can get out before this thing detonates and you won't be immobilised. If it does catch you and you’re in a pit of fire - you get to sit there for a couple of seconds and burn, and it’s not a very pleasant experience. So this is one of the reasons why we didn’t actually give it a gun + a flamethrower.
+
+9.
+Q: **How is it different from balancing such a tank from a shell-focused tanks? **
+A: (Rickles) So, having done the ballistics systems for the other shells, I can tell you that all of our shells in-game are basically balanced around this concept of a single shot loaded with AP. Now if you look closely at the values for your load time and your shell damage, you divide the damage by the load time, so Abrams will get you 120. Okay, so the raw damage of all of our AP loaders is 120 DPS. Obviously some guns fire quicker than others. There are some additional modifiers that can come from a loader, whether it's an autoloader or a burst loader. So, we already have this kind of target number that we were aiming for, for the Breacher. Although the flamethrower is quite Unique in the fact that it almost acts as true damage. It ignores armour entirely.
+
+So, whilst you might not have an internal damage system with the flamethrower, so all of a sudden, you’re missing out on a lot of potential damage; but your consistency is very good. Now, the fire effect itself - when set on fire, you are taking damage ticks of 20 every .25 second, so it’s a 80 DPS comes just from the status effects, once it’s triggered on you, so it’s our starting point as to how we go about balancing the actual damage output of the weapon. We take the 80 DPS from the status effect into account and then the amount of damage that comes from hit on the flamethrower itself as well. This flamethrower has a fire rate of .15 seconds. The hit damage is quite low, but when you combine it with the status effect damage, you get a little bit more than 120 DPS.
+
+As I said, you don’t get any critical damage [multipliers] and that basically brings you up to the values that you’re currently seeing in live with the exception of - when vulnerability status effect gets applied. And there’s a big with the vulnerability status effect - it multiplies it (damage) twice. So it should only be giving you ~80% extra damage. It’s currently doing about ~160% extra. That was a bug that made it through. [It] has resulted in people seeing something like 400 DPS being thrown at them point blank. And when you are on the receiving end, [and] it ignores your armor, unless you have invulnerability to fire damage, which is another thing; you melt pretty fast. So that was an undesirable outcome and of course once players found it - you’re more than happy to use it against each other.
+
+10.
+Q: **Could we potentially see a flamethrower get its own variants with like, fast stream or a sticky fire, similar to what we have with tank shells?**
+A: (Rickles) So, I’d love to see some more fantastical effects being spewed by a fluid projector, which is essentially what a flamethrower is. Some people might say “These are considered to be fantasy elements”. Now, I’d see nothing wrong with wizards and tanks in our game, but the military enthusiasts would crucify me were I to suggest such a thing. Would we get to alternative fuel types, so you can skew with it like, maybe a caustic or maybe a cryogenic type of fuel? That would be kind of cool. But I’m not the person who can say “yes” to such a request. I can make it, but the sign-off has to come from somebody else.
+
+11.
+Q: **Are there any more modules planned for ABV? Or this is the final list?**
+A: (Rickles) Now, I did a lot of the work on this, but I think Emmanuel is probably going to be more familiar with a quick recap of what was already published.
+(Remmy) Sure. What we are testing in the LSP starting tomorrow is something a bit more along the way of giving our modules a better diversity, even though at first it might not seem like it, but it will help you create a bit more diverse builds. There is a fantasy element … The modules right now will be a bit more consistent on a per-vehicle basis. You’ll soon have some that will have different modules, compared to others, but you will have a much better library to choose from, in a nutshell. ABV is not gonna be one of the vehicles we’ll be testing in this LSP, it will come at a later point, but it will fall in line with how current vehicles are. I think the reason why you guys asked it is because you want to know if ABV will get a firepower line.
+
+12.
+Q: **Will the ABV get a firepower line?**
+A: (RIckles) So, you have the situation currently in mainline whereby, let's say in terms of module turning, there is a massive disparity between the quality or perceived value from a player’s perspective as to, “I’ve taken a mobility module, and I’ve taken a firepower module. I go a bit faster, hooray, that’s really not gonna make the difference whether I live or die, and the survivability modules, most of them are quite paltry. I get a bit of side armour, maybe a bit of crit damage reduction. It’s not really the same as 20% reduction in fire rate”. So, with the rework, we’ll be seeing a leveling of power growth potential across the module lines, where by the defensive modules - are pretty good now. And the utility lines are actually worth investing a considerable amount of your payload in, if you can afford it.
+
+Will this mean that we get an additional firepower line on Breacher? We could [add it]. It would have to be a case of specific upgrade choices which are not related to the gun itself. The gun’s behaviour has a lot of bespoke elements to it that's not translatable to other shells, and the whole point of this reword is that we create a set of interchangeable modules that can swap from one tank to another (by devs, apparently) and the information shown in the UI directly translates to what I see in-game.
+
+Now, that’s not necessarily going to be true with something like a Breacher. We’ve also got some extra considerations to make from a VFX perspective such as: changing the velocity of the projectiles. So the current VFX set up is only tested to work with a particle stream travelling at a certain speed. If you go an slap on an extra 40% velocity - all of a sudden the Breacher can reach a lot further, because it’s basically limited right now by the velocity of the projectile and the gravitational acceleration; increase the velocity - that stream is gonna go a lot further, but the actual VFX - how it’s gonna look if you stretch it? Don’t know about that. Would have to have a look. We could try. No promises.
+
+13.
+Q:** Is there any chance of giving a friendly and enemy napalm different colours?**
+A: (Rickles) Oh, I can imagine Pavel’s face when I ask him. Can we have blue fire? Well, fire can be blue. Fire can be many-many colours, depending on what chemicals were actually in the fluid mixture, but this would have to be something that comes from an Art direction rather than Design direction. Do I think we should be able to tell the difference between friendly and not-so friendly fire? Yeah, that would be really helpful. Would it interrupt gameplay? No. Might things look a bit weird when you start blending colours together? That’s an interesting one. Red and blue fire next to each other - how’s that gonna look on screen? I’m not too sure with the past de-blending. I’d be willing to give it a go. See what it looks like. Maybe we can have it on a future LSP.
+
+14.
+Q: **The Napalm kind of makes smoke redundant. Is there any chance it gets more transparent, so it stops being a better smoke than smoke? **
+A: (Rickles) Should an equipment be better than a skill? That’s the question. So, if I’m trying to sell the Incendiary Launchers as a better form of smoke and justify it being in an ability slot, I don’t think we could. To maybe make opacity (transparency) from a certain ground height lower right? Think about from the requirement from a functional perspective - we need to be able to hide the shape of a tank behind this smoke screen. The tanks are about 4 metres in height. But we need to be able to put this thing behind the smoke screen and not be able to be seen through it. Right now you got variances in terrain height, so we’d have to add a little bit of extra height beyond the actual height of a tank. But maybe if it's a case of reducing the opacity at the higher altitude of a smoke - yeah we can do that. But from ground level, you’re not supposed to be able to see through it. So we’re not gonna do that.
+
+15.
+Q: **Are there any status effect weapons in the works? **
+A: (Rickles) I cannot say if there is maybe a vehicle coming in the future that’s going to have a new type of status and status effect that it’s going to trigger. That would be wild, wouldn’t it? Make of that what you will.
+**(While saying it, all three of them were laughing quite a bit, so I interpret it as “there will be such vehicle, and it’s already in the works, we just cannot tell you about that right now”)**
+
+16.
+Q: **What will happen to all of the modules we already have? **
+A: (Rickles) All of the core modules on our vehicles - firepower, mobility, toughness, recon and utility - they’re going to disappear. They're gonna cease to exist. You’ll still keep your ability modules as they currently exist on vehicles, and they're gonna be replaced with a new selection on all of your vehicles. It’s also gonna change the arrangement of the modules themselves. So you’ll have six ability modules per line, and core modules will feature 7 for line. That brings you up to a total of 40 on the vehicle. The modules that are being removed - we’re going to have the tech value of those modules converted and it’s gonna be refunded to each player’s account. So when you log on, after patch day, you’ll find that your vehicles no longer have those unlocks purchased. They will be available to purchase, because they are derived from the vehicle’s progression level, if you had a level 50 on the tank previously - you’ll have all the modules to choose from; and at that point you pick and choose. You’ll have a large wealth of tech currency - buy what you want.
+
+17.
+Q:** Could updates come out more often? Like bug fixes or balance changes, instead of waiting for bigger patches? **
+A: (Rickles) So, there are a number of bottle necks for content going out into publish [stage]. Usually the feedback loop takes around about 2 weeks - for collecting information, returning that to the development team, this is from the live environment. For actually implementing fixes - depending on the other workload; this is normally about a week/week and a half. Depending on whether or not code is involved, if there is a localization text - that takes a bit longer. QA is also gonna spend a few days on it, so you have another 3 days on there. We end up with about 3 to 4 weeks **minimum**. For a feature to take feedback or proposed set of fixes to be queued for development to live and then the deployments. It’s about a week after that. At least. So, are we gonna see monthly patches as fixes? No. Not with our current production pipeline. Can we see content releases more than once per season? Now that's not something I can make any promises on either. This is something beyond my expertise or at least my project experience to talk about. Maybe, MAYBE - you get the creative director into one of your future interviews. Maybe you can get an answer on that one.
+
+18.
+Q: **With the new module rework, is there anything in how capacity will work with the new modules to allow for perhaps the installation of more higher tier modules? **
+A:(Rickles) So, for the coming LSP the ability modules are being locked, because we want feedback specifically on the core modules themselves. As people are aware, the usual payload capacity on a vehicle is 100. We’re reducing that stat to 70 to reflect the budgeting constraints that would normally be a factor of choosing those ability modules. Now they’re locked, so we’re reducing the payload capacity down to 70 **(that means that the live servers capacity will remain the same, only a LSP version will get 70 instead of 100). **
+
+The biggest change for budgeting is that with the progression changes your restriction on the number of legendary modules is being removed. You only have 1 per vehicle, you can have 2 now. A cost of 30 on a legendary, so with the payload of 100, you can actually have 3. If you’re happy to have a couple of empty module slots - be my guest. That’s completely down to the player's choice if you want to do it or not. Will there be better value to have more legendaries on a vehicle than not? Probably not. You want to have each and every slot filled with something. Even tier 1 modules of the rework were actually pretty good now. I think you get about 75 to 80% the value on the module at tier 1.
+
+If you consider tier 1 module cost 5 payload capacity VS 30 for a legendary, I would aim to make sure that you have at least one module in each slot. Means you won’t be able to have everything you want, at the quality you want it at, but that’s part of the build problem we present a player with. You gotta make some sacrifices in places and focus on what matters most about the vehicle you are currently slotting those modules onto.
+
+19.
+Q: **Video 1**
+A: (Rickels) So this one you’re looking at - this is a change to Ember’s passive. So, that wouldn’t happen currently in live. Ember’s passive is always active, which is a ramming mass modifier. What does this mean? Means the effective ramming force imparted by the vehicle onto another vehicle is greater. All vehicles sit at around 60 for this value. Ember’s passive - that bumps it up to 240, so, it’s a lot more. This is a lot of the reason why when     one of Ember’s vehicles meets another enemy vehicle, you get pushed backwards.
+
+In the ABVs case, there was a very interesting choice by one of our 3D artists as to how they represented the vehicle-to-vehicle collider for the plow. It’s actually pretty close to the ground. What this means is that on some types of terrain geometry it can fit under the front idlers (wheels) on an enemy vehicle and lift them - people had seen several instances of this in-game whereby it would flip tanks over and basically pin you against the wall and there was absolutely no response in terms of input, and you just basically sat there and died. Not a great situation to be in. So that has been resolved - the collider.
+
+And the sprint mechanic shown in that video only triggers the ramming mass modifier, it’s no longer just inherently on the vehicle. So when you sprint, you will still be able to push stuff, but whilst sprint inactive - your mass is the same effectively as other vehicles around you. It should also then fix one of the other negative interactions I see between Ember and teammates, which is - alright, everybody is leaving the spawn, the poor git who was taking a moment to reach for his mouse and keyboard has now been cartwheeled across the screen because the ABV behind them just sprinted forward and knocked him out of the way.
+
+Hopefully that’s going to be less of a pain point for allies and definitely from the combat perspective of “Ember is pushing you” it now needs to be a case of “Ember has sprint energy and is purposefully sprinting towards you to push you”. It’s not just gonna be a case of “This vehicle happened to nudge you” or any other situation like that. Also it means that - when Ember is in contact with another vehicle, you can't actually sprint up against a stationary object, so it needs to get a bit of a run up. Means then in the nose to nose brawl - she won't be able to immediately push you backwards, she needs to have a bit of a run up. She backs up first and then does it - it will trigger and then the effect will happen as you currently see it in-game. But it should be a little bit more difficult to execute now. Purposefully at least
+
+20.
+Q: **Video 2**
+A: (Rickles) Okay, so, what we wanted to do was to stop this being used in the close range and below. You’re face to face with Ember, 10-15 meters between you and this vehicle and all of a sudden I’ve got a wall of fire in line of sight of my camera and I can’t see anything. So, the minimum range was quite short on this. We pushed this out. It’s now between 60 and 90 meters. Means you get into a brawl distance with Ember - she is not gonna be able to all of a sudden make you blind. It is still effective at stopping Marksmen from being able to target this specific vehicle for about 15 seconds. We’ve also reduced the number of charges. The initial charge count was originally 2. This has gone down to one.
+
+(Remmy) WHY? This is the first time I hear it.
+
+(Rickles) The layering of these - which is very forgiving in giving you 2. Often this means that players staggered them all over the place in order to create that visual noise. Which is not intended. They knew exactly what they were doing in terms of creating a line of sight blocker, but creating multiple line of sight blockers, like one after the other. There is no way for you to get around this. If I get closer, I still have this second fire wall in front of me, so now it's a case of “I’ve placed it once, but I have to think about where I’m putting it. I get to maybe block a line of sight at long range, from a specific direction. I don’t have a second one to drop after that”.
+
+We can talk about how effective this will be at preventing Ember getting smoked by a Leopard 2FK sitting on the hill on the background - we’ll be watching, okay? So if you run the video, it’s just the case of - this is our current range test, with the distance intervals on the right. So right now Ember deploys us out to about 90 in this case and it's a single charge. Fewer of those Napalm effects will be in the world and hopefully not right in your face. In a brawl situation.
+
+21.
+Q: **Are you really more worried about Leo 2FK penetrating ABV frontally? As opposed to Leo 1? **
+A: (Rickles) So, the difference between a Leopard 1A6 and a Leopard 2FK is 1A6 - has more pen but you’re gonna be dead in 3 shots. A 2FK can kill you in 2 and it does reload its shells a lot quicker. Now, the Leopard 2FK has its own problems which I'm not gonna get into now, but death is very fast if it ammoracks you twice, which it can do from the front. Can hit you for around about 1650 damage per shell. You only got to 2800 hp on the ABV. It is not great to see 70% of your HP bar disappear instantly.
+(Remmy) I’ve three shotted ABVs with Leo 1.
+(Rickles) You’re a part of the problem, thank you.
+
+22.
+Q: **Video 3**
+A: (Rickles) So, people have complained about “I hate being set on fire”. Understandable. Being on fire is bad. We’ve looked at the world effects for fire. They were delivering 650 fire status per tick. And per tick was every .25 seconds. Now you need 1000 to actually set the vehicle on fire, so that means that just over a third of a second you’d burst into flames. Obviously means that correcting a positioning error, not something you can really do with the response time of a vehicle given its acceleration. So, I’ve cut this down a lot.
+
+The idea being - that for vehicles that are travelling at under 30 km/h, driving through a fire will be not so healthy for the tank. But if you get the vehicle up to around about 50 km/h - you can drive over it without bursting into flames. Just don’t hang around it for too long. Hopefully it should mean that when people are putting these effects down in the middle of a fight - the person on the receiving end does have a bit more time to respond to avoid being set on fire.
+
+Might mean that also TEPS becomes a lot more useful in this situation. I think TEPS only bought you an extra .2 seconds before you burst into flames (before this change). So TEPS would actually buy you about 2 seconds of extra time before you ignite now. It’s quite a big change.
+
+23.
+Q: **Video 4**
+A: (Rickles) So, both Napalm and fire got this change, and all of the derived effects that come from them have it applied as well. Just know that Napalm is worse than fire. As you can see the status here is just enough that if you drive through it twice, it sets you on fire. ABVs will only need to think about “Do I go through a deep fire puddle or do I try and spread it out between two points. I think you can only place eight fire world effects right now at the ABV at any one time, which does mean you have to be a little bit more conservative with your placement, rather than just spreading it all over the place
+
+24.
+Q: **When is this happening?**
+A: (Rickles) I do have a confirmation of the delivery date for this - it is going to be in the second patch of the season. I haven’t done much work for 1.2.1, I’ve been obviously working on this progression work in the meantime. I’ve got one change in 1.2.1 which is targeting loader mechanics.
+
+Some of the feedback for the T72 was “My damage sucks. Give me more damage”. Actually I think it’s the “My reload sucks, give me my reload speed”. Also “APHE sucks, I’d rather have AP”. Sorry you’re not getting AP. You are getting more damage though. There was a formula used to determine what the conversion rate of magazine load time is. That’s after I finished firing all my rounds in my magazine, that time is then to re-stock it. How that translates to increased shell damage - that has been revised.
+
+Applies to HSTV-L, T72, Leopard 2KST and the object 287. Now for the T72 which people are saying was quite weak - it does give you a meaningful damage boost, I think it’s about 14-ish %. It’s not huge, so don’t expect miracles, you're not gonna look at the HSTV-L and it’s gonna burst into flames when you press the trigger. But it is still an incremental change to try and move this vehicle towards being more competitive. If there is still, at least from a performance standpoint; some concerns - we will look again, in the future.
+
+26.
+Q: **Is there anything coming to Marder? **
+A: (Rickles) So ,post Season 1, the Marder got gutted pretty badly. People were complaining about mines, they’d make some really funny clips of vehicles spontaneously combusting. Not great on the receiving end of. For the changes I’ve made for the Marder - I’ve introduced the effects limit on smart mines, so it’s less spammable. The damage output of these changed as well. Not massively, I think the most impactful change was Arcs’ change to the actual detection cone of these. [He] made it much shorter. Placement came a lot more difficult. Now, we didn’t actually give the Marder a lot back, for what we took. And we can see at least in terms of player usage - it has suffered a lot.
+
+Probably for the better health of the game, I’ll be honest, but the vehicle does need a bit of love, so changes are brought in is: first off - usability improvement. We have a change to the way in which ability swapping on the vehicle works, which is - you have to cancel the abilities to toggle between them. No longer the case! You can swap between mine to ATGM and back again by just pressing the alternative ability button. It does mean that chaining abilities is gonna be a lot easier on the Marder. I imagine this is a vehicle - you basically have to use the entirety of your tool kit to stack this fragility effect, which reduces the effective armor thickness of the target you’re shooting at.
+
+In combination with being able to swap between the abilities more quickly - you can also sprint whilst using all of your abilities. The Marder does need to be mobile to stay alive, it has the hit points of a paper bag. The main gun - also being changed. Had this APHE ammo. AHPE isn’t the best match for a fragility status. So we’re taking away the APHE and it’s got AP on the autocannon now. It's got a better damage cone, better critical potential, but if you shoot at something without fragility - it’s not gonna pen. So you stack the effect first, you are then able to shoot it through the front of a lot of vehicles once the stacks are there and it does mean that the Marder has a short delay before the gun becomes effective in combat.
+
+So from the recipient’s perspective - they will see these effects stacks being added to their vehicle, they will have some time to respond. If caught unaware - they’re probably going to take full damage. And it does hurt a lot more with the AP crit modifier.
+
+27.
+Q: **Over 80% of the players on the Leaderboard have Ember as their top 3 most played Agents. The majority of them play the ABV. Apart from ABV being a new tank to grind, what do you think is the driving factor behind such a high pick rate and what should be done about it?**
+A: (Rickles) The pick rates largely a factor of the additional effects that come from the upgrade modules in progression. I’m not the progression designer for the vehicle, so I can’t speak to intent, but I can describe the current situation that players are seeing. It’s vulnerability status being applied. And the fact that, when doing so, the vehicle’s damage is almost triple. 400 DPS which ignores armor. Yeah, it’s a lot. It’s too much. And it's bad for game balance. Why do players use it - because it’s broken, of course.
+
+29.
+Q: **What can be the reason of smoke/fire having a collision box with an object cage that causes sudden flings and launches of both enemies, teammates and Object themself.**
+A: (Rickles) So, not my vehicle, but I know roughly what happens here, which is - there is no object and then there is an object, and the object spawns on the ground, below the tank, which is just driven over it and the physics interaction of a hedgehog, which has for the sake of gameplay - more mass than a tank, physics system takes tank’s mass and the hedgehog’s mass, compares the two of these, who is going to displace who? Well, the hedgehog is clearly the heavier object here, the tank which is now placed on top of it, its physics collider then gets pushed, it's no longer able to intercept that hedgehog that just spawned below it. And that is what catapults it.
+
+30.
+Q: **Are you guys planning to introduce Rank 3 and Rank 4 on agent skills?**
+A: (Rickles) I don’t do agents skills. Emmanuel, do you maybe know this one?
+(Remmy) Yes, maybe. In the future. And I might be the person working on them, but I think it’s sitting in stone right now, so stick around then and maybe in some next streams I might be able to give you more information. But that’s a huge **__MAYBE__**
+
+31.
+Q: **Is the 2FK getting a nerf? It has weak DPM for a tank, but thanks to the autoreloader mechanism, it always manages to deal its damage, making it very strong overall.**
+A: (Rickles) So the autoloader damage buff for 2FK - it’s a lot. We do now have a very capable tech designer, who’s going to be taking over ownership of the loader system for vehicles. There will be work. Can’t say what it is, but it will change.
+
+32.
+Q: **Hey Rickles I have a question - so we know all the problems with vehicles. Could they have been diagnosed and rebalanced before S2 release? Because ABV phenomenon completely killed matchmaking in the first week**
+A: (Rickles) Literally time frame. There wasn’t really a window between the LSP test and the actual deployment of the Season 2 content, whereby changes could have been made. Notice - this LSP coming now, well in advance of the Season it is due to drop, okay? So you’re getting access to development materials that are still kind of in the prototype phase, there is time for adjustment. That is a process change on the back of learned experiences of not having sufficient time for following LSPs to make functional changes to game systems based on obviously what’s being seen by players in the testing themselves. This will hopefully give us about 2 weeks worth of dev time following the feedback from the LSP now, to make further revisions before final content has to ship. All I can is - sorry that didn’t happen for Season 2.
+
+33.
+Q: **Why does ABV gather so much score? Can we nerf score gained by status pls (preferably only on abv tho)**
+A: (RIckles) So, I am not one of the meta designers that does the role point system, but we do have scoring factors from vehicle shown in the end-game screen. Your stats break down. You get a lot of score from applying status. It's a per-status application, not just on triggered status effect. So you think about how many times you hit somebody with the ABV - .15 fire rate, applying status, status build as a scoring reward from the role point system, happens a lot of frequency here. So, that's where most of the score comes from, from the ABV. Would that be changed? I’d love to see it.
+
+34.
+Q: **Is there any tank ability that Rickles would love to change but is unable to since other people manage the tank**
+A: (Rickles) Ember’s ultimate - you have to like, warm a cup of tea and now it’s landed. We have a number of animation sequences that are optional in-game that are responsible for the current wind-up or timing of the events within an ability for an agent, such as Grand Slam. I’d love for this thing to be easy to apply. Why does it take so long? For bomb to fall from the sky? Good question. Because there is this cutscene here for the ABV or the XM1V whenever I use this agent ability, I can see this plane flying and a bomb falls from the sky.
+
+It's not really good for player agency, for applying an ultimate like this, which is I'd consider a skill shot to have this kind of sequence as part of the timing factors. Was never designed to support them in the first place. They kind of got inserted later into development. I did not have the authority to say otherwise. That is why they are in game and why this as an ability takes so long to land.
+
+If I can point at an ability I'd like to change from another vehicle - AMX 10s, top attack missiles. They currently have, unfortunately, a very low launch trajectory. Doesn’t  mean that the odd rock or low wall can sometimes intercept your missile rather than it hitting the target. In the future, you’re going to have a vertical launch of about 80 meters before the missile tracks a target on the ground. It will go over most things on the map. So that will make things a little bit easier.
+
+35.
+Q:** Is the M60A2 getting a nerf? Its gun is broken, and there's no point in using the machine guns.**
+A: (Rickles) Progression rework. Yeah, that module is going to cease to exist, so it’s going to be replaced with something else. It will change.
+
+36.
+Q: **Will the new modules be released as additions, or will they also replace the old ones?**
+A: (Remmy) Replace, except ability modules.
+
+37.
+Q: **What juicy tidbits can you reveal about the Sheridan changes?**
+A: (Remmy) Engine power increased, hull traverse also increased. The Sheridan also had an issue where at really high speeds you could not turn, or at least not turn very effectively, you could slightly just turn - that has since been fixed with this thing. We’ve also changed a couple of other things which you might now see actually during gameplay, unless you really-really pay attention to it, like a centre of mass on it. And a couple of other factors that are more so internal for us, you don’t really see them in the game.
+
+They kind of affect how the vehicle behaves in terms of mobility. It’s only the first one [change], but we wanted to do with the Sheridan - is kind of take it incrementally and not buff mobility, firepower, everything all at once, just because we don’t want to repeat what the Sheridan was long ago, and if you been in the LSP then you know what I’m saying. So if the mobility is not enough - we might look into other aspects. In addition to that there are some smaller changes coming, but those are as far as I remember are still a work in progress, and I will not say what they are because they might not happen or they might just happen in some capacity or another. So, for those - stick around. But mobility should come next patch.
+
+38.
+Q: **Matchmaking wait times have increased since season 2. I waited 7 minutes in prime time a few days ago, and it's not because there were not enough players, there were plenty in the queue (30+), are you aware of this issue?**
+A: (Remmy) It’s been passed on already, a couple days ago.
+**Note:** Remmy shares that Leo 2KST will be getting buffed in one of the upcoming updates. Later he also mentioned that they are working on improving Sheridan’s mobility and canister round.
+
+**Note 2:** Mr.Matcha also announced that starting from stream on 9th of September, there will be a new “activity” tied to the replays of the week, a regular clip compilation that gets posted on the official channels of the game; - “best clip of the week”. The activity will be carried out weekly and the winner will get a booster pack - one booster of each type.
+
+**Note 3:** Remmy also mentions that some of the stuff that Rickles mentioned are not the only changes to the ABV, they are just the most noteworthy ones. Other potential changes could include Armor, particularly side armor.
