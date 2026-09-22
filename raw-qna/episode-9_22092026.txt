@@ -112,7 +112,7 @@ The biggest change for budgeting is that with the progression changes your restr
 If you consider tier 1 module cost 5 payload capacity VS 30 for a legendary, I would aim to make sure that you have at least one module in each slot. Means you won’t be able to have everything you want, at the quality you want it at, but that’s part of the build problem we present a player with. You have to make some sacrifices in places and focus on what matters most about the vehicle you are currently slotting those modules onto.
 
 19.
-Q: **Video 1**
+Q: Video question coming soon! While we work on adding video questions here, you can visit the #dev-q-and-a channel in the official World of Tanks: HEAT discord server.
 A: (Rickles) So this one you’re looking at - this is a change to Ember’s passive. So, that wouldn’t happen currently in live. Ember’s passive is always active, which is a ramming mass modifier. What does this mean? Means the effective ramming force imparted by the vehicle onto another vehicle is greater. All vehicles sit at around 60 for this value. Ember’s passive - that bumps it up to 240, so, it’s a lot more. This is a lot of the reason why when     one of Ember’s vehicles meets another enemy vehicle, you get pushed backwards.
 
 In the ABVs case, there was a very interesting choice by one of our 3D artists as to how they represented the vehicle-to-vehicle collider for the plow. It’s actually pretty close to the ground. What this means is that on some types of terrain geometry it can fit under the front idlers (wheels) on an enemy vehicle and lift them - people had seen several instances of this in-game whereby it would flip tanks over and basically pin you against the wall and there was absolutely no response in terms of input, and you just basically sat there and died. Not a great situation to be in. So that has been resolved - the collider.
@@ -122,7 +122,7 @@ And the sprint mechanic shown in that video only triggers the ramming mass modif
 Hopefully that’s going to be less of a pain point for allies and definitely from the combat perspective of “Ember is pushing you” it now needs to be a case of “Ember has sprint energy and is purposefully sprinting towards you to push you”. It’s not just going to be a case of “This vehicle happened to nudge you” or any other situation like that. Also, it means that - when Ember is in contact with another vehicle, you can't actually sprint up against a stationary object, so it needs to get a bit of a run-up. Means then in the nose to nose brawl - she won't be able to immediately push you backwards, she needs to have a bit of a run-up. She backs up first and then does it - it will trigger and then the effect will happen as you currently see it in-game. But it should be a little bit more difficult to execute now. Purposefully at least
 
 20.
-Q: **Video 2**
+Q: Video question coming soon! While we work on adding video questions here, you can visit the #dev-q-and-a channel in the official World of Tanks: HEAT discord server.
 A: (Rickles) Okay, so, what we wanted to do was to stop this being used in the close range and below. You’re face to face with Ember, 10-15 meters between you and this vehicle and all of a sudden I’ve got a wall of fire in line of sight of my camera and I can’t see anything. So, the minimum range was quite short on this. We pushed this out. It’s now between 60 and 90 meters. Means you get into a brawl distance with Ember - she is not going to be able to all of a sudden make you blind. It is still effective at stopping Marksmen from being able to target this specific vehicle for about 15 seconds. We’ve also reduced the number of charges. The initial charge count was originally 2. This has gone down to one.
 
 (Remmy) WHY? This is the first time I hear it.
@@ -138,7 +138,7 @@ A: (Rickles) So, the difference between a Leopard 1A6 and a Leopard 2FK is 1A6 -
 (Rickles) You’re a part of the problem, thank you.
 
 22.
-Q: **Video 3**
+Q: Video question coming soon! While we work on adding video questions here, you can visit the #dev-q-and-a channel in the official World of Tanks: HEAT discord server.
 A: (Rickles) So, people have complained about “I hate being set on fire”. Understandable. Being on fire is bad. We’ve looked at the world effects for fire. They were delivering 650 fire status per tick. And per tick was every .25 seconds. Now you need 1000 to actually set the vehicle on fire, so that means that just over a third of a second you’d burst into flames. Obviously means that correcting a positioning error, not something you can really do with the response time of a vehicle given its acceleration. So, I’ve cut this down a lot.
 
 The idea being - that for vehicles that are travelling at under 30 km/h, driving through a fire will be not so healthy for the tank. But if you get the vehicle up to around about 50 km/h - you can drive over it without bursting into flames. Just don’t hang around it for too long. Hopefully it should mean that when people are putting these effects down in the middle of a fight - the person on the receiving end does have a bit more time to respond to avoid being set on fire.
@@ -146,7 +146,7 @@ The idea being - that for vehicles that are travelling at under 30 km/h, driving
 Might mean that also TEPS becomes a lot more useful in this situation. I think TEPS only bought you an extra .2 seconds before you burst into flames (before this change). So TEPS would actually buy you about 2 seconds of extra time before you ignite now. It’s quite a big change.
 
 23.
-Q: **Video 4**
+Q: Video question coming soon! While we work on adding video questions here, you can visit the #dev-q-and-a channel in the official World of Tanks: HEAT discord server.
 A: (Rickles) So, both Napalm and fire got this change, and all the derived effects that come from them have it applied as well. Just know that Napalm is worse than fire. As you can see the status here is just enough that if you drive through it twice, it sets you on fire. ABVs will only need to think about “Do I go through a deep fire puddle or do I try and spread it out between two points“ I think you can only place eight fire world effects right now at the ABV at any one time, which does mean you have to be a little bit more conservative with your placement, rather than just spreading it all over the place
 
 24.
