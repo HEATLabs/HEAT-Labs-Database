@@ -50,10 +50,10 @@
             "TRACK REPAIR TIME": 4,
             "ENGINE HP": "0",
             "FRONTAL HULL ARMOR": 335,
-            "TURRET FRONTAL ARMOR": "0",
-            "SIDE TURRET ARMOUR": "0",
+            "TURRET FRONTAL ARMOR": "150-400",
+            "SIDE TURRET ARMOUR": "135-390",
             "TURRET RING ARMOR": 200,
-            "HULL SIDE ARMOR": 335,
+            "HULL SIDE ARMOR": 115,
             "FIRE RESISTANCE": 1,
             "INCOMING DAMAGE MITIGATED BY ERA": 450,
             "RADIATION RESISTANCE": 1,
@@ -85,9 +85,9 @@
             "MAIN ABILITY COOLDOWN": 35,
             "MAIN ABILITY DURATION": 15,
             "MAIN ABILITY HP": 2000,
-            "SECOND ABILITY ENERGY COST": "0",
-            "SECOND ABILITY COOLDOWN": "0",
-            "SECOND ABILITY DURATION": "0",
+            "SECOND ABILITY ENERGY COST": 36,
+            "SECOND ABILITY COOLDOWN": 30,
+            "SECOND ABILITY DURATION": 20,
             "SECOND ABILITY HP": "0"
         }
     }
