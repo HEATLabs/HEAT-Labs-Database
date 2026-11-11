@@ -1,0 +1,23 @@
+{
+  "agents": [
+    {
+      "name": "Ray",
+      "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
+      "specialty": "Electro Vision",
+      "description": "Every enemy within 500m becomes Traced for you for 20s.",
+      "story": "Unknown Agent Story",
+      "compatibleTanks": [
+        {
+          "name": "LOSAT",
+          "image": "https://cdn7.heatlabs.net/tanks/losat/icon_losat.webp",
+          "slug": "losat"
+        },
+        {
+          "name": "M1 Railgun",
+          "image": "https://cdn7.heatlabs.net/tanks/m1-railgun/icon_m1-railgun.webp",
+          "slug": "m1-railgun"
+        }
+      ]
+    }
+  ]
+}
