@@ -3,8 +3,8 @@
     {
       "name": "Ray",
       "image": "https://cdn5.heatlabs.net/placeholder/imagecomingsoon.webp",
-      "specialty": "To be announced",
-      "description": "Information about this agent's abilities is currently unavailable.",
+      "specialty": "Electro Vision",
+      "description": "Every enemy within 500m becomes Traced for you for 20s.",
       "story": "Unknown Agent Story",
       "compatibleTanks": [
         {
@@ -13,9 +13,9 @@
           "slug": "m1-railgun"
         },
         {
-          "name": "PTZ-89C",
-          "image": "https://cdn7.heatlabs.net/tanks/ptz89c/icon_ptz89c.webp",
-          "slug": "ptz89c"
+          "name": "LOSAT",
+          "image": "https://cdn7.heatlabs.net/tanks/losat/icon_losat.webp",
+          "slug": "losat"
         }
       ]
     }
