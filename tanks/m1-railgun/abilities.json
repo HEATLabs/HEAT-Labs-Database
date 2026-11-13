@@ -2,7 +2,7 @@
   "agentAbility": [
     {
       "name": "Electro Vision",
-      "description": "Every enemy within 500m becomes Traced for you for 20s",
+      "description": "Activate an electromagnetic scanning field to make every enemy within a 500m radius Traced for you for a short time.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -10,14 +10,14 @@
   "agentTrait": [
     {
       "name": "Overpenetration",
-      "description": "After penetrating its first target, your shell keeps flying with reduced damage and penetration until it hits a second target",
+      "description": "After penetrating the first target, your shells continue flying with reduced damage and penetration until it hits a second target within a certain distance.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
+      "name": "Charge Shot",
       "description": "Attack Coming Soon",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
@@ -25,14 +25,14 @@
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Hypercharge",
+      "description": "Charge the gun with a surge of energy to boost your shot's penetration and reduce reload time.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Energy APS",
+      "description": "Activate a 360 degree APS that intercepts incoming shells. Shells that are intercepted consume the vehicle's energy.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }

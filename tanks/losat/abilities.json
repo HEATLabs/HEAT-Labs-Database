@@ -2,7 +2,7 @@
   "agentAbility": [
     {
       "name": "Electro Vision",
-      "description": "Every enemy within 500m becomes Traced for you for 20s",
+      "description": "Activate an electromagnetic scanning field to make every enemy within a 500m radius Traced for you for a short time.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
@@ -10,29 +10,29 @@
   "agentTrait": [
     {
       "name": "Overpenetration",
-      "description": "After penetrating its first target, your shell keeps flying with reduced damage and penetration until it hits a second target",
+      "description": "After penetrating the first target, your shells continue flying with reduced damage and penetration until it hits a second target within a certain distance.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "primaryAttack": [
     {
-      "name": "Coming Soon",
-      "description": "Attack Coming Soon",
-      "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
+      "name": "Autoloader",
+      "description": "Allows firing several shots within a short time interval, after that, takes some time to reload empty drum.",
+      "icon": "https://cdn7.heatlabs.net/tanks/hstv-l/abilities/burst.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
   ],
   "tankAbilities": [
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Impulse Shot",
+      "description": "Special kinetic rod projectile that on hit deals medium damage and violently displaces the enemy tank in the direction of travel.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     },
     {
-      "name": "Coming Soon",
-      "description": "Ability Coming Soon",
+      "name": "Scout Drone",
+      "description": "Shooting scout drone from the turret that player can guide. It explodes on first impact and leaves every enemy identified in the area of effect.",
       "icon": "https://cdn7.heatlabs.net/upgrades/upgrade-placeholder.webp",
       "video": "https://cdn5.heatlabs.net/placeholder/videocomingsoon.webm"
     }
